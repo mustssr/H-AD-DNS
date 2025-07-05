@@ -7,8 +7,8 @@ HaGeZi's Allowlist Referral
 HaGeZi's Pro Blocklist  
 
 订阅地址  
-`https://raw.githubusercontent.com/mustssr/H-AD-DNS/refs/heads/main/adguard-rules.txt`  
+`https://gh-proxy.com/https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
 反代理加速订阅地址  
-`https://gh-proxy.com/https://raw.githubusercontent.com/mustssr/H-AD-DNS/refs/heads/main/adguard-rules.txt`  
+`https://gh-proxy.com/https://gh-proxy.com/https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
   
 无责声明：纯纯AI写的，不排除有问题
