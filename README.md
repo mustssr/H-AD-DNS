@@ -5,3 +5,8 @@ uBlock₀ filters – Badware risks
 HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version  
 HaGeZi's Allowlist Referral  
 HaGeZi's Pro Blocklist  
+
+订阅地址  
+`https://raw.githubusercontent.com/mustssr/H-AD-DNS/refs/heads/main/adguard-rules.txt`  
+反代理加速订阅地址  
+`https://gh-proxy.com/https://raw.githubusercontent.com/mustssr/H-AD-DNS/refs/heads/main/adguard-rules.txt`
