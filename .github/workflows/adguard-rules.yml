@@ -1,0 +1,77 @@
+# 工作流的名称
+name: Update AdGuard Home Rules
+
+# 触发工作流的条件
+on:
+  # 1. 允许你手动在 Actions 页面触发此工作流
+  workflow_dispatch:
+
+  # 2. 定时触发：每天凌晨 3:15 (UTC时间) 执行一次
+  # 你可以根据需求修改 cron 表达式
+  schedule:
+    - cron: '15 3 * * *'
+
+# 定义一个名为 'build' 的任务
+jobs:
+  build:
+    # 任务运行的虚拟环境
+    runs-on: ubuntu-latest
+
+    # 任务包含的步骤
+    steps:
+      # 第一步：检出你的仓库代码，这样工作流才能访问你的仓库文件
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第二步：下载、合并和去重规则
+      - name: Fetch, merge and deduplicate rules
+        run: |
+          # 设置临时文件名和最终文件名
+          TEMP_FILE="temp_rules.txt"
+          OUTPUT_FILE="adguard-rules.txt"
+
+          # 源规则列表URL
+          URLS=(
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_53.txt"
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt"
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_8.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_45.txt"
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_48.txt"
+          )
+          
+          # 清空临时文件，防止上次运行的残留
+          > $TEMP_FILE
+
+          # 下载所有规则到临时文件
+          echo "Downloading rules..."
+          for url in "${URLS[@]}"; do
+            curl -sL "$url" >> $TEMP_FILE || echo "Failed to download $url"
+          done
+
+          # 处理文件：去除注释、空行、DOS换行符，然后排序去重
+          echo "Processing rules..."
+          grep -vE "^#|^!|^\s*$" $TEMP_FILE | sed 's/\r$//' | sort -u > $OUTPUT_FILE
+
+          # 清理临时文件
+          rm $TEMP_FILE
+          
+          echo "Done. Final list saved to $OUTPUT_FILE"
+
+      # 第三步：提交并推送更改到仓库
+      - name: Commit and push if changes
+        run: |
+          # 配置 Git 用户信息
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 将生成的文件添加到暂存区
+          git add adguard-rules.txt
+          
+          # 检查是否有文件变动，如果有，则提交并推送
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: Auto update adguard rules on $(date)"
+            git push
+          fi
