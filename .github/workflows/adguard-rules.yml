@@ -3,9 +3,14 @@ name: Update AdGuard Home Rules
 
 # 触发工作流的条件
 on:
+  # 允许手动触发
   workflow_dispatch:
+
+  # 定时触发
   schedule:
-    - cron: '15 3 * * *'
+    # 将 cron 表达式修改为每6小时运行一次
+    # 这会在 UTC 时间的 0点, 6点, 12点, 18点 触发
+    - cron: '0 */6 * * *'
 
 # 定义一个名为 'build' 的任务
 jobs:
@@ -13,12 +18,9 @@ jobs:
     # 任务运行的虚拟环境
     runs-on: ubuntu-latest
 
-    # ===============================================================
-    # ↓↓↓ 新增这部分来授予写权限 ↓↓↓
+    # 授予工作流写入仓库内容的权限
     permissions:
       contents: write
-    # ↑↑↑ 新增这部分来授予写权限 ↑↑↑
-    # ===============================================================
 
     # 任务包含的步骤
     steps:
@@ -26,33 +28,41 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 第二步：下载、合并和去重规则
-      - name: Fetch, merge and deduplicate rules
+      # 第二步：下载、合并、去重并添加头部信息
+      - name: Fetch, merge, deduplicate, and add header
         run: |
           TEMP_FILE="temp_rules.txt"
           OUTPUT_FILE="adguard-rules.txt"
           URLS=(
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_53.txt"
+            # AWAvenue Ads Rule
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt"
-            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_8.txt"
+            # uBlock₀ filters – Badware risks
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
+            # HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_45.txt"
+            # HaGeZi's Allowlist Referral
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_48.txt"
+            # HaGeZi's Pro Blocklist
           )
           
-          > $TEMP_FILE
-
           echo "Downloading rules..."
+          > $TEMP_FILE
           for url in "${URLS[@]}"; do
             curl -sL "$url" >> $TEMP_FILE || echo "Failed to download $url"
           done
 
-          echo "Processing rules..."
-          grep -vE "^#|^!|^\s*$" $TEMP_FILE | sed 's/\r$//' | sort -u > $OUTPUT_FILE
+          echo "Processing rules and adding header..."
+          (
+            echo "! Title: H-AD-DNS"
+            echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
+            echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | wc -l)"
+            echo ""
+            grep -vE "^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u
+          ) > $OUTPUT_FILE
 
           rm $TEMP_FILE
-          
-          echo "Done. Final list saved to $OUTPUT_FILE"
+          echo "Done. Final list with header saved to $OUTPUT_FILE"
 
       # 第三步：提交并推送更改到仓库
       - name: Commit and push if changes
@@ -65,6 +75,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: Auto update adguard rules on $(date)"
+            git commit -m "feat: Update rules and metadata on $(TZ='Asia/Shanghai' date)"
             git push
           fi
