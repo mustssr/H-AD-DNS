@@ -35,10 +35,15 @@ jobs:
           OUTPUT_FILE="adguard-rules.txt"
           URLS=(
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_53.txt"
+            # AWAvenue Ads Rule
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt"
+            # uBlock₀ filters – Badware risks
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
+            # HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_45.txt"
+            # HaGeZi's Allowlist Referral
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_48.txt"
+            # HaGeZi's Pro Blocklist
           )
           
           echo "Downloading rules..."
@@ -51,9 +56,11 @@ jobs:
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
+            # --- 修正点 1 ---
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | wc -l)"
             echo ""
-            grep -vE "^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u
+            # --- 修正点 2 ---
+            grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u
           ) > $OUTPUT_FILE
 
           rm $TEMP_FILE
