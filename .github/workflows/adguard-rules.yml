@@ -43,6 +43,8 @@ jobs:
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
               # HaGeZi's Normal DNS Blocklist
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+              # 1Hosts (Lite)
+            "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
           )
           
           echo "Downloading rules..."
