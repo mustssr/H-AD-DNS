@@ -4,8 +4,8 @@ AWAvenue Ads Rule
 uBlock₀ filters – Badware risks  
 HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version  
 HaGeZi's Allowlist Referral  
-HaGeZi's Normal DNS Blocklist
-1Hosts (Lite)
+HaGeZi's Normal DNS Blocklist  
+1Hosts (Lite)  
 
 订阅地址  
 `https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
