@@ -34,15 +34,15 @@ jobs:
           TEMP_FILE="temp_rules.txt"
           OUTPUT_FILE="adguard-rules.txt"
           URLS=(
-            # AWAvenue Ads Rule
+              # AWAvenue Ads Rule
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_53.txt"
-            # uBlock₀ filters – Badware risks
+              # uBlock₀ filters – Badware risks
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt"
-            # HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
+              # HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
-            # HaGeZi's Allowlist Referral
+              # HaGeZi's Allowlist Referral
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_45.txt"
-            # HaGeZi's Pro Blocklist
+              # HaGeZi's Pro Blocklist
             "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_48.txt"
           )
           
