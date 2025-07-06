@@ -17,15 +17,15 @@ jobs:
     # 任务运行的虚拟环境
     runs-on: ubuntu-latest
 
+    # 授予工作流写入仓库内容的权限
+    permissions:
+      contents: write
+
     # 任务包含的步骤
     steps:
       # 第一步：检出你的仓库代码
-      # 关键改动(1): 使用你的个人访问令牌 (PAT) 来检出代码。
-      # 这样后续的 git 操作将以你的身份（管理员）进行，从而绕过分支保护规则。
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.ACTION_PAT }}
 
       # 第二步：下载、合并、去重并添加头部信息
       - name: Fetch, merge, deduplicate, and add header
@@ -55,8 +55,10 @@ jobs:
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
+            # --- 修正点 1 ---
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | wc -l)"
             echo ""
+            # --- 修正点 2 ---
             grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u
           ) > $OUTPUT_FILE
 
@@ -64,14 +66,16 @@ jobs:
           echo "Done. Final list with header saved to $OUTPUT_FILE"
 
       # 第三步：提交并推送更改到仓库
-      # 关键改动(2): 使用一个专门的 Action 来自动提交和推送。
-      # 它会自动检测文件变化，并使用 checkout 步骤中设置好的 PAT 进行推送。
-      # 这样更简洁、更稳定。
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "feat: Auto-update AdGuard rules"
-          # 确保指定正确的文件名，如果只修改这一个文件
-          file_pattern: adguard-rules.txt
-          # 推送到主分支
-          branch: main
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add adguard-rules.txt
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "feat: Update rules and metadata on $(TZ='Asia/Shanghai' date)"
+            git push
+          fi
