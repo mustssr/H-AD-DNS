@@ -42,6 +42,8 @@ jobs:
           ||test11111111111111111111111111111.com^
           # 蓝奏云
           ||dmpdmp.com^
+          # 手机web百度搜索
+          ||suggestion.baidu.com^
           EOF
 
           URLS=(
