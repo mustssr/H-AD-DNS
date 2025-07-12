@@ -31,6 +31,7 @@ jobs:
         run: |
           # 定义源URL和输出文件路径
           URL="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+          # --- 修改点 1: 更改输出目录 ---
           OUTPUT_DIR="easylist"
           OUTPUT_FILE="$OUTPUT_DIR/easylistah.txt"
           TEMP_FILE="temp_easylist.txt"
@@ -39,16 +40,10 @@ jobs:
           mkdir -p "$OUTPUT_DIR"
 
           echo "正在从 $URL 下载规则..."
-          # 使用 curl 下载文件，如果下载失败则报错并退出
           curl -sL --fail "$URL" -o "$TEMP_FILE" || { echo "错误：下载规则文件失败。"; exit 1; }
 
           echo "正在处理规则：筛选、去重并排序..."
-          # 核心处理步骤：
-          # 1. 使用 awk 筛选出以 '||' 开头且以 '^' 结尾的行
-          #    - /^\|\|/ 匹配以 '||' 开头的行（'|'需要转义）
-          #    - /\^$/ 匹配以 '^' 结尾的行（'^'需要转义）
-          # 2. 使用 sed 删除可能存在的 Windows 换行符（\r）
-          # 3. 使用 sort -u 进行排序和去重
+          # 核心处理步骤：筛选出以 '||' 开头且以 '^' 结尾的行，然后去重排序
           awk '/^\|\|/ && /\^$/' "$TEMP_FILE" | sed 's/\r$//' | sort -u > "$OUTPUT_FILE"
 
           echo "清理临时文件..."
@@ -63,8 +58,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # 将新的规则文件添加到 Git暂存区
-          git add main/easylist/easylistah.txt
+          # --- 修改点 2: 更新 git add 的路径 ---
+          git add easylist/easylistah.txt
           
           # 检查是否有文件变动
           if git diff --staged --quiet; then
