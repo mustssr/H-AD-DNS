@@ -4,7 +4,7 @@ AWAvenue Ads Rule
 uBlock₀ filters – Badware risks  
 HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version  
 HaGeZi's Allowlist Referral  
-HaGeZi's Normal DNS Blocklist  
+OISD Blocklist Small
 1Hosts (Lite)  
 
 订阅地址  
