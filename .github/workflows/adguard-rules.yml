@@ -55,8 +55,8 @@ jobs:
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
             # HaGeZi's Allowlist Referral
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
-            # HaGeZi's Normal DNS Blocklist
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+            # OISD Blocklist Small
+            "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_5.txt"
             # 1Hosts (Lite)
             "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
           )
