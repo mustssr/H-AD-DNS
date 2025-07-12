@@ -9,7 +9,7 @@ on:
 
 # =========================================================================
 # --- 全局配置区 ---
-# 在这里统一定义所有规则列表和删除列表。URL已修正。
+# 在这里统一定义所有规则列表和删除列表。
 # =========================================================================
 env:
   # --- 基础规则列表 ---
@@ -55,13 +55,13 @@ jobs:
           OUTPUT_FILE="adguard-rules.txt"
           
           readarray -t URLS < <(echo "${{ env.BASE_URLS }}" | grep -vE '^\s*#|^\s*$')
-          echo "${{ env.DELETELIST_CONTENT }}" > deletelist.txt
+          # 创建一个干净的、不含注释的删除列表文件
+          echo "${{ env.DELETELIST_CONTENT }}" | grep -vE '^\s*#|^\s*$' > deletelist.txt
 
           echo "Downloading base rules..."
           > $TEMP_FILE
           for url in "${URLS[@]}"; do
             [[ -z "$url" ]] && continue
-            # --- 核心修正: 回归原始脚本的宽容下载模式，移除 --fail ---
             curl -sL "$url" >> $TEMP_FILE || echo "Warning: Failed to download '$url'. Continuing..."
           done
 
@@ -69,9 +69,11 @@ jobs:
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
+            # 计算总数的命令不需要修改，因为 wc -l 总是成功
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
-            grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt
+            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
+            grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
           rm $TEMP_FILE deletelist.txt
@@ -95,13 +97,12 @@ jobs:
           readarray -t EXTRA_URLS_ARR < <(echo "${{ env.EXTRA_URLS }}" | grep -vE '^\s*#|^\s*$')
           URLS=("${BASE_URLS_ARR[@]}" "${EXTRA_URLS_ARR[@]}")
 
-          echo "${{ env.DELETELIST_CONTENT }}" > deletelist.txt
+          echo "${{ env.DELETELIST_CONTENT }}" | grep -vE '^\s*#|^\s*$' > deletelist.txt
 
           echo "Downloading extended rules..."
           > $TEMP_FILE
           for url in "${URLS[@]}"; do
             [[ -z "$url" ]] && continue
-            # --- 核心修正: 回归原始脚本的宽容下载模式，移除 --fail ---
             curl -sL "$url" >> $TEMP_FILE || echo "Warning: Failed to download '$url'. Continuing..."
           done
 
@@ -111,7 +112,8 @@ jobs:
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
-            grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt
+            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
+            grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
           rm $TEMP_FILE deletelist.txt
