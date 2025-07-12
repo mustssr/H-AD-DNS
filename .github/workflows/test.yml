@@ -1,0 +1,73 @@
+# 工作流的名称
+name: Update EasyList2 China Rules
+
+# 触发工作流的条件
+on:
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 定时触发（每8小时运行一次）
+  schedule:
+    - cron: '0 */8 * * *'
+
+# 定义一个名为 'build' 的任务
+jobs:
+  build:
+    # 任务运行的虚拟环境
+    runs-on: ubuntu-latest
+
+    # 授予工作流写入仓库内容的权限
+    permissions:
+      contents: write
+
+    # 任务包含的步骤
+    steps:
+      # 第一步：检出你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第二步：下载并处理规则列表
+      - name: Download and Process EasyList Rules
+        run: |
+          # 定义源URL和输出文件路径
+          URL="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+          OUTPUT_DIR="easylist"
+          OUTPUT_FILE="$OUTPUT_DIR/easylistah.txt"
+          TEMP_FILE="temp_easylist.txt"
+
+          echo "正在创建输出目录 (如果不存在)..."
+          mkdir -p "$OUTPUT_DIR"
+
+          echo "正在从 $URL 下载规则..."
+          curl -sL --fail "$URL" -o "$TEMP_FILE" || { echo "错误：下载规则文件失败。"; exit 1; }
+
+          echo "正在处理规则：删除不兼容AdGuardHome的行、去重并排序..."
+          # --- 核心修改 ---
+          # AdGuard Home 不支持元素隐藏规则（包含 '##' 的行），因为它是DNS级别的拦截器。
+          # 我们使用 grep -v '##' 来删除所有包含 '##' 的行，从而移除这些不兼容的规则。
+          # 这样可以保留所有其他兼容的规则，如域名拦截(||), 例外规则(@@)和注释(!)。
+          # 这比原先只保留 '||...^' 的方法更全面、更有效。
+          grep -v '##' "$TEMP_FILE" | sed 's/\r$//' | sort -u > "$OUTPUT_FILE"
+
+          echo "清理临时文件..."
+          rm "$TEMP_FILE"
+
+          echo "处理完成。最终列表已保存到 $OUTPUT_FILE"
+          echo "总规则数：$(wc -l < "$OUTPUT_FILE")"
+
+      # 第三步：提交并推送更改到仓库
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          git add easylist/easylistah2.txt
+          
+          # 检查是否有文件变动
+          if git diff --staged --quiet; then
+            echo "文件无变化，无需提交。"
+          else
+            # 如果有变化，则提交并推送
+            git commit -m "feat: 更新EasyList规则 (AGH兼容版) $(TZ='Asia/Shanghai' date)"
+            git push
+          fi
