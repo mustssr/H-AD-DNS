@@ -1,0 +1,76 @@
+# 工作流的名称
+name: Update EasyList China Rules
+
+# 触发工作流的条件
+on:
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 定时触发（每8小时运行一次）
+  schedule:
+    - cron: '0 */8 * * *'
+
+# 定义一个名为 'build' 的任务
+jobs:
+  build:
+    # 任务运行的虚拟环境
+    runs-on: ubuntu-latest
+
+    # 授予工作流写入仓库内容的权限
+    permissions:
+      contents: write
+
+    # 任务包含的步骤
+    steps:
+      # 第一步：检出你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第二步：下载并处理规则列表
+      - name: Download and Process EasyList Rules
+        run: |
+          # 定义源URL和输出文件路径
+          URL="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+          OUTPUT_DIR="main/easylist"
+          OUTPUT_FILE="$OUTPUT_DIR/easylistah.txt"
+          TEMP_FILE="temp_easylist.txt"
+
+          echo "正在创建输出目录 (如果不存在)..."
+          mkdir -p "$OUTPUT_DIR"
+
+          echo "正在从 $URL 下载规则..."
+          # 使用 curl 下载文件，如果下载失败则报错并退出
+          curl -sL --fail "$URL" -o "$TEMP_FILE" || { echo "错误：下载规则文件失败。"; exit 1; }
+
+          echo "正在处理规则：筛选、去重并排序..."
+          # 核心处理步骤：
+          # 1. 使用 awk 筛选出以 '||' 开头且以 '^' 结尾的行
+          #    - /^\|\|/ 匹配以 '||' 开头的行（'|'需要转义）
+          #    - /\^$/ 匹配以 '^' 结尾的行（'^'需要转义）
+          # 2. 使用 sed 删除可能存在的 Windows 换行符（\r）
+          # 3. 使用 sort -u 进行排序和去重
+          awk '/^\|\|/ && /\^$/' "$TEMP_FILE" | sed 's/\r$//' | sort -u > "$OUTPUT_FILE"
+
+          echo "清理临时文件..."
+          rm "$TEMP_FILE"
+
+          echo "处理完成。最终列表已保存到 $OUTPUT_FILE"
+          echo "总规则数：$(wc -l < "$OUTPUT_FILE")"
+
+      # 第三步：提交并推送更改到仓库
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 将新的规则文件添加到 Git暂存区
+          git add main/easylist/easylistah.txt
+          
+          # 检查是否有文件变动
+          if git diff --staged --quiet; then
+            echo "文件无变化，无需提交。"
+          else
+            # 如果有变化，则提交并推送
+            git commit -m "feat: 更新EasyList规则 $(TZ='Asia/Shanghai' date)"
+            git push
+          fi
