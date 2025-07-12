@@ -5,6 +5,7 @@ uBlock₀ filters – Badware risks
 HaGeZi's Allowlist Referral  
 OISD Blocklist Small  
 1Hosts (Lite)  
+部分easylist+easylist china  
 
 订阅地址  
 `https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
