@@ -9,10 +9,10 @@ on:
 
 # =========================================================================
 # --- 全局配置区 ---
-# 在这里统一定义所有规则列表和删除列表，实现“一次定义，多处使用”。
+# 在这里统一定义所有规则列表和删除列表。URL已修正。
 # =========================================================================
 env:
-  # --- 基础规则列表---
+  # --- 基础规则列表 ---
   BASE_URLS: |
     # AWAvenue Ads Rule
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_53.txt
@@ -27,7 +27,7 @@ env:
     # easylistchina+easylist
     https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/easylistah.txt
 
-  # --- 额外规则列表---
+  # --- 额外规则列表 ---
   EXTRA_URLS: |
     # AdGuard DNS Popup Hosts filter
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_59.txt
@@ -54,21 +54,18 @@ jobs:
           TEMP_FILE="temp_rules_base.txt"
           OUTPUT_FILE="adguard-rules.txt"
           
-          # 从环境变量读取 URL 列表，并使用 grep 过滤掉注释行和空行
           readarray -t URLS < <(echo "${{ env.BASE_URLS }}" | grep -vE '^\s*#|^\s*$')
-
-          # 从环境变量创建删除列表文件
           echo "${{ env.DELETELIST_CONTENT }}" > deletelist.txt
 
-          echo "Downloading base rules for adguard-rules.txt..."
+          echo "Downloading base rules..."
           > $TEMP_FILE
           for url in "${URLS[@]}"; do
-            # 跳过可能存在的空条目
             [[ -z "$url" ]] && continue
-            curl -sL --fail "$url" >> $TEMP_FILE || echo "Failed to download $url"
+            # --- 核心修正: 回归原始脚本的宽容下载模式，移除 --fail ---
+            curl -sL "$url" >> $TEMP_FILE || echo "Warning: Failed to download '$url'. Continuing..."
           done
 
-          # 处理逻辑保持不变
+          echo "Processing base rules..."
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
@@ -94,23 +91,21 @@ jobs:
           TEMP_FILE="temp_rules_extended.txt"
           OUTPUT_FILE="adguard-rules2.txt"
 
-          # 从环境变量读取并过滤基础和额外 URL 列表
           readarray -t BASE_URLS_ARR < <(echo "${{ env.BASE_URLS }}" | grep -vE '^\s*#|^\s*$')
           readarray -t EXTRA_URLS_ARR < <(echo "${{ env.EXTRA_URLS }}" | grep -vE '^\s*#|^\s*$')
-          # 合并两个数组
           URLS=("${BASE_URLS_ARR[@]}" "${EXTRA_URLS_ARR[@]}")
 
-          # 从环境变量创建删除列表文件
           echo "${{ env.DELETELIST_CONTENT }}" > deletelist.txt
 
-          echo "Downloading extended rules for adguard-rules2.txt..."
+          echo "Downloading extended rules..."
           > $TEMP_FILE
           for url in "${URLS[@]}"; do
             [[ -z "$url" ]] && continue
-            curl -sL --fail "$url" >> $TEMP_FILE || echo "Failed to download $url"
+            # --- 核心修正: 回归原始脚本的宽容下载模式，移除 --fail ---
+            curl -sL "$url" >> $TEMP_FILE || echo "Warning: Failed to download '$url'. Continuing..."
           done
 
-          # 处理逻辑保持不变
+          echo "Processing extended rules..."
           (
             echo "! Title: H-AD-DNS-PLUS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
