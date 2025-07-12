@@ -2,7 +2,6 @@
 整合规则如下  
 AWAvenue Ads Rule  
 uBlock₀ filters – Badware risks  
-HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version  
 HaGeZi's Allowlist Referral  
 OISD Blocklist Small
 1Hosts (Lite)  
