@@ -40,8 +40,10 @@ jobs:
           cat > "$DELETELIST_FILE" << EOF
           # 示例
           ||test11111111111111111111111111111.com^
-          # 蓝奏云
+          # 蓝奏云下载
           ||dmpdmp.com^
+          # 手机web百度搜索
+          ||suggestion.baidu.com^
           EOF
 
           URLS=(
