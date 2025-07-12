@@ -15,22 +15,22 @@ env:
   # --- 基础规则列表---
   BASE_URLS: |
     # AWAvenue Ads Rule
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_53.txt
+    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_53.txt
     # uBlock₀ filters – Badware risks
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_50.txt
+    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_50.txt
     # HaGeZi's Allowlist Referral
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
     # OISD Blocklist Small
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_5.txt
+    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_5.txt
     # 1Hosts (Lite)
     https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
     # easylistchina+easylist
-    https://raw.githubusercontent.com/mustssr/H-AD-DNS/refs/heads/main/easylist/easylistah.txt
+    https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/easylistah.txt
 
   # --- 额外规则列表---
   EXTRA_URLS: |
     # AdGuard DNS Popup Hosts filter
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_59.txt
+    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_59.txt
     # HaGeZi's Ban Doh
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
     # HaGeZi Threat Intelligence Feeds - IPs
