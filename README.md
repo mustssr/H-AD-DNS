@@ -3,7 +3,7 @@
 AWAvenue Ads Rule  
 uBlock₀ filters – Badware risks  
 HaGeZi's Allowlist Referral  
-OISD Blocklist Small
+OISD Blocklist Small  
 1Hosts (Lite)  
 
 订阅地址  
