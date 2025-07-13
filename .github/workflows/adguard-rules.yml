@@ -33,8 +33,6 @@ env:
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_59.txt
     # HaGeZi's Ban Doh
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-    # HaGeZi Threat Intelligence Feeds - IPs
-    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt
     # HaGeZi's Gambling DNS Blocklist - mini version
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt
 
