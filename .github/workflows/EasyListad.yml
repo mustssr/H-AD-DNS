@@ -30,7 +30,7 @@ jobs:
       - name: Download and Process EasyList Rules
         run: |
           # 定义源URL和输出文件路径
-          URL="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+          URL="https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
           # --- 修改点 1: 更改输出目录 ---
           OUTPUT_DIR="easylist"
           OUTPUT_FILE="$OUTPUT_DIR/easylistah.txt"
