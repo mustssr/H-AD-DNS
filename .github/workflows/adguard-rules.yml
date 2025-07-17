@@ -15,13 +15,11 @@ env:
   # --- 基础规则列表 ---
   BASE_URLS: |
     # AWAvenue Ads Rule
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_53.txt
+    https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
     # uBlock₀ filters – Badware risks
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_50.txt
     # HaGeZi's Allowlist Referral
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
-    # OISD Blocklist Small
-    https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_5.txt
     # 1Hosts (Lite)
     https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
     # easylistchina+easylist
@@ -33,8 +31,6 @@ env:
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_59.txt
     # HaGeZi's Ban Doh
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
-    # HaGeZi's Gambling DNS Blocklist - mini version
-    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt
 
   # --- 统一的自定义删除列表 ---
   DELETELIST_CONTENT: |
