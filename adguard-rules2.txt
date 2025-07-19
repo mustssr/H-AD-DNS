@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-19-04:36PM(UTC+8)
-! Total rules: 71931
+! Last modified: 2025-07-20-12:36AM(UTC+8)
+! Total rules: 71943
 
 -ez-pass.com^
 /.*.1rtb.com/
@@ -25,6 +25,7 @@
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
+/^https:\/\/[a-z]{3,30}\.[a-z]{2,4}\/socket\.io\/socket\.io\.js$/$script,1p,strict1p,match-case,domain=ci|ge|eu|life,header=nel:/report_to":"cf-nel/
 /_dating\d\/index\.html\?aref=/
 /cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 ://backcb.one^
@@ -10666,6 +10667,8 @@
 ||ardsvenipedeon.com^
 ||area51.mywire.org^
 ||areagrammanor.com^
+||areallrea.com^
+||arealrea.com^
 ||areamindless.com^
 ||areantaid.site^$dnsrewrite=ad-block.dns.adguard.com
 ||areasnap.com^
@@ -14282,6 +14285,7 @@
 ||brighttoe.com^
 ||brilig.com^
 ||brilliant-party.pro^
+||brilliant.ohana-pilina.com^
 ||brilliantclosingcancel.com^
 ||brilliantcollector.com^
 ||brilliantdigital.com^
@@ -33694,6 +33698,7 @@
 ||inres.uspech.sk^
 ||inrhyhorntor.com^
 ||ins.connatix.com^
+||ins7ki.com^
 ||insafe.ucweb.com^
 ||insanetrack.com^
 ||insanitycongestion.com^
@@ -35096,6 +35101,7 @@
 ||jp1.f7b6h9.tk^
 ||jp1media.com^
 ||jp2.ooroot.com^
+||jp84434.com^
 ||jpaaktolm.com^
 ||jpalmowraat.com^
 ||jpamamzux.com^
@@ -37103,6 +37109,7 @@
 ||lgumeekgcqlwigm.com^
 ||lgvlbd.icu^
 ||lgvowkkifkdzk.online^
+||lgz7820.com^
 ||lgzfcnvbjiny.global^
 ||lh.biuneimpot.com^
 ||lh.eysheik.com^
@@ -37289,6 +37296,7 @@
 ||lines.fxmwjjeusmulsjf.com^
 ||lines.hdaprocqxmthax.com^
 ||linestats.casa^
+||linez7820.com^
 ||lingerincle.com^
 ||lingosurveys.com^
 ||linguette.net^
@@ -44451,6 +44459,7 @@
 ||nonsynchronous.yachts^
 ||nontraditionally.rest^
 ||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
+||nontymontylle.jp^
 ||nonya.narwagener.shop^
 ||noodle.backmarket.io^
 ||noodlequack.top^
@@ -48074,6 +48083,7 @@
 ||pinatascreels.world^
 ||pinataslaurent.top^
 ||pineapplecake-yummy.com^
+||pinehollow-glade.com^
 ||pinercapone.shop^
 ||pinesapshalako.world^
 ||pinetech.vn^
@@ -51723,6 +51733,7 @@
 ||reamsofcryingfor.org^
 ||rear9axis.com^
 ||rearcomrade.com^
+||rearealrea.com^
 ||rearedblemishwriggle.com^
 ||reariimime.com^
 ||reasonable-source.com^
@@ -61730,6 +61741,7 @@
 ||tg.poohpeachen.shop^
 ||tg.unveilsgavage.com^
 ||tg1.premiumimpression.com^
+||tg525.com^
 ||tganalytics.xyz^
 ||tgb.hsmedia.ru^
 ||tgb1l.icu^
