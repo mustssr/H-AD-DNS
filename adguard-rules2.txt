@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-20-04:35PM(UTC+8)
-! Total rules: 72203
+! Last modified: 2025-07-21-12:35AM(UTC+8)
+! Total rules: 72205
 
 -ez-pass.com^
 /.*.1rtb.com/
@@ -25,7 +25,6 @@
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
-/^https:\/\/[a-z]{3,30}\.[a-z]{2,4}\/socket\.io\/socket\.io\.js$/$script,1p,strict1p,match-case,domain=ci|ge|eu|life,header=nel:/report_to":"cf-nel/
 /_dating\d\/index\.html\?aref=/
 /cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 ://backcb.one^
@@ -44757,6 +44756,7 @@
 ||nplaf.com^
 ||nplvdodbja.com^
 ||npmkphjlws.xyz^
+||npnjs.com^
 ||npohfiolcotk.com^
 ||nppbvulfelsx.xyz^
 ||npttech.com^
@@ -59712,6 +59712,8 @@
 ||steeringsunshine.com^
 ||stejikjc.com^
 ||stella-nova.click^
+||stellar-coin.com^
+||stellar-stb.com^
 ||stellarium.es^
 ||stellarium.fr^
 ||stelronsi.net^
