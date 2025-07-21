@@ -1,8 +1,10 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-21-04:46PM(UTC+8)
-! Total rules: 72754
+! Last modified: 2025-07-22-12:39AM(UTC+8)
+! Total rules: 72763
 
 -ez-pass.com^
+-ndax-*.webflow.io^
+-sso-*.webflow.io^
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
 /.*.ad.gameley.com/
@@ -1983,6 +1985,7 @@
 ||888promos.com^
 ||888xx222kk.com^
 ||889dbee9c9.com^
+||88ad.top^
 ||88bb36fab4.com^
 ||88btbtt.com^
 ||88eq7spm.de^
@@ -22130,6 +22133,7 @@
 ||dhl-event.app^
 ||dhl-express-ppd.infanion.com^
 ||dhl-rpa-portal.infanion.com^
+||dhl.*.potabox.com^
 ||dhl.135320.com^
 ||dhldeliveryhome2.info^
 ||dhlproductosyservicios.com^
@@ -22914,7 +22918,6 @@
 ||dns.eddi.net^
 ||dns.edgy.network^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -43195,6 +43198,7 @@
 ||mpg.taboola.com^
 ||mpgnodally.qpon^
 ||mpianalytics.com^
+||mpinsureit.com^
 ||mpio.io^
 ||mplam.com^
 ||mplaylist-ads.zadn.vn^
@@ -43412,6 +43416,7 @@
 ||mtizl.ugg.com^
 ||mtj.baidu.com^
 ||mtkgyrzfygdh.com^
+||mtm.rnz.mybluehost.me^
 ||mtm.walls.io^
 ||mtnukovxnnwjc.website^
 ||mto.cgv.vn^
@@ -50677,6 +50682,7 @@
 ||pubinteractive.ca^
 ||pubiza.com^
 ||publi.atresmediapublicidad.com^
+||public---sso--ndax--x---cdn.webflow.io^
 ||public-gcs.subiz-cdn.com^
 ||public-trace-http-intake.logs.datadoghq.com^
 ||public-trace-http-intake.logs.datadoghq.eu^
@@ -54628,6 +54634,7 @@
 ||sansipegoxyl.cyou^
 ||santanagrey.com^
 ||santander.*.fino.digital^
+||santander.cf.sandbox.motrada.ch^
 ||santanderpod.*.co.uk^
 ||santosattestation.com^
 ||santyeuskara.rest^
@@ -59270,7 +59277,9 @@
 ||ssm.codes^
 ||ssmjs.rimowa.com^
 ||ssmyuvfxsdpsq.website^
+||sso-*.webflow.io^
 ||sso--en--cobo--trsuted-auth.webflow.io^
+||sso-nndax-io-auth.webflow.io^
 ||sso.biglobe.jp.net^
 ||ssp-ad.momento.dev^
 ||ssp-bcc-ads.com^
