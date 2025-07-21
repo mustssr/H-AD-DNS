@@ -31,6 +31,8 @@ env:
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_59.txt
     # HaGeZi's Ban Doh
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
+    # HaGeZi's Windows/Office Tracker DNS Blocklist
+    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
 
   # --- 统一的自定义删除列表 ---
   DELETELIST_CONTENT: |
