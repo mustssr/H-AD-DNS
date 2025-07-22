@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-22-04:42PM(UTC+8)
-! Total rules: 72847
+! Last modified: 2025-07-23-12:41AM(UTC+8)
+! Total rules: 72835
 
 -ez-pass.com^
 -ndax-*.webflow.io^
@@ -563,6 +563,7 @@
 @@||trk.nomadzdigital.com^
 @@||trk.specialized.com^
 @@||trk.sveltelinks.com^
+@@||trk.teonea.fr^
 @@||ue.flipboard.com^
 @@||ulink.adjust.com^
 @@||unilever*.demdex.net^
@@ -2342,7 +2343,6 @@
 ||a.youdao.com^
 ||a.yuzhainan.com^
 ||a.zdg.de^
-||a.zpn.me^
 ||a.zuowenku.net^
 ||a.zuowenxuan.cn^
 ||a0.app.xiaomi.com^
@@ -3162,7 +3162,6 @@
 ||ad-scope.com^
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.altamob.xiaoying.co^
-||ad-sdk.huxiu.com^
 ||ad-seek.jp^
 ||ad-serve.b-cdn.net^
 ||ad-server.eu^
@@ -4922,7 +4921,6 @@
 ||ads.flashgames247.com^
 ||ads.flipkart.com^
 ||ads.floridatoday.com^
-||ads.flurry.com^
 ||ads.focus-news.net^
 ||ads.fool.com^
 ||ads.footymad.net^
@@ -5101,7 +5099,6 @@
 ||ads.msn.com^
 ||ads.mtgroup.kr^
 ||ads.museum.or.jp^
-||ads.music.126.net^
 ||ads.muslimehelfen.org^
 ||ads.mustangworks.com^
 ||ads.mxhnkn.pro^
@@ -6267,7 +6264,6 @@
 ||adv.ertise.com^
 ||adv.ettoday.net^
 ||adv.famous.bg^
-||adv.fjtv.net^
 ||adv.gepime.com^
 ||adv.herocraft.com^
 ||adv.isdn.cz^
@@ -6519,6 +6515,7 @@
 ||adwx6vcj.com^
 ||adx-ad.smart-tv.cn^
 ||adx-api.bobbleapp.me^
+||adx-bj-req.anythinktech.com^
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
 ||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
@@ -15863,7 +15860,6 @@
 ||cdn.234doo.com^
 ||cdn.8digits.com^
 ||cdn.ad.page^
-||cdn.ad.xiaomi.com^
 ||cdn.addnow.com^
 ||cdn.adfoc.us^
 ||cdn.adivery.com^
@@ -22917,9 +22913,7 @@
 ||dns.dyn1.de^
 ||dns.dynx.pro^
 ||dns.eddi.net^
-||dns.edgy.network^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -23077,7 +23071,6 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -33368,8 +33361,6 @@
 ||ima3vpaid.appspot.com^
 ||imadrep.co.kr^
 ||imads.rediff.com^
-||imag8.pubmatic.com^
-||imag86.pubmatic.com^
 ||image-ad.sm.cn^
 ||image-eu-na-ctnytbefjq.4shares.live^
 ||image-eu.moengage.com^
@@ -33388,7 +33379,6 @@
 ||imageadvantage.net^
 ||imagebet.ph^
 ||imagelx.yidianzixun.com^
-||imageplus.baidu.com^
 ||images-aud.freshmeat.net^
 ||images-dl.taboola.com^
 ||images.adadapted.com^
@@ -33470,7 +33460,6 @@
 ||img.adcaffe.com^
 ||img.adecorp.co.kr^
 ||img.adnyg.com.w.kunlungr.com^
-||img.adnyg.com^
 ||img.adpublisher.com^
 ||img.apnanalytics.com^
 ||img.avatraffic.com^
@@ -38351,7 +38340,6 @@
 ||log.appcdn.top^
 ||log.appstore3.huan.tv^
 ||log.avlyun.com^
-||log.avlyun.sec.intl.miui.com^
 ||log.baocaobang.vn^
 ||log.baodatviet.vn^
 ||log.baogialai.com.vn^
@@ -39529,7 +39517,6 @@
 ||m.ishangtong.com^
 ||m.jjj.cam^
 ||m.ksapisrv.com^
-||m.kubiqq.com^
 ||m.mirmay.com^
 ||m.mxguan.com^
 ||m.qianka.com^
@@ -41637,7 +41624,6 @@
 ||mindscelebrationearnestly.com^
 ||mindspark.com^
 ||mindsparkadvertising.com^
-||mine.baidu.com^
 ||mine.c3pool.com^
 ||mine.xmrpool.net^
 ||minealoftcolumnist.com^
@@ -63178,9 +63164,12 @@
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tnc3-aliec2.bytedance.com^
+||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.toutiaoapi.com^
 ||tnc3-aliec2.zijieapi.com^
 ||tnc3-alisc1.bytedance.com^
+||tnc3-alisc1.snssdk.com^
+||tnc3-alisc1.toutiaoapi.com^
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-alisc2.zijieapi.com^
 ||tnc3-bjlgy.bytedance.com^
@@ -70719,7 +70708,6 @@
 ||www3secure.com^
 ||www4.at.debianbase.de^
 ||www4176uc.sakura.ne.jp^
-||www42.zskwai.com^
 ||www55.totaalholding.nl^
 ||www8.upload-pics.com^
 ||www8.xitek.com^
