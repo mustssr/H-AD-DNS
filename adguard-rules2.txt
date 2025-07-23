@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-23-12:41AM(UTC+8)
-! Total rules: 72835
+! Last modified: 2025-07-23-10:28AM(UTC+8)
+! Total rules: 72842
 
 -ez-pass.com^
 -ndax-*.webflow.io^
@@ -143,6 +143,7 @@
 @@||bfast.com^
 @@||bigcattracks.com^
 @@||bizrate.com^
+@@||bmtrck.com^
 @@||bnc.lt^
 @@||bs.serving-sys.com^
 @@||buff.ly^
@@ -513,6 +514,7 @@
 @@||track.adtraction.com^
 @@||track.canva.com^
 @@||track.connect.travelaudience.com^
+@@||track.cybersafezones.com^
 @@||track.flexlinkspro.com^
 @@||track.glovoapp.com^
 @@||track.grove.co^
@@ -526,6 +528,7 @@
 @@||track.seadform.net^
 @@||track.shoparize.com^
 @@||track.smtp2go.net^
+@@||track.superdry.com^
 @@||track.tenjin.io^
 @@||track.tnm.de^
 @@||track.trafficguard.ai^
@@ -3979,6 +3982,7 @@
 ||adgibbon.com^
 ||adglare.net^
 ||adglare.net^$dnsrewrite=ad-block.dns.adguard.com
+||adglidepro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adgoal.net^
 ||adgoi.com^
 ||adgomob.com^
@@ -17244,6 +17248,7 @@
 ||clickbank.net^
 ||clickbaza.com^
 ||clickbet88.com^
+||clickblitzo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickblitzo.xyz^
 ||clickbooth.com^
 ||clickboothlnk.com^
@@ -22931,6 +22936,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -58259,6 +58265,7 @@
 ||smrt-cdn.com^
 ||smrt.as^
 ||smrtb.com^
+||smrtmnk2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sms.ads.oppomobile.com^
 ||smsafelink.com^
 ||smscentro.com^
