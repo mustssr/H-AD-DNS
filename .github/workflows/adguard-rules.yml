@@ -67,10 +67,8 @@ jobs:
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
-            # 计算总数的命令不需要修改，因为 wc -l 总是成功
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
-            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
             grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
@@ -110,7 +108,6 @@ jobs:
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
-            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
             grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
@@ -147,3 +144,20 @@ jobs:
             git commit -m "feat: Update AdGuard rule files on $(TZ='Asia/Shanghai' date)"
             git push
           fi
+
+  # --- 任务4: 清理旧的 Workflow Runs ---
+  cleanup-runs:
+    needs: commit-and-push
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write # 赋予删除 workflow runs 的权限
+    steps:
+      - name: Delete old workflow runs
+        uses: actions/delete-workflow-runs@v0
+        with:
+          # GitHub Token，自动提供，无需更改
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # 仓库名称，自动获取
+          repository: ${{ github.repository }}
+          # 保留最近的5次运行记录
+          keep_minimum_runs: 5
