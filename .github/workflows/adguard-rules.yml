@@ -147,20 +147,17 @@ jobs:
   # --- 任务4: 清理旧的 Workflow Runs ---
   cleanup-runs:
     needs: commit-and-push
-    if: always() # 确保无论前序任务成功与否，清理任务都会执行
+    if: always() 
     runs-on: ubuntu-latest
     permissions:
-      actions: write # 赋予删除 workflow runs 的权限
+      actions: write 
     steps:
       - name: Delete old workflow runs
-        # --- 这是最终修正后的部分 ---
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          # GitHub Token，自动提供，无需更改
           token: ${{ secrets.GITHUB_TOKEN }}
-          # 仓库名称，自动获取
           repository: ${{ github.repository }}
-          # 保留最近的5次运行记录
           keep_minimum_runs: 5
-          # 只删除当前这个 workflow 的运行记录
-          workflow_id: ${{ github.workflow_id }}
+          # --- 这是最终修正的部分 ---
+          # 使用 workflow 的名称作为匹配模式，确保只删除当前工作流的运行记录
+          delete_workflow_pattern: ${{ github.workflow }}
