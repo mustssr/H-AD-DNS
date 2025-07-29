@@ -159,6 +159,7 @@ jobs:
           repository: ${{ github.repository }}
           keep_minimum_runs: 5
           delete_workflow_pattern: ${{ github.workflow }}
-          # --- 这是最终修正的关键部分 ---
-          # 明确指定要删除哪些状态的 run，这是必需的
           delete_run_by_conclusion_pattern: success,failure,skipped,cancelled
+          # --- 这是最终的、解决问题的关键 ---
+          # 关闭演习模式，真正执行删除操作
+          dry_run: false
