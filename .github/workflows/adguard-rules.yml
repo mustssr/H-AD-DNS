@@ -53,6 +53,7 @@ jobs:
           OUTPUT_FILE="adguard-rules.txt"
           
           readarray -t URLS < <(echo "${{ env.BASE_URLS }}" | grep -vE '^\s*#|^\s*$')
+          # 创建一个干净的、不含注释的删除列表文件
           echo "${{ env.DELETELIST_CONTENT }}" | grep -vE '^\s*#|^\s*$' > deletelist.txt
 
           echo "Downloading base rules..."
@@ -66,8 +67,10 @@ jobs:
           (
             echo "! Title: H-AD-DNS"
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
+            # 计算总数的命令不需要修改，因为 wc -l 总是成功
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
+            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
             grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
@@ -107,6 +110,7 @@ jobs:
             echo "! Last modified: $(TZ='Asia/Shanghai' date +'%Y-%m-%d-%I:%M%p')(UTC+8)"
             echo "! Total rules: $(grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt | wc -l)"
             echo ""
+            # --- 最终修正点: 确保即使没有输出，命令也判定为成功 ---
             grep -vE '^#|^!|^\s*$' $TEMP_FILE | sed 's/\r$//' | sort -u | grep -v -F -f deletelist.txt || true
           ) > $OUTPUT_FILE
 
@@ -143,23 +147,3 @@ jobs:
             git commit -m "feat: Update AdGuard rule files on $(TZ='Asia/Shanghai' date)"
             git push
           fi
-
-  # --- 任务4: 清理旧的 Workflow Runs ---
-  cleanup-runs:
-    needs: commit-and-push
-    if: always() 
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write 
-    steps:
-      - name: Delete old workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          keep_minimum_runs: 5
-          delete_workflow_pattern: ${{ github.workflow }}
-          delete_run_by_conclusion_pattern: success,failure,skipped,cancelled
-          # --- 这是最终的、解决问题的关键 ---
-          # 关闭演习模式，真正执行删除操作
-          dry_run: false
