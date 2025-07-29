@@ -158,6 +158,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
           keep_minimum_runs: 5
-          # --- 这是最终修正的部分 ---
-          # 使用 workflow 的名称作为匹配模式，确保只删除当前工作流的运行记录
           delete_workflow_pattern: ${{ github.workflow }}
+          # --- 这是最终修正的关键部分 ---
+          # 明确指定要删除哪些状态的 run，这是必需的
+          delete_run_by_conclusion_pattern: success,failure,skipped,cancelled
