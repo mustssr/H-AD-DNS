@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-07-30-12:40AM(UTC+8)
-! Total rules: 74571
+! Last modified: 2025-07-30-10:31AM(UTC+8)
+! Total rules: 74576
 
 -ez-pass.com^
 -ndax-*.webflow.io^
@@ -28,7 +28,6 @@
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
 /_dating\d\/index\.html\?aref=/
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 ://backcb.one^
 @@||*-go.kelkoogroup.net^
 @@||*cdn.exponea.com^
@@ -1702,6 +1701,7 @@
 ||5e17.playfabapi.com^
 ||5fbc7e29cd.com^
 ||5fet4fni.de^
+||5fyme6x6uy.com^
 ||5g.o0o.re^
 ||5gxs.org^
 ||5hte21mz.com^
@@ -17180,6 +17180,7 @@
 ||cinema1266.fun^
 ||cinemabonus.com^
 ||cinemark.evergage.com^
+||cinemaup.top^
 ||cinems.club^
 ||cinesartar.cfd^
 ||cint.com^
@@ -23342,7 +23343,6 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -27276,6 +27276,7 @@
 ||f7dcc97ce6.com^
 ||f7j.icu^
 ||f7tkpjw6v.com^
+||f7ugx6b863.com^
 ||f85d290a92.com^
 ||f864fdc049.com^
 ||f866.troyrecord.com^
@@ -46238,6 +46239,7 @@
 ||nuevonoelmid.com^
 ||nueyowipxyuok.store^
 ||nuffnang.com.my^
+||nug07300lu.com^
 ||nuggad.net^
 ||nughaitsoudri.xyz^
 ||nui.media^
@@ -66306,6 +66308,7 @@
 ||trueprofit.io^
 ||trueroas.io^
 ||truevalue.d2.sc.omtrdc.net^
+||truevibe.live^$dnsrewrite=ad-block.dns.adguard.com
 ||truex.com^
 ||truffle.bid^
 ||truffle.one^
@@ -67046,6 +67049,7 @@
 ||udswai.xyz^
 ||uduxztwig.com^
 ||udvlz.org^
+||udwlki.icu^
 ||udxi.cn^
 ||udxsva.com^
 ||udyi.cn^
@@ -68176,6 +68180,7 @@
 ||uttership.pro^
 ||utubepwhml.com^
 ||utumncamethe.com^
+||utve.cn^
 ||utxrjhooc.com^
 ||uu-charisma.jp^
 ||uu.qq.com^
