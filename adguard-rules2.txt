@@ -1,7 +1,12 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-02-04:37PM(UTC+8)
-! Total rules: 74542
+! Last modified: 2025-08-03-12:36AM(UTC+8)
+! Total rules: 74553
 
+*-ad.sm.cn*
+*-ad.video.yximgs.com*
+*-ad.wtzw.com*
+*-be-pack-sign.pglstatp-toutiao.com*
+*-normal.zijieapi.com*
 -ez-pass.com^
 -ndax-*.webflow.io^
 -sso-*.webflow.io^
@@ -6618,6 +6623,7 @@
 ||adx.acsshows.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
+||adx.adwangmai.com^
 ||adx.adxglobal.com^
 ||adx.alimama.com^
 ||adx.apicgate.com^
@@ -11883,6 +11889,7 @@
 ||awfonts.com^
 ||awfulanxiety.pro^
 ||awfvhklildaqv.com^
+||awfyuqoidy.com^
 ||awhauchoa.net^
 ||awheecethe.net^
 ||awhiledad.com^
@@ -19926,6 +19933,7 @@
 ||cuevastrck.com^
 ||cueweliqubbvh.space^
 ||cug.sckxppzdm.com^
+||cui3875.xyz^
 ||cuinageaquilid.com^
 ||cukuix.com^
 ||culbushing.shop^
@@ -62398,6 +62406,7 @@
 ||symantec.evergage.com^
 ||symantec.tt.omtrdc.net^
 ||symantke.com^
+||symjgg.icu^
 ||symmorybewept.com^
 ||sympatheticclassroom.pro^
 ||sympatheticprocedure.pro^
@@ -66967,6 +66976,7 @@
 ||ubimo.com^
 ||ubiquitoussea.com^
 ||ubisoftinternational.demdex.net^
+||ubixioe.com^
 ||ublasklnrnifs.site^
 ||ublock.org^
 ||ublockerext.com^
@@ -74119,6 +74129,7 @@
 ||zh.yomobi.net^
 ||zhandouxian.com^
 ||zhangqifeng12.top^
+||zhangyuyidong.cn^
 ||zhannei-dm.csdn.net^
 ||zhantai.com^
 ||zhanzhang.net^
