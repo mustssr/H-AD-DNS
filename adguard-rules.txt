@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-08-03-04:36PM(UTC+8)
-! Total rules: 71488
+! Last modified: 2025-08-04-12:36AM(UTC+8)
+! Total rules: 71487
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10,7 +10,6 @@
 -ez-pass.com^
 -ndax-*.webflow.io^
 -sso-*.webflow.io^
-//
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/

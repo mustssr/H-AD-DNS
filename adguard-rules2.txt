@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-03-04:36PM(UTC+8)
-! Total rules: 74587
+! Last modified: 2025-08-04-12:36AM(UTC+8)
+! Total rules: 74574
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10,7 +10,6 @@
 -ez-pass.com^
 -ndax-*.webflow.io^
 -sso-*.webflow.io^
-//
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
@@ -3756,15 +3755,11 @@
 ||adblock-genius-download.com^
 ||adblock-pro.org^
 ||adblock-zen.com^
-||adblock.any.dns.nixnet.xyz^
 ||adblock.fr^
 ||adblock.indianets.net^
 ||adblock.krctech.dev^
 ||adblock.leenit.kr^
-||adblock.lux1.dns.nixnet.xyz^
-||adblock.lv1.dns.nixnet.xyz^
 ||adblock.mydns.network^
-||adblock.ny1.dns.nixnet.xyz^
 ||adblock1.com^
 ||adblockanalytics.com^
 ||adblocker-sentinel.net^
@@ -23351,7 +23346,6 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -23369,6 +23363,7 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
+||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -31552,7 +31547,6 @@
 ||gurums.online^
 ||guseyn.space^
 ||gushfilmingbaseless.com^
-||gustamadh.dynv6.net^
 ||gustingsniddle.cyou^
 ||gustoafeds.net^
 ||gustocooking.com^
@@ -40193,7 +40187,6 @@
 ||luvmlp.com^
 ||luvmsite.com^
 ||luvndate.com^
-||lux1.nixnet.xyz^
 ||luxadv.com^
 ||luxcdn.com^
 ||luxembourg.privacy-dns.pw^
@@ -40219,7 +40212,6 @@
 ||luzypntaczbig.website^
 ||lv.adocean.pl^
 ||lv.myapks.com^
-||lv1.nixnet.xyz^
 ||lv9qr0g0.xyz^
 ||lvaazvwzylvbq.top^
 ||lvaazvwzylvyk.top^
@@ -46433,7 +46425,6 @@
 ||nxxkxr.xyz^
 ||ny.outbrain.com^
 ||ny.teradns.org^
-||ny1.nixnet.xyz^
 ||ny77jj.washingtonpost.com^
 ||nya2.com^
 ||nyahao.com^
@@ -67433,10 +67424,6 @@
 ||unc0ver.vip^
 ||uncannynobilityenclose.com^
 ||uncensored-dot.dnswarden.com^
-||uncensored.any.dns.nixnet.xyz^
-||uncensored.lux1.dns.nixnet.xyz^
-||uncensored.lv1.dns.nixnet.xyz^
-||uncensored.ny1.dns.nixnet.xyz^
 ||uncensoreddns.org^
 ||uncernedasesiumw.org^
 ||uncertainencouragement.com^
