@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-07-04:44PM(UTC+8)
-! Total rules: 74267
+! Last modified: 2025-08-08-12:41AM(UTC+8)
+! Total rules: 74274
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14705,6 +14705,7 @@
 ||bruisedpaperworkmetre.com^
 ||bruitsosmols.help^
 ||brujoshooch.shop^
+||brujoshooch.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||brulesmasha.digital^
 ||brulpha.com^
 ||brunchinvitedrocket.com^
@@ -23294,6 +23295,7 @@
 ||dns.dynx.pro^
 ||dns.eddi.net^
 ||dns.editechstudio.com^
+||dns.efficientdocuments.com^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||dns.engineer.web.id^
@@ -23311,7 +23313,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -23452,7 +23453,6 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -23519,6 +23519,7 @@
 ||dns.renardyre.com^
 ||dns.repinger.com^
 ||dns.repinger.my.id^
+||dns.repressoh.it^
 ||dns.retakecs.com^
 ||dns.rin.sh^
 ||dns.roedel.cloud^
@@ -23675,6 +23676,7 @@
 ||dnsforge.de^
 ||dnsguard.pub^
 ||dnslow.me^
+||dnsnl.alekberg.net^
 ||dnsotls.lab.nic.cl^
 ||dnsovertls.sinodun.com^
 ||dnsovertls1.sinodun.com^
@@ -32781,6 +32783,7 @@
 ||home.townisp.com^
 ||home.vividvip.com^
 ||home.wriedts.de^
+||home27.duckdns.org^
 ||home4ugoog10you.com^
 ||homebizplaza.com^
 ||homedepot.demdex.net^
@@ -36567,6 +36570,7 @@
 ||jupiter.sys.miui.com^
 ||juponrerope.com^
 ||juresda.top^
+||jurre-home.duckdns.org^
 ||jursp.com^
 ||jurymengarbled.shop^
 ||juryolympicsspookily.com^
@@ -37469,6 +37473,7 @@
 ||kronos.plan9-dns.com^
 ||kroonitrepans.shop^
 ||kropka.onet.pl^
+||krtekvpn.duckdns.org^
 ||krtlisd.top^
 ||krtnyognzagow.online^
 ||krtrack.kartrocket.co^
@@ -38100,6 +38105,7 @@
 ||leadexpress.nl^
 ||leadfeeder.com^
 ||leadforensics.com^
+||leadgainz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||leadgid.ru^
 ||leadgidads.ru^
 ||leadhit.ru^
@@ -45984,6 +45990,7 @@
 ||norse.mingxiaow.com^
 ||norsinceexactlyamongplait.com^
 ||norsktippingpartner.no^
+||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||northbeam.io^
 ||northdownload.com^
 ||northdownload.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -47898,6 +47905,7 @@
 ||osdkublrgnidm.website^
 ||osdkupdatenw.com^
 ||osdxx.com^
+||osefcorp.duckdns.org^
 ||osficdrqt.com^
 ||osfultrbriolenai.info^
 ||osgozmszygf.com^
@@ -49462,6 +49470,7 @@
 ||phauthunourto.net^
 ||phazaeth.com^
 ||phazashabu.pro^
+||phazashabu.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||phburwtzjusbh.site^
 ||phcde.top^
 ||phcmkqyu.com^
@@ -54010,9 +54019,6 @@
 ||resnubdreich.com^
 ||resolespenide.digital^
 ||resolv.flokinet.net^
-||resolv1.trash.net^
-||resolv2.trash.net^
-||resolv3.trash.net^
 ||resolve.umeng.com^
 ||resolve2.r9x.cc^
 ||resolvedinsaneox.com^
@@ -67314,6 +67320,7 @@
 ||unripewar.com^
 ||unrlkrgiftrzw.site^
 ||unrolltougher.shop^
+||unrolltougher.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||unroofstalaje.shop^
 ||unrotomon.com^
 ||unruly.co^
