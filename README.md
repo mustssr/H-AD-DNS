@@ -1,10 +1,4 @@
 # 自用AdGuardHome规则整合/每8个小时整合一次
-整合规则如下  
-AWAvenue Ads Rule  
-uBlock₀ filters – Badware risks  
-HaGeZi's Allowlist Referral  
-1Hosts (Lite)  
-部分easylist china  
 
 订阅地址  
 `https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
