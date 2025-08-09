@@ -22,8 +22,8 @@ env:
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
     # 1Hosts (Lite)
     https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
-    # easylistchina+easylist
-    #https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/easylistah.txt
+    # easylistchina
+    https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/easylistah.txt
     # 自定义规则
     https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/custom.txt
 
