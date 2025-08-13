@@ -5,7 +5,7 @@ name: Update All AdGuard Home Rules
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 */2 * * *'
+    - cron: '4 */1 * * *'
 
 # =========================================================================
 # --- 全局配置区 ---
