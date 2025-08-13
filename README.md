@@ -4,5 +4,7 @@
 `https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
 反代理加速订阅地址  
 `https://gh-proxy.com/https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
+其他  
+`https://cdn.jsdelivr.net/gh/mustssr/H-AD-DNS@main/adguard-rules.txt`  
   
 无责声明：纯纯AI写的，不排除有问题
