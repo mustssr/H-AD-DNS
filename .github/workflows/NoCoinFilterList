@@ -1,0 +1,74 @@
+# 工作流的名称
+name: Update NoCoin Filter List
+
+# 触发工作流的条件
+on:
+  # 允许手动触发
+  workflow_dispatch:
+
+  # 定时触发（每24小时运行一次）
+  schedule:
+    - cron: '1 4 * * *'
+
+# 定义一个名为 'build' 的任务
+jobs:
+  build:
+    # 任务运行的虚拟环境
+    runs-on: ubuntu-latest
+
+    # 授予工作流写入仓库内容的权限
+    permissions:
+      contents: write
+
+    # 任务包含的步骤
+    steps:
+      # 第一步：检出你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第二步：下载并处理 NoCoin 列表
+      - name: Download and Process NoCoin Host List
+        run: |
+          # --- 修改点 1: 更新源URL和输出文件路径 ---
+          URL="https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+          OUTPUT_DIR="nocoin-filter"
+          OUTPUT_FILE="$OUTPUT_DIR/NoCoinFilterList.txt"
+          TEMP_FILE="temp_nocoin_hosts.txt"
+
+          echo "正在创建输出目录 (如果不存在)..."
+          mkdir -p "$OUTPUT_DIR"
+
+          echo "正在从 $URL 下载规则..."
+          # 下载文件，如果失败则报错退出
+          curl -sL --fail "$URL" -o "$TEMP_FILE" || { echo "错误：下载 hosts 文件失败。"; exit 1; }
+
+          echo "正在处理规则：转换格式、去重并排序..."
+          # --- 修改点 2: 更新文件处理逻辑 ---
+          # 筛选以 "0.0.0.0 " 开头的行，并将其转换为 "||domain.com^" 格式
+          # awk '/^0\.0\.0\.0 / {print "||" $2 "^"}' "$TEMP_FILE" | sort -u > "$OUTPUT_FILE"
+          # 优化版：同时处理 Windows 换行符（\r）
+          awk '/^0\.0\.0\.0 / {print "||" $2 "^"}' "$TEMP_FILE" | sed 's/\r$//' | sort -u > "$OUTPUT_FILE"
+
+          echo "清理临时文件..."
+          rm "$TEMP_FILE"
+
+          echo "处理完成。最终列表已保存到 $OUTPUT_FILE"
+          echo "总规则数：$(wc -l < "$OUTPUT_FILE")"
+
+      # 第三步：提交并推送更改到仓库
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # --- 修改点 3: 更新 git add 的路径 ---
+          git add "$OUTPUT_FILE"
+          
+          # 检查是否有文件变动
+          if git diff --staged --quiet; then
+            echo "文件无变化，无需提交。"
+          else
+            # 如果有变化，则提交并推送
+            git commit -m "feat: Update NoCoinFilterList.txt ($(TZ='Asia/Shanghai' date))"
+            git push
+          fi
