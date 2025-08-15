@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-15-05:21PM(UTC+8)
-! Total rules: 71566
+! Last modified: 2025-08-15-06:20PM(UTC+8)
+! Total rules: 71567
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -64848,6 +64848,7 @@
 ||upcommunity.click^
 ||updaight.com^
 ||update-macosx.com^
+||update-macosx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||update-protection.com^
 ||update-your-pc.info^
 ||update.avlyun.sec.miui.com^
