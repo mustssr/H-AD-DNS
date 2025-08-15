@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-08-15-06:20PM(UTC+8)
-! Total rules: 69922
+! Last modified: 2025-08-15-07:16PM(UTC+8)
+! Total rules: 69923
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15,6 +15,7 @@
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
 /_dating\d\/index\.html\?aref=/
+://account.booking.xn--
 ://backcb.one^
 @@||*-go.kelkoogroup.net^
 @@||*cdn.exponea.com^
