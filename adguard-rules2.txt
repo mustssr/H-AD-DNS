@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-17-05:19PM(UTC+8)
-! Total rules: 71787
+! Last modified: 2025-08-17-06:19PM(UTC+8)
+! Total rules: 71788
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -20820,6 +20820,7 @@
 ||dalecta.com^
 ||daleelerah.info^
 ||daleelerah.info^$dnsrewrite=ad-block.dns.adguard.com
+||daleknutbg.com^
 ||daleriki.com^
 ||dallis.dasntremiped.top^
 ||dalobatter.com^
