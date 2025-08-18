@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-18-04:29PM(UTC+8)
-! Total rules: 71985
+! Last modified: 2025-08-18-05:26PM(UTC+8)
+! Total rules: 71978
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11248,7 +11248,6 @@
 ||atlastwo.com^
 ||atlhjtmjrj.com^
 ||atlier-ad.jp^
-||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||atm.cp31.ott.cibntv.net^
 ||atm.youku.com^
 ||atmenttogether.org^
@@ -14059,6 +14058,7 @@
 ||bootcdn.net^
 ||bootcss.com^
 ||bootingunpickedusable.com^
+||bootpreload.uve.weibo.com^
 ||bootstrap-framework.org^
 ||bootstraplugin.com^
 ||bootsuk.tt.omtrdc.net^
@@ -55037,14 +55037,7 @@
 ||setravieso.com^$dnsrewrite=ad-block.dns.adguard.com
 ||setrowid.com^
 ||settings-analytics.hotstar.com^
-||settings-sandbox.data.microsoft.com^
-||settings-win-ppe.data.microsoft.com^
-||settings-win.data.microsoft.com^
 ||settings.crashlytics.com^
-||settings.data.microsoft.com^
-||settingsfd-geo.trafficmanager.net^
-||settingsfd-ppe.trafficmanager.net^
-||settingsfd-sandbox.trafficmanager.net^
 ||settle1266.fun^
 ||settledapproximatesuit.com^
 ||settledchagrinpass.com^
