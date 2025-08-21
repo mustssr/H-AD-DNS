@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-21-06:20PM(UTC+8)
-! Total rules: 74289
+! Last modified: 2025-08-21-07:16PM(UTC+8)
+! Total rules: 74292
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -13,7 +13,6 @@
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
-/^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/
 /_dating\d\/index\.html\?aref=/
 ://account.booking.xn--
 ://backcb.one^
@@ -886,7 +885,6 @@
 ||16327739.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||164carlsbadcir.com^
 ||164de830.live^$dnsrewrite=ad-block.dns.adguard.com
-||165-227-173-120.plesk.page^
 ||165tchuang.com^
 ||1675450967.rsc.cdn77.org^
 ||167999d759.com^
@@ -1761,7 +1759,6 @@
 ||63715207.xyz^
 ||63801782.xyz^
 ||638236rpn.com^
-||64-226-126-114.plesk.page^
 ||643108e7617ef.cdn.sohucs.com^
 ||644446.com^
 ||646499.shop^
@@ -7963,6 +7960,7 @@
 ||amaenbo.jp^
 ||amafreestop.biz^
 ||amalakale.com^
+||amandes*.serv00.net^
 ||amantssexy.com^
 ||amap-aos-info-nogw.amap.com^
 ||amarceusan.com^
@@ -8170,6 +8168,7 @@
 ||amylo.site^
 ||amyrolrebob.cfd^
 ||amz-dropshipping.com^
+||amz.boy.mybluehost.me^
 ||amz.steamprices.com^
 ||amzinvest.top^
 ||amzrjyzjolbaj.top^
@@ -9744,6 +9743,7 @@
 ||ant.dns.qwer.pw^
 ||ant.spica-telescope.com^
 ||antagonizedetour.com^
+||antai-gouv-fr.troliga.sk^
 ||antananarbdivu.com^
 ||antarctic.com^
 ||antaszeist.life^
@@ -14363,7 +14363,6 @@
 ||boreusorgans.top^
 ||borghaswing.com^
 ||borghjism.com^
-||boring-tesla.149-102-231-176.plesk.page^
 ||boringherbalprewashed.com^
 ||bornmandemicria.co.in^
 ||bororango.com^
@@ -34331,6 +34330,7 @@
 ||impossibleentry.com^
 ||impossibleexpansion.com^
 ||imposterreproductionforeman.com^
+||impotsgouv.*.wcomhost.com^
 ||impoverishedordealscrutinize.com^
 ||imppl.tradedoubler.com^
 ||impr.taboola.com^
@@ -36220,7 +36220,6 @@
 ||joyrodebilbies.cfd^
 ||jp-datareceiver.aki-game.net^
 ||jp-dns1.bancuh.com^
-||jp-helplineweb-chrsmjinfgtizonedswebs-01.s3.ap-southeast-2.amazonaws.com^
 ||jp-tyo-w-p-1.nashkan.net^
 ||jp.rian-rian.com^
 ||jp.rslvr.eu^
@@ -36836,6 +36835,7 @@
 ||kbqihabjlufvf.club^
 ||kbthuhoivontreo.com^
 ||kbujtlqyqxttobk.xyz^
+||kby.oqp.mybluehost.me^
 ||kbylvuaxsrtoi.site^
 ||kbzcg.ryzesuperfoods.com^
 ||kc3mmffdbt.com^
@@ -55841,6 +55841,7 @@
 ||sartolutus.com^
 ||sashtrizone.com^
 ||sasisa.ru^
+||sasktel.mmspos.com^
 ||saspreview.com^
 ||sass2.authcaptcha.com^
 ||sat.terithrow2.net^
@@ -68323,6 +68324,7 @@
 ||vdslkvblwwyrssi.com^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
+||vdv.oqp.mybluehost.me^
 ||ve1.claker.top^
 ||ve1odrome.net^
 ||vealyupstamp.cfd^
@@ -69053,6 +69055,7 @@
 ||vmat.fanpass.net^
 ||vmauw.space^
 ||vmawhaylmkxpv.vip^
+||vmb.wvs.mybluehost.me^
 ||vmcnl.xyz^
 ||vmecbdkpvugpj.website^
 ||vmet.ro^
