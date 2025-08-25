@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-25-02:31PM(UTC+8)
-! Total rules: 74964
+! Last modified: 2025-08-25-03:19PM(UTC+8)
+! Total rules: 74965
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -68084,6 +68084,7 @@
 ||upuplets.com^$dnsrewrite=ad-block.dns.adguard.com
 ||upuppeh.com^
 ||upuppeh.net^
+||upvx.cn^
 ||upwarptaal.shop^
 ||upwwqfvpvbara.site^
 ||upyzqf.cn^
