@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-27-09:25AM(UTC+8)
-! Total rules: 75544
+! Last modified: 2025-08-27-11:01AM(UTC+8)
+! Total rules: 75548
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -21992,6 +21992,7 @@
 ||datesnsluts.com^
 ||datessuppressed.com^
 ||datetrackservice.com^
+||dateyou2024.com^$dnsrewrite=ad-block.dns.adguard.com
 ||datifyny.com^
 ||datiinghuub.com^
 ||datiingpath.com^
@@ -27255,6 +27256,7 @@
 ||evidencestunundermine.com^
 ||evidon.com^
 ||evil-candle.pro^
+||evil-candle.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||evil22.aerostarmodel.buzz^
 ||evilexchanged.com^
 ||evilmods.com^
@@ -54243,6 +54245,7 @@
 ||reallyfreegeoip.org^
 ||reallygoodstuff.evergage.com^
 ||reallyzills.top^
+||reallyzills.top^$dnsrewrite=ad-block.dns.adguard.com
 ||realm-foym.com^
 ||realmatch.com^
 ||realmedia-a592.d4p.net^
@@ -69942,6 +69945,7 @@
 ||villequebec.quebec^
 ||vilynx.com^
 ||vilytaku.com^
+||vilytaku.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vimage.com^
 ||vimeonk.com^
 ||vimeonk.com^$dnsrewrite=ad-block.dns.adguard.com
