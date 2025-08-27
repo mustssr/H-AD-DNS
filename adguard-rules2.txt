@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-27-07:15PM(UTC+8)
-! Total rules: 75346
+! Last modified: 2025-08-27-08:38PM(UTC+8)
+! Total rules: 75350
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -17997,6 +17997,7 @@
 ||cloudserver098095.home.pl^
 ||cloudservice13.kingsoft-office-service.com^
 ||cloudseun.com^
+||cloudshielders.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudsofnews.com^
 ||cloudsonicwave.com^
 ||cloudtrack-camp.com^
@@ -19624,6 +19625,7 @@
 ||cracowehousage.help^
 ||cractica.xyz^
 ||cractivator.com^
+||cractivator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cradaygo.com^
 ||cradaygo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crads.epicsports.com^
@@ -28502,6 +28504,7 @@
 ||fl.floriittee.com^
 ||flabbygrindproceeding.com^
 ||flaegrudad.com^
+||flaegrudad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flag.lab.amplitude.com^
 ||flag.lab.eu.amplitude.com^
 ||flagads.net^
@@ -63849,6 +63852,7 @@
 ||tdbtf.ta3swim.com^
 ||tdc.demdex.net^
 ||tdc.qq.com^
+||tdcegypt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tdcoincore.org^
 ||tddmp.com^
 ||tddz.ksapisrv.com^
