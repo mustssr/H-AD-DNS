@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-28-01:18PM(UTC+8)
-! Total rules: 75363
+! Last modified: 2025-08-28-02:28PM(UTC+8)
+! Total rules: 75366
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15359,6 +15359,7 @@
 ||bycrovalb.com^
 ||byelawsrakis.cfd^
 ||byet.org^
+||byethost41.net^$dnsrewrite=ad-block.dns.adguard.com
 ||byevkj.com^
 ||byfoongusor.com^
 ||bygliscortor.com^
@@ -39267,6 +39268,7 @@
 ||livesession.io^
 ||livesmarter.com^
 ||livesmisdid.cyou^
+||livespacelivekeyrealclub.com^$dnsrewrite=ad-block.dns.adguard.com
 ||livestat.com^
 ||livestat.derstandard.at^
 ||livestreaming24.xyz^
@@ -54856,6 +54858,7 @@
 ||reverselookup.quicksetcloud.com^
 ||reversespelling.com^
 ||revertsskimmia.shop^
+||revertsskimmia.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||reveur-voyance.jp^
 ||revhunter.tech^
 ||revi.rcs.it^
