@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-08-30-09:21PM(UTC+8)
-! Total rules: 76050
+! Last modified: 2025-08-30-10:15PM(UTC+8)
+! Total rules: 76053
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15135,6 +15135,7 @@
 ||buckridge.link^
 ||bucksense.com^
 ||bucksmawger.com^
+||bucksmein.com^$dnsrewrite=ad-block.dns.adguard.com
 ||buckumoore.com^
 ||bucnmtv.top^
 ||bucnwtv.top^
@@ -65093,6 +65094,7 @@
 ||theexcitingsweetflirt.com^
 ||theezodousoak.net^
 ||thefacux.com^
+||thefasthorse.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thefatherofsalmon.com^
 ||thefilter.com^
 ||thefinanceadvice.com^
@@ -72914,6 +72916,7 @@
 ||wtuqaaypj.com^
 ||wu.idismfonts.com^
 ||wu.ramekinicotype.shop^
+||wu2088-604.shop^
 ||wu2088-605.shop^
 ||wu2088-606.shop^
 ||wu2088-607.shop^
