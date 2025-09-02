@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-02-05:20PM(UTC+8)
-! Total rules: 76762
+! Last modified: 2025-09-02-06:20PM(UTC+8)
+! Total rules: 76763
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24952,6 +24952,7 @@
 ||dropdeadgems.org^
 ||dropkickmedia.com^
 ||dropletevaporateumpire.com^
+||droplink.digital^$dnsrewrite=ad-block.dns.adguard.com
 ||droppedternion.shop^
 ||dropsyuveas.life^
 ||dropturiel.shop^
