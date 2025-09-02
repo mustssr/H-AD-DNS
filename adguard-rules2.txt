@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-03-01:15AM(UTC+8)
-! Total rules: 76675
+! Last modified: 2025-09-03-02:24AM(UTC+8)
+! Total rules: 76676
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -61386,6 +61386,7 @@
 ||sortis.lt^
 ||sorucall.com^
 ||sos.azadicdn.com^
+||sosalkebab.com^$dnsrewrite=ad-block.dns.adguard.com
 ||soshoord.com^
 ||sosignamentswithde.org^
 ||sotchoum.com^
