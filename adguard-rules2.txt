@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-03-09:26PM(UTC+8)
-! Total rules: 76789
+! Last modified: 2025-09-03-10:18PM(UTC+8)
+! Total rules: 76790
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9811,6 +9811,7 @@
 ||anime-jl.net^
 ||animeamigos.org^
 ||animeclup.com^
+||animeloundry.com^$dnsrewrite=ad-block.dns.adguard.com
 ||animemeat.com^
 ||animeplaynow.com^
 ||animinefecit.life^
