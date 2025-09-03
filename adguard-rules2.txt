@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-04-05:15AM(UTC+8)
-! Total rules: 76786
+! Last modified: 2025-09-04-06:16AM(UTC+8)
+! Total rules: 76787
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -72603,6 +72603,7 @@
 ||wetrackgames.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wetter.pushwoosh.com^
 ||wettestspanemy.com^
+||wettigo136.com^$dnsrewrite=ad-block.dns.adguard.com
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||wew.dushiwenxue.net^
