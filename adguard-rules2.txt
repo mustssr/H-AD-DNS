@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-03-07:15AM(UTC+8)
-! Total rules: 76681
+! Last modified: 2025-09-03-09:20AM(UTC+8)
+! Total rules: 76683
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -36517,6 +36517,7 @@
 ||iwpkp.xyz^
 ||iwq.pages.dev^
 ||iwqgwgcbrwukf.site^
+||iwqx.cn^
 ||iwtserve.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iwursero.top^
 ||iwuzyhpiwptij.website^
@@ -37225,6 +37226,7 @@
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jpg4.su^
 ||jphvuphqzgyak.icu^
+||jphyjv.icu^
 ||jplsuusayjlfy.com^
 ||jpltclbrnyefiij.com^
 ||jpmkbcgx-o.buzz^
