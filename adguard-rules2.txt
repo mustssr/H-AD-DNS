@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-04-01:15AM(UTC+8)
-! Total rules: 76787
+! Last modified: 2025-09-04-02:26AM(UTC+8)
+! Total rules: 76786
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -51734,7 +51734,6 @@
 ||playgirl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playgroundordinarilymess.com^
 ||playhubconnect.com^
-||playhydrax.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playinfo.gomlab.com^
 ||playingkatespecial.com^
 ||playinvaders.com^
