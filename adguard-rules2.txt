@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-04-09:20AM(UTC+8)
-! Total rules: 76791
+! Last modified: 2025-09-04-10:54AM(UTC+8)
+! Total rules: 76794
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -27895,6 +27895,7 @@
 ||eyewondermedia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eyg01.dnscry.pt^
 ||eyhbuphjkagaa.com^
+||eyhv.cn^
 ||eyrybuiltin.shop^
 ||eysheik.com^
 ||eytsoft.com^
@@ -41608,6 +41609,7 @@
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
+||m9sz0hh3f7.com^
 ||ma-adx.ctrip.com^
 ||ma-rry.net^
 ||ma-rry.site^
@@ -50838,6 +50840,7 @@
 ||pfbbqnrj.com^
 ||pfbmht.icu^
 ||pfdmuong.cfd^
+||pfdqvf.icu^
 ||pfead1.netway.at^
 ||pfead2.netway.at^
 ||pfead3.netway.at^
