@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-07-04:20PM(UTC+8)
-! Total rules: 75918
+! Last modified: 2025-09-07-05:16PM(UTC+8)
+! Total rules: 75921
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -29557,6 +29557,7 @@
 ||fstrk.net^
 ||fstsrv16.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
+||fsu1cg19c.com^
 ||fsx.i-run.fr^
 ||fsxrkbzafszlgu.com^
 ||ft-flower.com^
@@ -32108,6 +32109,7 @@
 ||guseyn.space^
 ||gushfilmingbaseless.com^
 ||gussspreagh.world^
+||gustamadh.dynv6.net^
 ||gustoafeds.net^
 ||gustygrandmother.com^
 ||gutockeewhargo.net^
@@ -36824,6 +36826,7 @@
 ||joi09060pt.com^
 ||joi09061pt.com^
 ||joi09070pt.com^
+||joi09071pt.com^
 ||join-our-team.com^
 ||join.megaphonetv.com^
 ||joinads.me^
