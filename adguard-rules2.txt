@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-09-10:16PM(UTC+8)
-! Total rules: 77608
+! Last modified: 2025-09-09-11:20PM(UTC+8)
+! Total rules: 77610
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1350,6 +1350,7 @@
 ||33862684.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||33across.com^
 ||33ae985c0ea917.com^
+||33ok.club^
 ||33universal.adprimemedia.com^
 ||33w8tdyelw.com^
 ||3400.org^
@@ -61690,6 +61691,7 @@
 ||smmax.jp^
 ||smmivcxq.xyz^
 ||smmknight.org^
+||smnewd.com^
 ||smoggy-construction.com^
 ||smoggy-twist.pro^
 ||smoggyfeed.com^
