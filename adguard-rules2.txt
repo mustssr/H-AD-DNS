@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-10-09:26PM(UTC+8)
-! Total rules: 77753
+! Last modified: 2025-09-10-10:17PM(UTC+8)
+! Total rules: 77754
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -31513,6 +31513,7 @@
 ||girls.xyz^
 ||girls.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||girlsgirlstimes.com^
+||girlsmakeithard.monster^
 ||girlsthecontacttheconnect.com^
 ||girlwallpaper.pro^
 ||girshswats.shop^
