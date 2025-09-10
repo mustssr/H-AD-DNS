@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-11-05:16AM(UTC+8)
-! Total rules: 77754
+! Last modified: 2025-09-11-06:16AM(UTC+8)
+! Total rules: 77756
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -16462,6 +16462,7 @@
 ||casino-zilla.com^
 ||casino.betsson.com^
 ||casino770.com^
+||casinobonusdeals.io^$dnsrewrite=ad-block.dns.adguard.com
 ||casinogames.com^
 ||casinorewards.com^
 ||casinousagevacant.com^
@@ -55175,6 +55176,7 @@
 ||quitefullofeedshe.com^
 ||quitzon.net^$dnsrewrite=ad-block.dns.adguard.com
 ||quixoticlong.pro^
+||quixoticzest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||quixova.com^
 ||quizdelivery.com^
 ||quizmastersagaciousernie.com^
