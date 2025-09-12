@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-12-09:25PM(UTC+8)
-! Total rules: 77735
+! Last modified: 2025-09-12-10:17PM(UTC+8)
+! Total rules: 77736
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -37125,6 +37125,7 @@
 ||izimuves.com^
 ||izimuves.com^$dnsrewrite=ad-block.dns.adguard.com
 ||izitrckr.com^
+||izjmlg.cn^
 ||izmncdnboxuse*.b-cdn.net^
 ||izmsj.co.jp^
 ||izooto.com^
