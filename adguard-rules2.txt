@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-12-07:16AM(UTC+8)
-! Total rules: 77447
+! Last modified: 2025-09-12-09:20AM(UTC+8)
+! Total rules: 77448
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -683,6 +683,7 @@
 ||0fflce.xyz^
 ||0i0i0i0.com^
 ||0i0i0i0.com^$dnsrewrite=ad-block.dns.adguard.com
+||0m9mjmrd.top^
 ||0maill.com^
 ||0ms.dev^
 ||0n.click^
@@ -24377,7 +24378,6 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -24523,7 +24523,6 @@
 ||dns.velyn.my.id^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
-||dns.vishalk.com^
 ||dns.vmath.my.id^
 ||dns.vod11.xyz^
 ||dns.w3ctag.org^
@@ -32764,6 +32763,7 @@
 ||gusfe.com^
 ||gushfilmingbaseless.com^
 ||gussspreagh.world^
+||gustamadh.dynv6.net^
 ||gustoafeds.net^
 ||gustygrandmother.com^
 ||gutockeewhargo.net^
@@ -32823,6 +32823,7 @@
 ||gwpifpeauhhwk.online^
 ||gwrtdp-tn690bfadt.tclclouds.com^
 ||gx101.com^
+||gxam.cn^
 ||gxb.mmstat.com^
 ||gxbpiovpukbaq.website^
 ||gxbrowser.net^
