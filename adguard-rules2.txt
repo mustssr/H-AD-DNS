@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-13-09:17AM(UTC+8)
-! Total rules: 77745
+! Last modified: 2025-09-13-10:45AM(UTC+8)
+! Total rules: 77744
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1566,6 +1566,7 @@
 ||45564736.xyz^
 ||45f467a9d4.com^
 ||45tu1c0.com^
+||45yz5i35r.com^
 ||4602306b.xyz^
 ||4602306b.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||46222568.xyz^
@@ -59588,7 +59589,6 @@
 ||services.wigzopush.com^
 ||serviceteasfreem.weebly.com^
 ||servicewebformoes.weebly.com^
-||serving-refor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||serving-sys.com^
 ||serving.lookverin.com^
 ||serving.pixsense.net^
@@ -59752,7 +59752,6 @@
 ||sg2.ooroot.com^
 ||sg7.pw^
 ||sga.planad.net^
-||sgad.site^$dnsrewrite=ad-block.dns.adguard.com
 ||sgaijlnojrrok.site^
 ||sgali-mcs.byteoversea.com^
 ||sgben.com^
