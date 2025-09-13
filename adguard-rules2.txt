@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-13-08:33PM(UTC+8)
-! Total rules: 77787
+! Last modified: 2025-09-13-09:19PM(UTC+8)
+! Total rules: 77792
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -4230,6 +4230,7 @@
 ||adguard.easez.net^
 ||adguard.ef67daisuki.club^
 ||adguard.ender.fr^
+||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
@@ -24328,7 +24329,6 @@
 ||dns.fehlsprache.de^
 ||dns.ffnw.de^
 ||dns.filipccz.eu^
-||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
 ||dns.floriantinney.de^
@@ -24469,6 +24469,7 @@
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -34606,6 +34607,9 @@
 ||httpads.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
+||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns-sdk.n.netease.com^
@@ -73467,6 +73471,7 @@
 ||webxcdn.com^
 ||webxmr.com^
 ||weby.aaas.org^
+||wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn^
 ||wecantrack.com^
 ||wecvhi.ekftei2weudt.info^
 ||wecyjtnykvebc.online^
