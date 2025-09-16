@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-16-01:17PM(UTC+8)
-! Total rules: 78269
+! Last modified: 2025-09-16-02:28PM(UTC+8)
+! Total rules: 78272
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14401,6 +14401,7 @@
 ||bkjhqkohal.com^
 ||bkox.cn^
 ||bkpmmpsqgluwj.online^
+||bkprglyptic.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||bkqa.cn^
 ||bkqus.nakednutrition.com^
 ||bkqykixrzrgwr.space^
@@ -68967,6 +68968,7 @@
 ||traktortds.com^
 ||traktum.com^
 ||trakzon.com^
+||trakzon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tralut.chatpdf.com^
 ||trammerepitaxy.cfd^
 ||tramuptownpeculiarity.com^
@@ -70020,6 +70022,7 @@
 ||u6u.icu^
 ||u6zsr2xn1.com^
 ||u73801620533084.s.push-21.cdnsun.com^
+||u7do.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||u7u9.com^
 ||u7wnylbb28.top^
 ||u7y.pw^
