@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-16-07:15AM(UTC+8)
-! Total rules: 78263
+! Last modified: 2025-09-16-09:21AM(UTC+8)
+! Total rules: 78266
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -16561,6 +16561,7 @@
 ||cashcount.de^
 ||cashdorado.de^
 ||cashforwinter.ojrq.net^
+||cashgzb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cashibohs.digital^
 ||cashmachines.biz^
 ||cashmereabove.com^
@@ -53543,6 +53544,7 @@
 ||pp.d2-apps.net^
 ||ppapueykqu.com^
 ||ppaymnknqzvqw.tech^
+||ppbtdj.icu^
 ||ppc-excel-telemetry.officeapps.live.com^
 ||ppc-excel-telemetry.wac.trafficmanager.net^
 ||ppc-onenote-telemetry.officeapps.live.com^
@@ -77349,6 +77351,7 @@
 ||yul01.dnscry.pt^
 ||yulankartos.life^
 ||yule.360.com^
+||yulx.cn^
 ||yumenetworks.com^
 ||yumhusk.com^
 ||yummiergangue.shop^
