@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-09-18-03:14AM(UTC+8)
-! Total rules: 71148
+! Last modified: 2025-09-18-04:20AM(UTC+8)
+! Total rules: 71153
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -83,6 +83,11 @@
 @@||alitems.co^
 @@||alitems.site^
 @@||analytics*.trustyou.com^
+@@||analytics.adjust.cn^
+@@||analytics.adjust.com^
+@@||analytics.adjust.io^
+@@||analytics.adjust.net.in^
+@@||analytics.adjust.world^
 @@||analytics.barnebys.sh^
 @@||analytics.twitter.com^
 @@||anrdoezrs.net^
