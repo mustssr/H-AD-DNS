@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-20-02:25PM(UTC+8)
-! Total rules: 75775
+! Last modified: 2025-09-20-03:16PM(UTC+8)
+! Total rules: 75777
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -22684,6 +22684,7 @@
 ||dfi09190kq.com^
 ||dfi09191kq.com^
 ||dfi09200kq.com^
+||dfi09201kq.com^
 ||dfidhqoaunepq.cloudfront.net^
 ||dfinery.ai^
 ||dfiqvf0syzl54.cloudfront.net^
@@ -73619,6 +73620,7 @@
 ||x3os.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x3x3x.xyz^
 ||x41.me^
+||x43slxjwzx.com^
 ||x446.orlandosentinel.com^
 ||x455.dailybreeze.com^
 ||x4d.icu^
