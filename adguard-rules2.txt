@@ -1,5 +1,5 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-21-10:14PM(UTC+8)
+! Last modified: 2025-09-21-11:16PM(UTC+8)
 ! Total rules: 75931
 
 *-ad.sm.cn*
@@ -932,6 +932,7 @@
 ||1919-chat.tv^
 ||19199675.xyz^
 ||19199675.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||192168.luyouwang.com^
 ||194.59.220.161^
 ||19515bia.de^
 ||19706903.xyz^
@@ -41031,7 +41032,6 @@
 ||lu-club-de-matching.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
-||lu2.luyouwang.com^
 ||luaccakfoo.com^
 ||luagyywwmuq.xyz^
 ||luationiamcu.org^
