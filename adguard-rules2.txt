@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-23-01:17PM(UTC+8)
-! Total rules: 77660
+! Last modified: 2025-09-23-02:28PM(UTC+8)
+! Total rules: 77662
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1520,6 +1520,7 @@
 ||3uo.fun^
 ||3utilities.com^
 ||3vetz.com^
+||3vetz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||3vnofjidlv.com^
 ||3vp.icu^
 ||3wr110.net^
@@ -12777,6 +12778,7 @@
 ||bbmoe.com^
 ||bbmoe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bborxjkan.com^
+||bboy1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bbrav96ax.com^
 ||bbrdbr.com^
 ||bbs-7.jp^
