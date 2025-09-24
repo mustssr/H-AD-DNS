@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-24-11:19PM(UTC+8)
-! Total rules: 77455
+! Last modified: 2025-09-25-12:24AM(UTC+8)
+! Total rules: 77457
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6835,6 +6835,7 @@
 ||advertising.yandex.ru^
 ||advertisingbox.com^
 ||advertisingcentral.yahoosearchmarketingin.com^
+||advertisoo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||advertlink.ru^
 ||advertmedia.de^
 ||advertmobi.g2afse.com^
@@ -17865,6 +17866,7 @@
 ||clickmagick.com^
 ||clickmanage.com^
 ||clickmetertracking.com^
+||clickmintads.site^$dnsrewrite=ad-block.dns.adguard.com
 ||clickmobad.net^
 ||clickmon.co.kr^
 ||clickmydown.xyz^
