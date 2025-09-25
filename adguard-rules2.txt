@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-25-09:23AM(UTC+8)
-! Total rules: 77466
+! Last modified: 2025-09-25-11:00AM(UTC+8)
+! Total rules: 77470
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -28554,6 +28554,7 @@
 ||extrovertedschool.pro^
 ||extsoft.info^
 ||extsoft.info^$dnsrewrite=ad-block.dns.adguard.com
+||exvl.cn^
 ||exwaehler.de^
 ||exweuxkvvckho.website^
 ||exwuebnswyqdfvy.com^
@@ -39595,6 +39596,7 @@
 ||krdns.cola16.app^
 ||krenkzfiuzryw.store^
 ||kreps.xyz^
+||krevn0cq4.com^
 ||krfqlrxvmoyrj.online^
 ||krgirls.beauty^
 ||krhmtdzuxxmsc.space^
@@ -49508,6 +49510,7 @@
 ||oginject.co^
 ||ogl.primorske.si^
 ||oglalavoodoo.world^
+||oglalavoodoo.world^$dnsrewrite=ad-block.dns.adguard.com
 ||oglasi.posjetnica.com^
 ||oglasi.svet24.si^
 ||ogledprovoke.life^
@@ -71880,6 +71883,7 @@
 ||visit.webhosting.yahoo.com^
 ||visit2visit.de^
 ||visitanalytics.userreport.com^
+||visitarkqr.click^$dnsrewrite=ad-block.dns.adguard.com
 ||visitas-web.redsara.es^
 ||visitbolton.com^
 ||visitbox.de^
