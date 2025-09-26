@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-26-01:17PM(UTC+8)
-! Total rules: 78611
+! Last modified: 2025-09-26-02:28PM(UTC+8)
+! Total rules: 78608
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -22559,7 +22559,6 @@
 ||dbwmzcj-r.click^
 ||dby7kx9z9yzse.cloudfront.net^
 ||dbyherslenderwai.com^
-||dc-rotator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dc-storm.com^
 ||dc-tag.jp^
 ||dc.applicationinsights.azure.cn^
@@ -22638,7 +22637,6 @@
 ||dd88trk.com^
 ||dd97fce6dad8af45.live^
 ||dd9l0474.de^
-||ddbhm.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||ddc.statefarm.com^
 ||ddc888.com^
 ||ddcgpoltvrukxjc.net^
@@ -25896,7 +25894,6 @@
 ||druckiad-che.newsmemory.com^
 ||drugstoredemuretake.com^
 ||drulilqe8wg66.cloudfront.net^
-||drumskilxoa.click^$dnsrewrite=ad-block.dns.adguard.com
 ||drunkenstepfather.com^
 ||druqodrly.com^
 ||drustren.com^
