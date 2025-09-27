@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-27-10:14PM(UTC+8)
-! Total rules: 78395
+! Last modified: 2025-09-27-11:15PM(UTC+8)
+! Total rules: 78397
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18113,6 +18113,7 @@
 ||client-telemetry-preauth.hingeprod.net^
 ||client-telemetry.hingeprod.net^
 ||client-telemetry.roblox.com^
+||client.*-blockfi.com^
 ||client.a.pxi.pub^
 ||client.c6gj-static.net^
 ||client.cheater-zone.com^
@@ -37963,6 +37964,7 @@
 ||jhncmokruwmhd.website^
 ||jhoncj.com^
 ||jhpgrmboknxjyy.xyz^
+||jhqi.cn^
 ||jhqieljrzibnr.store^
 ||jhrgblwrqlkwn.com^
 ||jhrulp.icu^
