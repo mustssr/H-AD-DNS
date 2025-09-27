@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-27-11:26AM(UTC+8)
-! Total rules: 78310
+! Last modified: 2025-09-27-12:21PM(UTC+8)
+! Total rules: 78308
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -30613,7 +30613,6 @@
 ||fst.securefastoffers.com^
 ||fstmshtlaurzt.store^
 ||fstrk.net^
-||fstsrv16.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fstsrv9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fsu1cg19c.com^
 ||fsx.i-run.fr^
@@ -34063,7 +34062,6 @@
 ||heresyflurt.life^
 ||hergunavantaj.com.tr^
 ||heritorskoal.qpon^
-||herma-tor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hermaisocking.cyou^
 ||hermichermicgenerationhers.com^
 ||hermsquit.life^
