@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-29-03:12AM(UTC+8)
-! Total rules: 78468
+! Last modified: 2025-09-29-04:18AM(UTC+8)
+! Total rules: 78472
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -17463,6 +17463,7 @@
 ||choosejav182.fun^
 ||chooseroverlaidspecies.com^
 ||chooseroverlaidspecies.com^$dnsrewrite=ad-block.dns.adguard.com
+||choosingoffer.lol^$dnsrewrite=ad-block.dns.adguard.com
 ||chooxaur.com^
 ||choppersnaps.click^
 ||chorninsm.com^
@@ -18943,6 +18944,7 @@
 ||colorsealprosper.co^
 ||colorsealprosper.co^$dnsrewrite=ad-block.dns.adguard.com
 ||colossal-extension.com^
+||colossal-pathway.life^$dnsrewrite=ad-block.dns.adguard.com
 ||colossalanswer.com^
 ||colossalcry.com^
 ||colossusssp.com^
@@ -28668,6 +28670,7 @@
 ||exwaehler.de^
 ||exweuxkvvckho.website^
 ||exwuebnswyqdfvy.com^
+||exxtended-access.com^$dnsrewrite=ad-block.dns.adguard.com
 ||exypnes-idees.gr^
 ||ey43.com^
 ||eyaganyfyivhw.online^
@@ -56953,6 +56956,7 @@
 ||redirect.simba.taobao.com^
 ||redirectchannel.net^
 ||redirectify.app^
+||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
 ||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redirekted.com^
 ||redistedi.com^
