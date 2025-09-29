@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-09-30-05:16AM(UTC+8)
-! Total rules: 108104
+! Last modified: 2025-09-30-06:15AM(UTC+8)
+! Total rules: 108108
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10709,6 +10709,7 @@
 ||adsquared.co^
 ||adsquash.info^
 ||adsquasher.com^
+||adsquasher.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adsquasher.pro^
 ||adsquirrel.ai^
 ||adsquiz.io^
@@ -34980,6 +34981,7 @@
 ||dfrhn.effyjewelry.com^
 ||dfrnuez2r9.info^
 ||dftoutiao.com^
+||dftraanudh.com^
 ||dfusijiqfinqr.cloudfront.net^
 ||dfw02.dnscry.pt^
 ||dfwbfr2blhmr5.cloudfront.net^
@@ -38915,6 +38917,7 @@
 ||ecampus.evergage.com^
 ||ecatqefal.com^
 ||ecb.hextom.com^
+||ecbwemnff3.com^
 ||eccentricsterilizevastness.com^
 ||eccvwnwjayrqyeo.net^
 ||ecdtrk.com^
@@ -107059,6 +107062,7 @@
 ||yxjcyxy.icu^
 ||yxjxydvi.com^
 ||yxnitldzfbuun.space^
+||yxonk5bcue.com^
 ||yxpmkgzsqcxyu.site^
 ||yxqhuy.icu^
 ||yxqmryq.top^
