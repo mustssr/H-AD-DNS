@@ -20,8 +20,8 @@ env:
     https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/main/assets/filter_50.txt
     # HaGeZi's Allowlist Referral
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
-    # 1Hosts (Lite)
-    https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+    # HaGeZi's Light DNS Blocklist
+    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
     # easylistchina
     https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/easylist/easylistah.txt
     # NoCoin Filter List
