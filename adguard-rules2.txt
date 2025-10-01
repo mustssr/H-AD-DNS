@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-01-09:28PM(UTC+8)
-! Total rules: 57334
+! Last modified: 2025-10-01-10:19PM(UTC+8)
+! Total rules: 57335
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -38128,6 +38128,7 @@
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pagefair.com^
+||pagelivekeylearnbestz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pagerrentablespotlight.com^
 ||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
