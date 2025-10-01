@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-01-11:10AM(UTC+8)
-! Total rules: 57326
+! Last modified: 2025-10-01-12:21PM(UTC+8)
+! Total rules: 57330
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -5683,6 +5683,7 @@
 ||ads-bi.zenkube.com^
 ||ads-bitcoin.com^
 ||ads-blocker.app^
+||ads-blocker.app^$dnsrewrite=ad-block.dns.adguard.com
 ||ads-blocker.pro^
 ||ads-buf-nfl.yinzcam.com^
 ||ads-cdn.fptplay.net^
@@ -6196,6 +6197,7 @@
 ||adsquash.info^
 ||adsquasher.com^
 ||adsquasher.com^$dnsrewrite=ad-block.dns.adguard.com
+||adsquasher.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||adsquirrel.ai^
 ||adsquiz.io^
 ||adsrv.hh.ru^
@@ -41265,6 +41267,7 @@
 ||qsifhertnipper.com^
 ||qsko05060mas.com^
 ||qsko05061mas.com^
+||qslhdidxkazlzuuelsz.top^
 ||qsoc.cn^
 ||qsrch.net^
 ||qsshc.xyz^
@@ -51829,6 +51832,7 @@
 ||tx.teradns.org^
 ||tx99y.net^
 ||txbgcd1is.com^
+||txbptd.icu^
 ||txckepgtobupdnb.com^
 ||txcslpvgwxeao.website^
 ||txdot.demdex.net^
