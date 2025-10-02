@@ -1,5 +1,5 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-02-11:28AM(UTC+8)
+! Last modified: 2025-10-02-12:21PM(UTC+8)
 ! Total rules: 58406
 
 *-ad.sm.cn*
@@ -460,6 +460,7 @@
 @@||spgo.io^
 @@||ssl.hurra.com^
 @@||static*.cleverpush.com^
+@@||static-xl.a.88cdn.com^
 @@||stvkr.com^
 @@||suite*.emarsys.net^
 @@||sv.brand-display.com^
@@ -7119,7 +7120,6 @@
 ||aecca611d87cff8a.com^
 ||aede6632ac59bbd0.com^
 ||aedi.ai^
-||aedns.weixin.qq.com^
 ||aee39929a0cd370e.com^
 ||aef1e49bedb1.org^
 ||aef23a0ba9dc554942dd1322ddfbbf70.top^
