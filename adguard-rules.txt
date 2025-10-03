@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-10-03-10:17PM(UTC+8)
-! Total rules: 54048
+! Last modified: 2025-10-03-11:18PM(UTC+8)
+! Total rules: 54050
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14,6 +14,7 @@
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
+/^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
 ://account.booking.xn--
 ://backcb.one^
@@ -41860,6 +41861,7 @@
 ||serch26.biz^
 ||sereinmonerix.com^
 ||serenepebble.com^
+||serenoirs.com^
 ||serev.net^
 ||sergey-mavrodi.com^
 ||serghioplkjoy.com^
