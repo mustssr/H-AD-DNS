@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-04-01:15AM(UTC+8)
-! Total rules: 58919
+! Last modified: 2025-10-04-02:26AM(UTC+8)
+! Total rules: 58920
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -19073,6 +19073,7 @@
 ||date2night.b-cdn.net^
 ||date4sex.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||datedate.today^
+||datedeskads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dateesshop.com^
 ||datelove.cc^
 ||datelove.co^
