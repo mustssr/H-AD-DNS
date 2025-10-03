@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-03-11:18PM(UTC+8)
-! Total rules: 58918
+! Last modified: 2025-10-04-12:22AM(UTC+8)
+! Total rules: 58919
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -53042,6 +53042,7 @@
 ||trknex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trknovi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkpc.net^
+||trkpostback.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkred.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trksvg.business.hsbc.uk^
