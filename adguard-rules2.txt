@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-04-11:16PM(UTC+8)
-! Total rules: 57075
+! Last modified: 2025-10-05-12:19AM(UTC+8)
+! Total rules: 57077
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8926,6 +8926,7 @@
 ||amgr.asuscomm.com^
 ||amgs5.com^
 ||amica.demdex.net^
+||amichi.info^$dnsrewrite=ad-block.dns.adguard.com
 ||amigo.px.i81.ru^
 ||amigojimbang.com^
 ||amigosdelasfinanzas.com^
@@ -39012,6 +39013,7 @@
 ||peachzone.site^
 ||peacyx.com^
 ||peahn.modlily.com^
+||peaktrck.uno^$dnsrewrite=ad-block.dns.adguard.com
 ||pearchpities.com^
 ||pearldiver.io^
 ||pearlevision.com.102.122.2o7.net^
