@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-06-01:17PM(UTC+8)
-! Total rules: 55920
+! Last modified: 2025-10-06-02:29PM(UTC+8)
+! Total rules: 55921
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -36306,6 +36306,7 @@
 ||nisdably.com^
 ||nishida-law-office.com^
 ||nissan-helios-na.demdex.net^
+||nithyshipsi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nitr5eur6fjhtsw.jpn.com^
 ||nitrogenindustrynobleman.com^
 ||nitrokod.com^
