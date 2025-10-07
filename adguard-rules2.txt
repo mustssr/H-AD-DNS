@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-07-01:17PM(UTC+8)
-! Total rules: 55305
+! Last modified: 2025-10-07-02:28PM(UTC+8)
+! Total rules: 55308
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8984,6 +8984,7 @@
 ||amunracasinologin.fr^
 ||amused-condition.com^
 ||amusementt3.top^
+||amusing-injury.com^$dnsrewrite=ad-block.dns.adguard.com
 ||amusinghump.com^
 ||amusingstablegills.com^
 ||amvbwlerkyejb.top^
@@ -16012,6 +16013,7 @@
 ||clic.eu.org^
 ||clicfin.com^
 ||click-allow.top^
+||click-for-preview.com^$dnsrewrite=ad-block.dns.adguard.com
 ||click-now.net^
 ||click-performance.assets.rndtech.de^
 ||click-plus.net^
@@ -40287,6 +40289,7 @@
 ||pulseadnetwork.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pulseapp-24x7-service.github.io^
 ||pulsepoint-match.dotomi.com^
+||pulsivecerebra.top^$dnsrewrite=ad-block.dns.adguard.com
 ||pulsoflowdexgpt.com^
 ||pultegroup.demdex.net^
 ||pultosteduardo.com^
