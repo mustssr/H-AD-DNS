@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-07-11:20PM(UTC+8)
-! Total rules: 56844
+! Last modified: 2025-10-08-12:23AM(UTC+8)
+! Total rules: 56843
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -16751,7 +16751,6 @@
 ||clixvista.com^
 ||clixwells.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clkdeals.com^
-||clkfeed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clkfst.com^
 ||clknrtrg.pro^
 ||clkoplardir.com^
