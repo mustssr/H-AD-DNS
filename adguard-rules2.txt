@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-09-10:59AM(UTC+8)
-! Total rules: 55826
+! Last modified: 2025-10-09-11:32AM(UTC+8)
+! Total rules: 55828
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24553,6 +24553,7 @@
 ||gghut.com^
 ||ggjs.d17.cc^
 ||gglx.me^
+||ggo10090lq.com^
 ||ggpickaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggpickyaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggs.myzaker.com^
@@ -48995,6 +48996,7 @@
 ||tienpham.id.vn^
 ||tiepinshazings.com^
 ||tieszhu.com^
+||tifphl.icu^
 ||tiger.dns.qwer.pw^
 ||tiger.qnews.media^
 ||tigerbrluck.com^
