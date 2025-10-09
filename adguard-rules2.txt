@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-09-09:22AM(UTC+8)
-! Total rules: 55817
+! Last modified: 2025-10-09-10:59AM(UTC+8)
+! Total rules: 55826
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -13151,6 +13151,8 @@
 ||browser-sdk-fr.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
 ||browser-updater.yandex.net^
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
 ||browser.miui.com^
 ||browser9182.web.fc2.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -20658,6 +20660,7 @@
 ||e2ertt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||e2f770af792c59f3.com^
 ||e2f8b885c331e4f37566d00be45d2436.com^
+||e2jda3h01.com^
 ||e32744a16e.shop^
 ||e328d521aa87d11e08cd0ca30585b7a0.com^
 ||e3317eba656c76bdec267f4a6d69ecf9.com^
@@ -26392,6 +26395,7 @@
 ||hlj10071ip.com^
 ||hlj10080ip.com^
 ||hlj10081ip.com^
+||hlj10090ip.com^
 ||hllu.cn^
 ||hlmiq.com^
 ||hlog.bclugu.com^
@@ -31836,6 +31840,7 @@
 ||lvsm.cn^
 ||lvturbo.com^
 ||lwadm.com^
+||lwbo.cn^
 ||lwcnmtl.top^
 ||lweizal.top^
 ||lwgadm.com^
@@ -36183,6 +36188,7 @@
 ||o3t.icu^
 ||o4q.fun^
 ||o4uxrk33.com^
+||o6oxvugdl.com^
 ||o6z2a2kq8fatj3ch0x5ow6v82ha2gja8x8c7w6pc5gx2ls0zia7bx1n28b5d.com^
 ||o7labs.top^
 ||o8s.icu^
@@ -36518,6 +36524,7 @@
 ||ogads-pa.googleapis.com^
 ||ogbt4k.site^
 ||ogdauedbftzmt.online^
+||ogdoad7.top^
 ||ogffa.net^
 ||ogfhroqi.com^
 ||ogfna.net^
@@ -36570,6 +36577,7 @@
 ||oils-natural.eu^
 ||ointmentapathetic.com^
 ||oipzyrzffum.ovh^
+||oiscuy.icu^
 ||oiu09.cn^
 ||oivzkyesgwkqh.site^
 ||oizs.cn^
@@ -53789,6 +53797,7 @@
 ||wizebetscasinospins.fr^
 ||wizebetslivecasino.fr^
 ||wizenboyaux.shop^
+||wizoevljj.com^
 ||wj.jiancai365.cn^
 ||wj9uod3838.com^
 ||wjimtye.top^
