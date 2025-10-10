@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-11-06:16AM(UTC+8)
-! Total rules: 55005
+! Last modified: 2025-10-11-07:16AM(UTC+8)
+! Total rules: 55009
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1083,6 +1083,7 @@
 ||1qi.info^$dnsrewrite=ad-block.dns.adguard.com
 ||1qv.fun^
 ||1rtb.com^
+||1rwa5e8a6.com^
 ||1rx.io^
 ||1sapp.com^
 ||1serial.tv^
@@ -22828,6 +22829,8 @@
 ||ggo10090lq.com^
 ||ggo10091lq.com^
 ||ggo10100lq.com^
+||ggo10101lq.com^
+||ggo10110lq.com^
 ||ggpickaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggpickyaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggs.myzaker.com^
@@ -24270,6 +24273,7 @@
 ||hdxyj.icu^
 ||hdyurliu.top^
 ||he2d.com^
+||he3tf77ow.com^
 ||he7ll.com^
 ||headerbidding.ai^
 ||headerbidding.services^
