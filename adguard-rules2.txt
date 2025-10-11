@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-11-10:53AM(UTC+8)
-! Total rules: 55066
+! Last modified: 2025-10-11-11:26AM(UTC+8)
+! Total rules: 55069
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -32826,6 +32826,7 @@
 ||moremorelove.net^
 ||moremoremail.net^
 ||morevisits.info^
+||morganryan.shop^
 ||morganstanley.demdex.net^
 ||morgenegg.duckdns.org^
 ||morinavotarius.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -49233,6 +49234,7 @@
 ||trigs-sockets.com^
 ||trilema.com^
 ||trimmoits.com^
+||tring-tring.com^[Adblock Plus]
 ||trinityuniversity.edu.ng^
 ||tripiumllc.demdex.net^
 ||triplelift.com^
@@ -50622,6 +50624,7 @@
 ||usp.demdex.net^
 ||usp1.baidu.com^
 ||uspac.sbs^
+||uspost.*.cfd^
 ||usps-packages-*.com^
 ||usps.*.sbs^
 ||usr-api.aiclk.com^
