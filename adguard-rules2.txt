@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-13-11:09AM(UTC+8)
-! Total rules: 54942
+! Last modified: 2025-10-13-12:22PM(UTC+8)
+! Total rules: 54944
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -47688,6 +47688,7 @@
 ||thebestdates.net^
 ||thebestlinks.com^
 ||thebestoffersintheweb.com^$dnsrewrite=ad-block.dns.adguard.com
+||thebook.digital^
 ||thebostonglobe.demdex.net^
 ||thebrainybulb.com^
 ||thebrightforks.com^
@@ -50737,6 +50738,7 @@
 ||va-upx.provenpixel.com^
 ||va.huya.com^
 ||va6.demdex.net^
+||vaccination.gov.ng^
 ||vachoumpuh.net^
 ||vadim.online^
 ||vads.net.vn^
