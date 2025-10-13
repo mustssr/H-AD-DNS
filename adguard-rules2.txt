@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-13-01:18PM(UTC+8)
-! Total rules: 54944
+! Last modified: 2025-10-13-02:30PM(UTC+8)
+! Total rules: 54946
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -23433,6 +23433,7 @@
 ||ggo10120lq.com^
 ||ggo10121lq.com^
 ||ggo10130lq.com^
+||ggo10131lq.com^
 ||ggpickaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggpickyaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggs.myzaker.com^
@@ -43539,6 +43540,7 @@
 ||sm-tc.cn^
 ||sm.edweek.org^
 ||sm.stjude.org^
+||sm2ralisg.com^
 ||sm5q237c0.g666gle.me^
 ||sm8787.com^
 ||smaato.com^
