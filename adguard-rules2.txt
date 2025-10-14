@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-14-03:19PM(UTC+8)
-! Total rules: 54777
+! Last modified: 2025-10-14-04:23PM(UTC+8)
+! Total rules: 54780
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -23623,6 +23623,7 @@
 ||ggo10130lq.com^
 ||ggo10131lq.com^
 ||ggo10140lq.com^
+||ggo10141lq.com^
 ||ggpickaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggpickyaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggs.myzaker.com^
@@ -37997,6 +37998,7 @@
 ||plrjs.org^
 ||pls.prd.mz.internal.unity3d.com^
 ||plscllpvblcfq.site^
+||plsec7wll8.com^
 ||plthnh.icu^
 ||pltraffic8.com^
 ||pluckypocket.com^
@@ -40619,6 +40621,7 @@
 ||rewarmsmorella.com^
 ||rewindonto.com^
 ||rewovenentonic.help^
+||rewvfghoya.com^
 ||rexadvert.xyz^
 ||rexpush.club^
 ||rexsrv.com^
