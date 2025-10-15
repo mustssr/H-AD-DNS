@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-15-09:25AM(UTC+8)
-! Total rules: 56562
+! Last modified: 2025-10-15-11:04AM(UTC+8)
+! Total rules: 56564
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -50552,6 +50552,7 @@
 ||trlptm.top^
 ||trmads.eu^
 ||trmit.com^
+||trmn.cn^
 ||trmwidget.eu^
 ||trmzum.com^
 ||trmzum.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -51054,6 +51055,7 @@
 ||u299.libelle-lekker.be^
 ||u33011.com^
 ||u3ig.com^
+||u3qrlykp2.com^
 ||u408n6z4f.top^
 ||u46.pnc.com^
 ||u4jlr6f6n2.com^
