@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-15-02:28PM(UTC+8)
-! Total rules: 56564
+! Last modified: 2025-10-15-03:19PM(UTC+8)
+! Total rules: 56567
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24082,8 +24082,10 @@
 ||ggo10140lq.com^
 ||ggo10141lq.com^
 ||ggo10150lq.com^
+||ggo10151lq.com^
 ||ggpickaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ggpickyaff.com^$dnsrewrite=ad-block.dns.adguard.com
+||ggrumillu.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -55163,6 +55165,7 @@
 ||xl-ads.com^
 ||xl-trk.com^
 ||xldyxnzo6.com^
+||xleemek84.com^
 ||xlgmedia.com^
 ||xliirdr.com^
 ||xlirdr.com^
