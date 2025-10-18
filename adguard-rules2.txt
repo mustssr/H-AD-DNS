@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-18-10:15PM(UTC+8)
-! Total rules: 54776
+! Last modified: 2025-10-18-11:16PM(UTC+8)
+! Total rules: 54777
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33405,6 +33405,7 @@
 ||mgid.com^
 ||mgid.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mgidrskyzsbjc.store^
+||mgir.cn^
 ||mgirl.jp^
 ||mgivusiufzagm.space^
 ||mgm.demdex.net^
