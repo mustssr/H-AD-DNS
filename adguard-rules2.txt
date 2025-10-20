@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-20-01:19PM(UTC+8)
-! Total rules: 54788
+! Last modified: 2025-10-20-02:29PM(UTC+8)
+! Total rules: 54789
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -48881,6 +48881,7 @@
 ||tracking-sales-pop.carecart.io^
 ||tracking-secure.csob.cz^
 ||tracking-stvde.adsafety.net^
+||tracking-zy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tracking.adp.com^
 ||tracking.adsafety.net^
 ||tracking.aegpresents.com^
