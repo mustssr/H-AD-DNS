@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-21-01:18PM(UTC+8)
-! Total rules: 53697
+! Last modified: 2025-10-21-02:29PM(UTC+8)
+! Total rules: 53693
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33319,7 +33319,6 @@
 ||modestsunf.com^
 ||modification-delivery.info^
 ||modii.xyz^
-||modoodeul.com^$dnsrewrite=ad-block.dns.adguard.com
 ||modoro360.com^
 ||modularmental.com^
 ||moduleanalysis.aliexpress.com^
@@ -34889,10 +34888,8 @@
 ||norryaboulic.com^
 ||norse.mingxiaow.com^
 ||north-pole-post-office.com^
-||north-verification.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northameri-ca-linkedin.com^
 ||northauthority.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||northdownload.com^$dnsrewrite=ad-block.dns.adguard.com
 ||northerntoolandequipment.demdex.net^
 ||northghost.com^
 ||northpoledelivery.co.uk^
@@ -38048,7 +38045,6 @@
 ||pneumahameil.com^
 ||pngvnreward.pages.dev^
 ||pnk95mnqww.com^
-||pnouting.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pnpbjt.icu^
 ||pnperf.com^
 ||pnpihksv.com^
