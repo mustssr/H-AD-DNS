@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-23-01:18PM(UTC+8)
-! Total rules: 55968
+! Last modified: 2025-10-23-02:29PM(UTC+8)
+! Total rules: 55970
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2782,6 +2782,7 @@
 ||4bd40fff71016.beer^
 ||4bf85b0f61014.beer^
 ||4bind2.cfd^$dnsrewrite=ad-block.dns.adguard.com
+||4bo5t8fzd.com^
 ||4c08bb6d91017.beer^
 ||4c2977f311020.beer^
 ||4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com^
@@ -38445,6 +38446,7 @@
 ||parcel-point.info^
 ||parcelcolis.com^
 ||parcelconsists.com^
+||parcelconsists.com^$dnsrewrite=ad-block.dns.adguard.com
 ||parcelpointcenter.com^
 ||parentsbirling.com^
 ||parentsjobquote.com^
