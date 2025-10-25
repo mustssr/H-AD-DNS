@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-25-03:16PM(UTC+8)
-! Total rules: 58296
+! Last modified: 2025-10-25-04:22PM(UTC+8)
+! Total rules: 58297
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -46687,6 +46687,7 @@
 ||singledatetime.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singlefeed.com^
 ||singleflirt.com^
+||singlegirlsfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singles50.jp^
 ||singroot.com^
 ||singtaonewscorp.demdex.net^
