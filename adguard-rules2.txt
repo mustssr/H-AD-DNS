@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-26-11:16PM(UTC+8)
-! Total rules: 58041
+! Last modified: 2025-10-27-12:21AM(UTC+8)
+! Total rules: 58040
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -27497,7 +27497,6 @@
 ||go2offer-1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go2speed.media^
 ||go2speed.org^
-||go2yd.com^
 ||go6shde9nj2itle.com^
 ||goaawik.com^
 ||goadnow.com^
