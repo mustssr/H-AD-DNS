@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-26-03:16PM(UTC+8)
-! Total rules: 57654
+! Last modified: 2025-10-26-04:22PM(UTC+8)
+! Total rules: 57656
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33669,6 +33669,7 @@
 ||lwgadm.com^
 ||lwilmil.top^
 ||lwlkw7.com^
+||lwlybwd5zq.com^
 ||lwnbts.com^
 ||lwnbts.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lwnxzp.icu^
@@ -57225,6 +57226,7 @@
 ||zdh10250lo.com^
 ||zdh10251lo.com^
 ||zdh10260lo.com^
+||zdh10261lo.com^
 ||zdn.ro^
 ||zdnra.toddsnyder.com^
 ||zdorovieonline.ru^
