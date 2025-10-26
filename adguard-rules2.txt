@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-27-12:21AM(UTC+8)
-! Total rules: 58040
+! Last modified: 2025-10-27-01:15AM(UTC+8)
+! Total rules: 58041
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14241,6 +14241,7 @@
 ||blbtibqk.icu^
 ||blcdog.com^
 ||blcdog.com^$dnsrewrite=ad-block.dns.adguard.com
+||blck.pages.dev^
 ||bld.mobi^
 ||bld.sys-adm.in^
 ||bleachbit.com^
