@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-10-27-11:19AM(UTC+8)
-! Total rules: 53091
+! Last modified: 2025-10-27-12:29PM(UTC+8)
+! Total rules: 53092
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -13420,6 +13420,7 @@
 ||blockchainapproval.app^
 ||blockcheck.pages.dev^
 ||blockchecker-8ka.pages.dev^
+||blockchecker5.pages.dev^
 ||blockfiupdates.
 ||blocksly.org^
 ||blog-rss.com^
