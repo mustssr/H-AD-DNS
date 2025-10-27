@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-10-28-04:18AM(UTC+8)
-! Total rules: 56300
+! Last modified: 2025-10-28-05:16AM(UTC+8)
+! Total rules: 56626
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -17,7 +17,6 @@
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
-429: Too Many Requests
 ://account.booking.xn--
 ://backcb.one^
 @@||*-go.kelkoogroup.net^
@@ -590,7 +589,6 @@
 @@||www.partner-ads.com^
 @@||x.bestcheck.de^
 @@||xg4ken.com^
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 [Adblock Plus]
 ||0000552bb0.shop^
 ||0000552bb1.shop^
@@ -5290,6 +5288,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||a-mx.com^
 ||a-new86.com^
 ||a-p-c-t.fr^
+||a-ring-fallback.msedge.net^
+||a-ring-ipv6only.msedge.net^
+||a-ring.msedge.net^
 ||a-ro-ma.com^
 ||a.10tianqi.com^
 ||a.1gr.cz^
@@ -5537,6 +5538,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||a3ee2aca91021.beer^
 ||a3f7ce9111020.beer^
 ||a3kvau184uea.com^
+||a4.bing.com^
 ||a40aa0f939442caab629fc35575fe798.info^
 ||a41ffeba4a.com^
 ||a424024171024.beer^
@@ -5893,9 +5895,11 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ac05001675441e2805cb8b5b79f0209aaff2150209b12be09fb847090f808.xyz^
 ||ac06181dc1023.beer^
 ||ac1.pingpingw.com^
+||ac2.msn.com^
 ||ac2.tnaflix.com^
 ||ac2b369f810241.beer^
 ||ac2f261f95df2c0e7412a832d338ac95.top^
+||ac3.msn.com^
 ||ac359edaf2.com^
 ||ac42af33a10251.beer^
 ||ac72b223f1024.beer^
@@ -6057,6 +6061,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||activity.api.bbc.co.uk^
 ||activity.fiverr.com^
 ||activity.newlook.com^
+||activity.windows.com^
 ||actressdoleful.com^
 ||actscattydecode.com^
 ||acttas.com^
@@ -6254,6 +6259,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ad.mobiuspace.net^
 ||ad.mox.tv^
 ||ad.msft.net^
+||ad.msn.com^
 ||ad.net^
 ||ad.newaddiscover.com^
 ||ad.nvdvr.cn^
@@ -6607,6 +6613,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||adespresso.com^
 ||adetracking.com^
 ||adeumssp.com^
+||adevents.msn.com^
 ||adeventtracker.spotify.com^
 ||adex.network^
 ||adex.redbutton.de^
@@ -7419,6 +7426,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ads.awsflds.autotrader.com^
 ||ads.baadesaba.ir^
 ||ads.betfair.com^
+||ads.bing.com^
 ||ads.bloodhorse.com^
 ||ads.bloomberg.com^
 ||ads.brandcdn.com^
@@ -7440,6 +7448,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ads.dygdigital.com^
 ||ads.edadeal.ru^
 ||ads.ennaharonline.com^
+||ads.eu.msn.com^
 ||ads.everquote.com^
 ||ads.facebook.com^
 ||ads.flashbid.io^
@@ -7468,6 +7477,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ads.iu.edu^
 ||ads.iw.ro^
 ||ads.jiomart.com^
+||ads.jp.msn.com^
 ||ads.kaldata.com^
 ||ads.kbb.com.v6.edgekey.net^
 ||ads.kbb.com^
@@ -7479,6 +7489,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ads.luffy.my.id^
 ||ads.mediasmart.es^
 ||ads.meteored.com^
+||ads.microsoft.com^
 ||ads.motorsport-magazin.com^
 ||ads.mountain.com^
 ||ads.mozilla.org^
@@ -7562,9 +7573,11 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ads.zhinengxiyifang.cn^
 ||ads1-adnow.com^
 ||ads1-adqva.com^
+||ads1.msn.com^
 ||ads2-adnow.com^
 ||ads2-ledak388a.com^
 ||ads2.bid^
+||ads2.msn.com^
 ||ads2.nocorspolicy.com^
 ||ads2.xyz^
 ||ads2550.bid^
@@ -7629,6 +7642,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||adsdk.vivo.com.cn^
 ||adsdk.yandex.ru^
 ||adsdk.zeasn.tv^
+||adsdkpreprod.afd.azureedge.net^
 ||adsdkpreprod.azureedge.net^
 ||adsdkprod.afd.azureedge.net^
 ||adsdkprod.azureedge.net^
@@ -7655,6 +7669,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com^
 ||adserver.adtechus.com^
 ||adserver.bernews.com^
+||adserver.bing.com^
 ||adserver.bluestack.app^
 ||adserver.clasificadosonline.com^
 ||adserver.doccheck.com^
@@ -7849,6 +7864,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||adsxtits.pro^
 ||adsxyz.com^
 ||adsymptotic.com^
+||adsyndication.msn.com^
 ||adt.com.vn^
 ||adt.xdrig.com^
 ||adt328.com^
@@ -8023,6 +8039,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||advertising.amazon.com.edgekey.net^
 ||advertising.amazon.dev^
 ||advertising.apple.com^
+||advertising.jp.msn.com^
+||advertising.microsoft.com^
 ||advertising.twitter.com^
 ||advertising.webapi.gc.avfcservices.co.uk^
 ||advertising.yahoo.com^
@@ -8539,6 +8557,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||agoramkt.com.br^
 ||agort.xyz^
 ||agpkpuobjq.com^
+||agps-location-livenet.trafficmanager.net^
 ||agqoshfujku.com^
 ||agrant.cn^
 ||agrantsem.com^
@@ -9331,6 +9350,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||analytics-data.io^
 ||analytics-debugger.com^
 ||analytics-den-nfl.yinzcam.com^
+||analytics-dev-lleap-events.servicebus.windows.net^
+||analytics-dev-simpad-events.servicebus.windows.net^
 ||analytics-egain.com^
 ||analytics-eu.cloud.coveo.com^
 ||analytics-eu.tactilews.com^
@@ -9357,6 +9378,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||analytics-ipv6.tiktokw.us^
 ||analytics-js.perspective.co^
 ||analytics-kc-nfl.yinzcam.com^
+||analytics-listener.trafficmanager.net^
 ||analytics-log.withhive.com^
 ||analytics-meta.ulta.com^
 ||analytics-myhermes.wt-eu02.net^
@@ -9828,6 +9850,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||analytics.morningbrew.com^
 ||analytics.moviepilot.de^
 ||analytics.mpay.netease.com^
+||analytics.msn.com^
+||analytics.msnbc.msn.com^
 ||analytics.murrelektronik.com^
 ||analytics.muses.org^
 ||analytics.myhermes.de^
@@ -10095,6 +10119,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||analytics.touchplan.io^
 ||analytics.tr.adjust.com^
 ||analytics.tradeshift.com^
+||analytics.trafficmanager.net^
 ||analytics.travel.holdings^
 ||analytics.trbna.com^
 ||analytics.tresensa.com^
@@ -10258,8 +10283,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||analyticscdn.shipstation.com^
 ||analyticscdn.stamps.com^
 ||analyticsdcs.ccs.mcafee.com^
+||analyticsehnwe.servicebus.windows.net^
 ||analyticsengine.s3.amazonaws.com^
 ||analyticsinjest.txni.dev^
+||analyticsiot-prod-simpad-ehn.servicebus.windows.net^
 ||analyticsip.net^
 ||analyticsnew.overwolf.com^
 ||analyticsnorth.weber.com^
@@ -10646,6 +10673,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||api.drift.com^
 ||api.e-toys.cn^
 ||api.e.kuaishou.com^
+||api.edgeoffer.microsoft.com^
 ||api.eu-game-sdk.com^
 ||api.eu-west-1.aiv-delivery.net^
 ||api.eu.amplitude.com^
@@ -10990,6 +11018,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||apples-24x7-help.pages.dev^
 ||appliancecolaprofessor.com^
 ||appliances-applog.s3.us-east-2.amazonaws.com^
+||applicationinsights.azure.com^
+||applicationinsights.microsoft.com^
 ||applicationsstereocanoe.com^
 ||applied-privacy.net^
 ||appliedmaterials.demdex.net^
@@ -11156,7 +11186,13 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||arawakarmies.shop^
 ||arbigo.com^
 ||arbitrium.store^
+||arc-emea.msn.com^
 ||arc.io^
+||arc.msn.com^
+||arc1.msn.com^
+||arc2.msn.com^
+||arc3.msn.com^
+||arc9.msn.com^
 ||arcade.show^
 ||arcadia-golds.org^
 ||arcessignors.help^
@@ -11636,6 +11672,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||aubankprod.112.2o7.net^
 ||aubergineq8.top^
 ||aubrommaiv.com^
+||auc-visio-telemetry.officeapps.live.com^
 ||aucdn.net^
 ||aucmauphufaukoo.net^
 ||auction.unityads.unity3d.com^
@@ -11932,6 +11969,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||az.dz4fun.top^
 ||az.i81.ru^
 ||az5i.icu^
+||az667904.vo.msecnd.net^
 ||az75h.cn^
 ||azaleada1.top^
 ||azartplay.com^
@@ -11991,6 +12029,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||azxhnt.uniformadvantage.com^
 ||b-7.jp^
 ||b-live.travel^
+||b-ring-fallback.msedge.net^
+||b-ring.msedge.net^
 ||b-withyou.com^
 ||b.byads.co^
 ||b.eeaach.com^
@@ -12483,6 +12523,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||bastion1.top^
 ||bastionbeneficial.com^
 ||basvvk.sbs^
+||bat.bing.com^
 ||bat.bing.net^
 ||batchlogging4-eu.truecaller.com^
 ||batchlogging4-noneu.truecaller.com^
@@ -12825,6 +12866,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||beacons-prod.fubo.tv^
 ||beacons.gvt2.com^
 ||beacons.trafficmanager.net^
+||beacons.xboxlive.com^
 ||beagle.prod.tda.link^
 ||bealafulup.com^
 ||beam-tracker.telex.hu^
@@ -13122,6 +13164,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||bezproudoff.cz^
 ||bezrukov.fun^
 ||bf-ad.net^
+||bf-analytics-tracker-tm.trafficmanager.net^
 ||bf-tools.net^
 ||bf.dynatrace.com^
 ||bf064d6149.top^
@@ -14001,6 +14044,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||brazzerssurvey.com^$dnsrewrite=ad-block.dns.adguard.com
 ||brbeast.com^
 ||brbez.stevemadden.com^
+||brc-visio-telemetry.officeapps.live.com^
 ||brcdn.com^
 ||brcttuc.com^
 ||brdmin.com^
@@ -14247,6 +14291,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||btstatic.com^
 ||bttrack.com^
 ||btttag.com^
+||btv-du-dev-eventhub-streamanalytics.servicebus.windows.net^
+||btv-du-prod-eventhub-streamanalytics.servicebus.windows.net^
 ||btvm.ne.jp^
 ||bu1.duba.com^
 ||bu1.vvvdj.com^
@@ -14461,47 +14507,86 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||bzqotz.com^
 ||bzzxq.com^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
+||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||c-ccccc.cc^
 ||c-dns.com^
 ||c-live-jiuyou.com^
+||c-ring-fallback.msedge.net^
+||c-ring.msedge.net^
 ||c-rings.net^
 ||c-stat.eu^
 ||c-y.jp^
 ||c.28rv.com^
 ||c.2mdn.net^
+||c.ar.msn.com^
 ||c.arstechnica.com^
+||c.at.msn.com^
+||c.be.msn.com^
 ||c.betrad.com^
 ||c.bidtoolads.com^
 ||c.bigmir.net^
 ||c.bing.com^
 ||c.bingapis.com^
+||c.br.msn.com^
 ||c.browseranalytic.com^
+||c.ca.msn.com^
 ||c.cicitt.ch^
+||c.cl.msn.com^
 ||c.cnzz.com^
 ||c.corriere.it^
+||c.de.msn.com^
+||c.dk.msn.com^
 ||c.dpgmedia.net^
 ||c.eacla.com^
+||c.es.msn.com^
 ||c.evidon.com^
+||c.fi.msn.com^
+||c.fr.msn.com^
 ||c.gj.qq.com^
 ||c.go-mpulse.net^
+||c.gr.msn.com^
+||c.hk.msn.com^
+||c.id.msn.com^
+||c.ie.msn.com^
+||c.il.msn.com^
+||c.in.msn.com^
+||c.it.msn.com^
+||c.jp.msn.com^
 ||c.kuaiduizuoye.com^
 ||c.l.qq.com^
+||c.latam.msn.com^
+||c.live.com^
 ||c.mnjkw.cn^
 ||c.mountain.com^
 ||c.mse.360.cn^
+||c.my.msn.com^
+||c.nl.msn.com^
+||c.no.msn.com^
 ||c.nuhcpf.com^
 ||c.onnect.jp^
+||c.ph.msn.com^
+||c.prodigy.msn.com^
+||c.pt.msn.com^
 ||c.riskified.com^
+||c.ru.msn.com^
 ||c.rzk-m.com^
 ||c.sayhi.360.cn^
+||c.se.msn.com^
 ||c.servevideos.com^
+||c.sg.msn.com^
 ||c.sibnet.ru^
 ||c.sm.cn^
 ||c.statcounter.com^
 ||c.tensor.art^
+||c.th.msn.com^
 ||c.thredup.com^
+||c.tr.msn.com^
 ||c.tvsou.com^
+||c.tw.msn.com^
+||c.uk.msn.com^
 ||c.vrt.be^
+||c.xbox.com^
+||c.za.msn.com^
 ||c00028-dl.urbanairship.com^
 ||c00029-dl.urbanairship.com^
 ||c00044-dl.urbanairship.com^
@@ -14806,6 +14891,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||cablevision.demdex.net^
 ||cabnnr.com^
 ||cabxjigeguihi.com^
+||cac-visio-telemetry.officeapps.live.com^
 ||cac0184c01020.beer^
 ||cac7b403f1021.beer^
 ||cac998eeb1023.beer^
@@ -14813,6 +14899,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||cacafly.net^
 ||cache-ha.pushwoosh.com^
 ||cache.cloudswiftcdn.com^
+||cache.datamart.windows.com^
 ||cache.myth.dev^
 ||cachedview.com^
 ||cachegorilla.com^
@@ -15694,6 +15781,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||cessationhamster.com^
 ||cessira.com^
 ||cetrk.com^
+||ceuswatcab01.blob.core.windows.net^
+||ceuswatcab02.blob.core.windows.net^
 ||ceycarb.com^
 ||ceye.io^
 ||cf-ads.pinger.com^
@@ -16086,6 +16175,17 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||citlink.net^
 ||citra2010oslo.no^
 ||citriconce.digital^
+||citrixanalyticseh-alias.servicebus.windows.net^
+||citrixanalyticseh.servicebus.windows.net^
+||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticsehaps-alias.servicebus.windows.net^
+||citrixanalyticsehaps.servicebus.windows.net^
+||citrixanalyticseheu-alias.servicebus.windows.net^
+||citrixanalyticseheu.servicebus.windows.net^
+||citrixtelemetryeh-alias.servicebus.windows.net^
+||citrixtelemetryeh.servicebus.windows.net^
+||citrixtelemetryeheu-alias.servicebus.windows.net^
+||citrixtelemetryeheu.servicebus.windows.net^
 ||citrusad.com^
 ||citrusad.net^
 ||citsoaboanak.net^
@@ -16169,6 +16269,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||clarionthevra.icu^
 ||clariontrexa.cfd^
 ||clarity.cri.com^
+||clarity.microsoft.com^
 ||clarity.ms^
 ||clarity.myit.com^
 ||claritycheck.com^
@@ -16879,6 +16980,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||collector.agentio.com^
 ||collector.auth.xhamster.com^
 ||collector.auth.xhamster.desi^
+||collector.azure.cn^
+||collector.azure.eaglex.ic.gov^
+||collector.azure.microsoft.cloud^
+||collector.azure.microsoft.scloud^
 ||collector.bettermode.com^
 ||collector.betway.com^
 ||collector.bsg.brave.com^
@@ -18868,6 +18973,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||dc-storm.com^
 ||dc-tag.jp^
 ||dc-us.adswizz.com^
+||dc.applicationinsights.azure.cn^
+||dc.applicationinsights.azure.us^
 ||dc.arrivalist.com^
 ||dc.bariletacos.com^
 ||dc.di.atlas.samsung.com^
@@ -18876,6 +18983,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||dc.oppomobile.com^
 ||dc.realmadrid.com^
 ||dc.schibsted.io^
+||dc.services.visualstudio.com^
 ||dc.sigmob.cn^
 ||dc.stenaline.co.uk^
 ||dc.tensgpt.com^
@@ -19059,6 +19167,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||debtcapitalstartupoffice.shop^
 ||debtexpansionequityoffice.shop^
 ||debtfamilystartupoffice.shop^
+||dec-visio-telemetry.officeapps.live.com^
 ||decacopy.com^
 ||decagonscrat.click^
 ||deceivedaisle.com^
@@ -19497,6 +19606,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||diagnosedecorationvideotape.com^
 ||diagnosis.ad.xiaomi.com^
 ||diagnosisscript.com^
+||diagnostics-eudb.office.com^
+||diagnostics.office.com^
 ||diagramjawlineunhappy.com^
 ||diagramjawlineunhappy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dial-access.att.net^
@@ -21544,6 +21655,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||dsnvs.com^
 ||dsoxgdjv.icu^
 ||dsp-1.ogury.io^
+||dsp-ad-cache-tm.trafficmanager.net^
 ||dsp-adcreative.mobshark.net.cdn.cloudflare.net^
 ||dsp-api.moloco.com^
 ||dsp-impr2.youdao.com^
@@ -21616,6 +21728,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||du0pud0sdlmzf.cloudfront.net^
 ||du1.bbdj.com^
 ||dual-product.pro^
+||dual-s-ring.msedge.net^
 ||dualistesseda.com^
 ||dualneatly.com^
 ||dualstack-cgicol.amap.com^
@@ -22125,6 +22238,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||easysexe.com^
 ||easytomessage.com^
 ||eatnontf.icu^
+||eaus2watcab01.blob.core.windows.net^
+||eaus2watcab02.blob.core.windows.net^
 ||eavesdropthenashame.com^
 ||eaylmi.icu^
 ||eazel.com^
@@ -23117,6 +23232,14 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||euazwot.top^
 ||eubidderstats.com^
 ||euboicarmpit.top^
+||euc-excel-telemetry.officeapps.live.com^
+||euc-excel-telemetry.wac.trafficmanager.net^
+||euc-onenote-telemetry.officeapps.live.com^
+||euc-powerpoint-telemetry.officeapps.live.com^
+||euc-powerpoint-telemetry.wac.trafficmanager.net^
+||euc-visio-telemetry.officeapps.live.com^
+||euc-word-telemetry.officeapps.live.com^
+||euc-word-telemetry.wac.trafficmanager.net^
 ||euclid.kuula.co^
 ||eucnwtw.top^
 ||eucritemien.help^
@@ -23144,6 +23267,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||euphuesmasses.com^
 ||eurekster.com^
 ||euresdw.top^
+||eurffc-word-telemetry.officeapps.live.com^
 ||euripusrochet.help^
 ||euromaillinnk.com^
 ||euronewsgroup.demdex.net^
@@ -23154,6 +23278,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||europuls.eu^
 ||eurotruu.org^
 ||eurowebbiz.com^
+||eurppc-excel-telemetry.officeapps.live.com^
+||eurppc-powerpoint-telemetry.officeapps.live.com^
+||eurppc-word-telemetry.officeapps.live.com^
 ||eus.rubiconproject.com.edgekey.net^
 ||eus.rubiconproject.com^
 ||eustatsunative.com^
@@ -23265,6 +23392,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||events-logs.doctolib.de^
 ||events-ocu.zipify.com^
 ||events-proxy.mintlify.com^
+||events-sandbox.data.microsoft.com^
+||events-sandbox.data.msn.com^
 ||events-server.fermatcommerce.workers.dev^
 ||events-stream-svc.cordial.com^
 ||events-stream-svc.usw2.cordial.com^
@@ -23288,7 +23417,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||events.character.ai^
 ||events.claspws.tv^
 ||events.clips4sale.com^
+||events.data.microsoft.com^
 ||events.data.msn.cn^
+||events.data.msn.com^
+||events.data.trafficmanager.net^
 ||events.demoup.com^
 ||events.devcycle.com^
 ||events.elev.io^
@@ -23336,6 +23468,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||events.yourcx.io^
 ||events.zahs.tv^
 ||events2.clips4sale.com^
+||eventservice.trafficmanager.net^
 ||eventsink.api.redbee.live^
 ||eventsproxy.gargantuan.futureplc.com^
 ||eventstream.dodopizza.com^
@@ -23447,6 +23580,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||excavatenearbywand.com^
 ||exceedunited.com^
 ||exceklcmicrosftprotection.pages.dev^
+||excel-telemetry.officeapps.live.com^
+||excel-telemetry.wac.trafficmanager.net^
 ||excellentpartialarm.com^
 ||excellingvista.com^$dnsrewrite=ad-block.dns.adguard.com
 ||excentral-int.com^
@@ -24347,6 +24482,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffbc6bb121021.beer^
 ||ffbdfe0a51024.beer^
+||ffc-excel-telemetry.officeapps.live.com^
+||ffc-word-telemetry.officeapps.live.com^
 ||ffca85ff71020.beer^
 ||ffe06ebc91024.beer^
 ||ffe0be9f91019.beer^
@@ -24356,6 +24493,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||fff7d83481022.beer^
 ||fffffff456.com^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
+||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||ffjevt.icu^
 ||fflbpi.top^
 ||ffr548tyfhe.jp^
@@ -24945,6 +25083,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||fp-sa-it.fengkongcloud.com^
 ||fp-upload.dun.163.com^
 ||fp.bizjournals.com^
+||fp.msedge.net^
 ||fp.nanrenwo.net^
 ||fp6waa.bond^
 ||fpa-cdn.arstechnica.com^
@@ -25038,6 +25177,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||fraud0.com^
 ||fraudjs.io^
 ||fraudmetrix.cn^
+||frc-visio-telemetry.officeapps.live.com^
 ||freckledoutsiderundaunted.com^
 ||fred-frost.com^
 ||fredic.us^
@@ -25451,6 +25591,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||g.pcmag.com^
 ||g.sst.godaddy.com^
 ||g.tivan.naver.com^
+||g00.msn.com^
 ||g00dw3ath3rg00dt1me.top^
 ||g0st.com^
 ||g0wow.net^
@@ -25659,6 +25800,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||gate.datacaciques.com^
 ||gate.upclick.com^
 ||gateway-collector-prod-lb-603414359.us-east-1.elb.amazonaws.com^
+||gateway.bingviz.microsoftapp.net^
 ||gateway.fomichev.cloud^
 ||gather.donga.com^
 ||gator.com^
@@ -27155,6 +27297,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||h-spe.net^
 ||h-trck.com^
 ||h.gjrick.tw^
+||h.msn.com^
 ||h.online-metrix.net^
 ||h.ra3.in^
 ||h.trace.qq.com^
@@ -27173,12 +27316,14 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||h419.com^
 ||h4g3z1-doh.web.app^
 ||h4g3z1-light.web.app^
+||h4g3z1-native.winoffice.web.app^
 ||h5.analytics.126.net^
 ||h5.hpplay.com.cn^
 ||h5.tv.mi.com^
 ||h5r.icu^
 ||h5v.eu^
 ||h5vem1jjft.com^
+||h6.msn.com^
 ||h689.nydailynews.com^
 ||h6o.fun^
 ||h8ne.com^
@@ -27765,6 +27910,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||hk-adg.bluenight.me^
 ||hk-datareceiver.aki-game.net^
 ||hk-nnss.150076.xyz^
+||hk-tracker.trafficmanager.net^
 ||hk.100992.xyz^
 ||hk.559299366.xyz^
 ||hk.conana.info^
@@ -28500,6 +28646,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||i0k.cc^
 ||i0y0i9vz0.com^
 ||i1.go2yd.com^
+||i1.services.social.microsoft.com^
 ||i1i.heyaiii111iidsfsdbfjb132222ffco.xyz^
 ||i2019.jp^
 ||i24.com.ua^
@@ -28698,6 +28845,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||iemiq.com^
 ||ientry.com^
 ||ientrymail.com^
+||ieonline.microsoft.com^
 ||ierbfrwnznnkk.website^
 ||iesjbtyxtoraq.site^
 ||ietuhbbfgeo.com^
@@ -29067,6 +29215,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||in-vcode-or.vivoglobal.com^
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
+||in.appcenter.ms^
+||in.applicationinsights.azure.cn^
+||in.applicationinsights.azure.us^
 ||in.dudmangenty.top^
 ||in.hotjar.com^
 ||in.requestmetrics.com^
@@ -29092,6 +29243,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||inbound-analytics.pixlee.com^
 ||inboxdollars.com^
 ||inbrowserplay.com^$dnsrewrite=ad-block.dns.adguard.com
+||inc-visio-telemetry.officeapps.live.com^
 ||incaseineeditoneday.com^
 ||incentivesnetwork.net^
 ||inchescarsten.com^
@@ -29163,6 +29315,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||inf.miui.com^
 ||infantilecombination.com^
 ||infantiletransition.com^
+||inference-app-gateway.eastus2.cloudapp.azure.com^
+||inference-app-gateway.koreacentral.cloudapp.azure.com^
+||inference-app-gateway.northeurope.cloudapp.azure.com^
+||inference-location-livenet.trafficmanager.net^
 ||inferna.iad-03.braze.com^
 ||inferrible.info^
 ||infersardine.com^
@@ -29241,6 +29397,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ingenmannsland.online^
 ||ingest-data-afra.snappfood.dev^
 ||ingest-lr.com^
+||ingest.appcenter.ms^
 ||ingest.grupoadslzone.es^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
@@ -29324,6 +29481,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||insights-collector.newrelic.com^
 ||insights.academy.com^
 ||insights.algolia.io^
+||insights.cloud.microsoft^
 ||insights.hotjar.com^
 ||insights.ninetailed.co^
 ||insights.sitesearch360.com^
@@ -30398,6 +30556,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||js.allporncomic.com^
 ||js.allporncomix.com^
 ||js.bju888.com^
+||js.cdn.applicationinsights.io^
 ||js.chilipiper.com^
 ||js.driftt.com^
 ||js.duotegame.com^
@@ -30408,6 +30567,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||js.hubspot.com^
 ||js.iterable.com^
 ||js.kt250.com^
+||js.monitor.azure.com^
 ||js.nahnoji.cz^
 ||js.oh100.com^
 ||js.onclckpp.com^
@@ -30422,9 +30582,15 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||js.ubaike.cn^
 ||js.verisoul.ai^
 ||js.yjbys.com^
+||js0.cdn.applicationinsights.io^
+||js0.tst.applicationinsights.io^
 ||js1.122cha.com^
+||js1.cdn.applicationinsights.io^
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
+||js1.tst.applicationinsights.io^
+||js2.cdn.applicationinsights.io^
+||js2.tst.applicationinsights.io^
 ||js22f.net^
 ||js2json.com^
 ||js7k.com^
@@ -30617,6 +30783,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||k-apple.ru^
 ||k-colorful.jp^
 ||k-macs.ne.jp^
+||k-ring-fallback.msedge.net^
+||k-ring.msedge.net^
 ||k-ulog.kwai-pro.com^
 ||k-ulog.kwaipros.com^
 ||k-ulog.region.kwai-pro.com^
@@ -31674,6 +31842,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||leftliquid.com^
 ||leftmany.pro^
 ||legacyportal.nettvservices.com^
+||legacywatson.trafficmanager.net^
 ||legalandgeneral.demdex.net^
 ||legalaxy.com^
 ||legamee.jp^
@@ -32275,6 +32444,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||lmwpcinqc.net^
 ||lmwwbrgjj.com^
 ||lmzug.espclicks.appsflyer.com^
+||ln-ring-fallback.msedge.net^
+||ln-ring.msedge.net^
 ||ln.ameba.jp^
 ||ln.is^
 ||lnabew.com^
@@ -32328,6 +32499,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||localsnapsext.com^
 ||localsnapsext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||localytics.com^
+||location-microsoft-com.b-0005.b-msedge.net^
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||location-sg.tiktokv.com^
 ||location-v6-ru.tiktokv.com^
@@ -32338,6 +32510,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||location-v6.tiktokv.us^
 ||location-va.tiktokv.com^
 ||location.api.useinsider.com^
+||location.live.net^
+||location.microsoft.com^
 ||location.services.mozilla.com^
 ||location.tiktokw.us^
 ||location.ximalaya.com^
@@ -34128,6 +34302,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||measure.displate.com^
 ||measure.docmorris.de^
 ||measure.lamp.avct.cloud^
+||measure.office.com.akamaized.net^
+||measure.office.com^
+||measure.office.net.edgesuite.net^
+||measure.office.net^
 ||measured.com^
 ||measuremap.com^
 ||measurementapi.com^
@@ -34420,6 +34598,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||metric-api.eu.newrelic.com^
 ||metric-api.newrelic.com.cdn.cloudflare.net^
 ||metric-api.newrelic.com^
+||metric.appex-rf.msn.com^
 ||metric.com.sg^
 ||metric.dappportal.io^
 ||metric.easyaichat.app^
@@ -35230,6 +35409,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||mobilefuse.com^
 ||mobilegamerstats.com^
 ||mobilegamestats.com^
+||mobileleads.msn.com^
 ||mobilelegendsmycode.com^
 ||mobilelog.kugou.com^
 ||mobilelog.upqzfile.com^
@@ -36572,12 +36752,16 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||nexttads.com^
 ||nextyourcontent.com^
 ||nexus-cloud-360.com^
+||nexus.officeapps.live.com^
 ||nexus.toyota.com^
 ||nexus.uniten.io^
 ||nexusbloom.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||nexusbytes.com^
+||nexusrules.live.com^
+||nexusrules.officeapps.live.com^
 ||nexwave.life^
 ||nexx360.io^
+||nexxtv-events.servicebus.windows.net^
 ||nezhna.com^
 ||nf.diamberproetid.com^
 ||nf2nfatrk.com^
@@ -36831,6 +37015,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||nobles.locker^
 ||noblock.pro^
 ||nobonfthelnzj.online^
+||noc-visio-telemetry.officeapps.live.com^
 ||nocodelytics.com^
 ||nocturnal-minimum.com^
 ||nocturnalaverage.com^
@@ -37305,6 +37490,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||o.rsaikat.com^
 ||o.socoms.net^
 ||o.webmd.com^
+||o.xbox.com^
 ||o000oo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||o02220aokk.com^
 ||o02231aokk.com^
@@ -37318,6 +37504,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||o2o.api.xiaomi.com^
 ||o2v9c4n.ru^
 ||o333o.com^
+||o365diagtelemetry.trafficmanager.net^
 ||o3t.icu^
 ||o4q.fun^
 ||o4uxrk33.com^
@@ -37420,6 +37607,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||obvioushome.com^
 ||obwnaon.icu^
 ||obzh.ru^
+||oca.microsoft.com^
 ||ocbcccreonline.com^
 ||ocbtpubcaowl.com^
 ||occurseactin.com^
@@ -37533,6 +37721,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||office-cleaning-aurora.com^
 ||office-cleaning-newmarket.com^
 ||office-digital.ru^
+||office-events-data.trafficmanager.net^
 ||office-insight.com^
 ||office-kubota.org^
 ||office-kyuri.com^
@@ -39317,6 +39506,54 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||pgpartner.com^
 ||pgs.io^
 ||pgssl.com^
+||pgtbr1-excel-telemetry-vip.officeapps.live.com^
+||pgtbr1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtbr1-word-telemetry-vip.officeapps.live.com^
+||pgtbr2-excel-telemetry-vip.officeapps.live.com^
+||pgtbr2-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtbr2-word-telemetry-vip.officeapps.live.com^
+||pgtca1-excel-telemetry-vip.officeapps.live.com^
+||pgtca1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtca1-word-telemetry-vip.officeapps.live.com^
+||pgteu1-excel-telemetry-vip.officeapps.live.com^
+||pgteu1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu1-word-telemetry-vip.officeapps.live.com^
+||pgteu2-excel-telemetry-vip.officeapps.live.com^
+||pgteu2-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu2-word-telemetry-vip.officeapps.live.com^
+||pgteu3-excel-telemetry-vip.officeapps.live.com^
+||pgteu3-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu3-word-telemetry-vip.officeapps.live.com^
+||pgteu4-excel-telemetry-vip.officeapps.live.com^
+||pgteu4-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu4-word-telemetry-vip.officeapps.live.com^
+||pgteu5-excel-telemetry-vip.officeapps.live.com^
+||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
+||pgteu5-word-telemetry-vip.officeapps.live.com^
+||pgtmx1-excel-telemetry-vip.officeapps.live.com^
+||pgtmx1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtmx1-word-telemetry-vip.officeapps.live.com^
+||pgtsg1-excel-telemetry-vip.officeapps.live.com^
+||pgtsg1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtsg1-word-telemetry-vip.officeapps.live.com^
+||pgtus1-excel-telemetry-vip.officeapps.live.com^
+||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus1-word-telemetry-vip.officeapps.live.com^
+||pgtus2-excel-telemetry-vip.officeapps.live.com^
+||pgtus2-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus2-word-telemetry-vip.officeapps.live.com^
+||pgtus3-excel-telemetry-vip.officeapps.live.com^
+||pgtus3-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus3-word-telemetry-vip.officeapps.live.com^
+||pgtus4-excel-telemetry-vip.officeapps.live.com^
+||pgtus4-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus4-word-telemetry-vip.officeapps.live.com^
+||pgtus5-excel-telemetry-vip.officeapps.live.com^
+||pgtus5-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus5-word-telemetry-vip.officeapps.live.com^
+||pgtus6-excel-telemetry-vip.officeapps.live.com^
+||pgtus6-powerpoint-telemetry-vip.officeapps.live.com^
+||pgtus6-word-telemetry-vip.officeapps.live.com^
 ||pgyfzyv.top^
 ||ph-explorer.com^
 ||ph-log-emagzal.lazada.com^
@@ -39522,6 +39759,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||pipaffiliates.com^
 ||piparelli.net^
 ||pipe-collect.ebu.io^
+||pipe.aria.microsoft.com^
 ||pipedream.wistia.com^
 ||pipeline.rd.nl^
 ||pipenv.org^
@@ -40290,6 +40528,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||populr.me^
 ||popunder.ru^
 ||popunderoctober.store^
+||popup.msn.com^
 ||popup.sapoapps.vn^
 ||popupblockergold.com^
 ||popupblockermax.app^$dnsrewrite=ad-block.dns.adguard.com
@@ -40419,6 +40658,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||powerful-poem.com^
 ||powerfulcopper.com^
 ||powerlinks.com^
+||powerpoint-telemetry.officeapps.live.com^
+||powerpoint-telemetry.wac.trafficmanager.net^
 ||powerrobotflower.com^
 ||powerspace.com^
 ||powr-counter.herokuapp.com^
@@ -40430,6 +40671,13 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||pp6r1.com^
 ||ppbtdj.icu^
 ||ppc-direct.com^
+||ppc-excel-telemetry.officeapps.live.com^
+||ppc-excel-telemetry.wac.trafficmanager.net^
+||ppc-onenote-telemetry.officeapps.live.com^
+||ppc-powerpoint-telemetry.officeapps.live.com^
+||ppc-powerpoint-telemetry.wac.trafficmanager.net^
+||ppc-word-telemetry.officeapps.live.com^
+||ppc-word-telemetry.wac.trafficmanager.net^
 ||ppcent.org^
 ||ppcmate.com^
 ||ppcmate.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -40447,6 +40695,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||ppio12191ios.top^
 ||ppio12200ios.top^
 ||ppktmdbtodigk.online^
+||ppm-licensingtelemetry.servicebus.windows.net^
 ||pprlvdxanzzjl.store^
 ||pps-log.op-mobile.opera.com^
 ||pps.nab.com.au^
@@ -40577,6 +40826,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||prettytube.net^
 ||prevalenthatchet.com^
 ||preview-collector.scopely.io^
+||preview.msn.com^
 ||preview.studio.site^
 ||preview.webflow.com^
 ||preyfultarried.com^
@@ -40703,6 +40953,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||prod-collector.bigbasket.com^
 ||prod-dcs-eventlog.decagames.com^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
+||prod-eh-v1-analytics.servicebus.windows.net^
+||prod-eventhub-analytics.servicebus.windows.net^
 ||prod-events.nykaa.com^
 ||prod-ingress-telemetry-4c22fc0d5ec1dd2e.elb.us-east-1.amazonaws.com^
 ||prod-knoxlog.secb2b.com^
@@ -40737,6 +40989,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||producebreed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||productdownload.pro^
 ||productdownload.pro^$dnsrewrite=ad-block.dns.adguard.com
+||production-jobactivity-analytics.servicebus.windows.net^
 ||production-prime.fr^
 ||production.wootric.com.herokudns.com^
 ||production.wootric.com^
@@ -41876,6 +42129,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||rackweb-----support*.weebly.com^
 ||racunn.com^
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
+||rad.live.com^
+||rad.microsoft.com^
 ||radar.cedexis.com^
 ||radar.imgsmail.ru^
 ||radiantcoveq.cfd^
@@ -41886,6 +42141,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||radiocanada.demdex.net^
 ||radishon33.top^
 ||radiumone.com^
+||rads.msn.com^
 ||raedom.store^
 ||raewqamkmzbej.fun^
 ||raf.postnl.nl^
@@ -41916,6 +42172,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||raj.pw^
 ||rajf.cn^
 ||rajxjj.icu^
+||raka.bing.com^
 ||rake.11st.co.kr^
 ||rakkuxw.com^
 ||rakutenadvertising.com^
@@ -41995,6 +42252,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||raw.vidyard.com^
 ||rawasy.com^
 ||rawbeautifully.com^
+||rawtelemetry-east.servicebus.windows.net^
+||rawtelemetry-west.servicebus.windows.net^
 ||rax.ru^
 ||raxyxphcqsifsee.com^
 ||ray-protocol.network^
@@ -42232,6 +42491,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||redfastlabs.com^
 ||rediads.com^
 ||redintelligence.net^
+||redir.metaservices.microsoft.com^
 ||redirect.pandora.xiaomi.com^
 ||redirect.simba.taobao.com^
 ||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -42341,6 +42601,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||reklamstore.com^
 ||rekmob.com^
 ||rel-s.com^
+||rel.msn.com^
 ||relaido.jp^
 ||relais-aide-colis.com^
 ||relais-fr-pickups.com^
@@ -42874,6 +43135,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||rm0005.net^
 ||rm04.net^
 ||rma.homedepot.com^
+||rmads.eu.msn.com^
+||rmads.msn.com^
 ||rmb-trf.net^
 ||rmbkmpsvnjwsc.website^
 ||rmbsfh.icu^
@@ -43510,6 +43773,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||s-mania.com^
 ||s-odx.oleads.com^
 ||s-onetag.com^
+||s-ring-fallback.msedge.net^
+||s-ring.msedge.net^
 ||s-space.jp^
 ||s-usweb.dotomi.com^
 ||s.18ramp.com^
@@ -43644,6 +43909,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||sa.sina.cn^
 ||sa.unionstatistics.com^
 ||sa.uswitch.com^
+||sa.windows.com^
 ||saa.247sports.com^
 ||saa.cbs.com^
 ||saa.cbsnews.com^
@@ -43775,6 +44041,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||salutetutortwiddling.com^
 ||salvadoserver.duckdns.org^
 ||sam*.baby-kingdom.com^
+||sam.msn.com^
 ||samba.tv^
 ||same*.stockstar.com^
 ||same-witness.com^
@@ -44417,6 +44684,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||selectivesummer.com^
 ||selectmedia.asia^
 ||selecttopon.com^
+||self-events-data.trafficmanager.net^
 ||selfcampaign.com^
 ||selfishzone.com^
 ||selfportraitlimbsexecutive.com^
@@ -44917,6 +45185,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||sgtm.wur.nl^
 ||sgtm.xenos.nl^
 ||sgtms.dhgate.com^
+||sgtus1-excel-telemetry-vip.officeapps.live.com^
+||sgtus1-powerpoint-telemetry-vip.officeapps.live.com^
+||sgtus1-word-telemetry-vip.officeapps.live.com^
 ||sgua.jp^
 ||sguercovin.digital^
 ||sgvoflsxekugp.site^
@@ -46686,6 +46957,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||spylees.com^
 ||spylog.com^
 ||spylog.ru^
+||spynet2.microsoft.com^
+||spynetalt.microsoft.com^
 ||spyrix.com^
 ||spyro-the-bat.fleuryk.ovh^
 ||spyrothebat.fleuryk.ovh^
@@ -46764,6 +47037,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||srvupdatenw.com^
 ||sryjfwjoeujnyfptujlx.com^
 ||ss-mndsrv.b-cdn.net^
+||ss-telemetry.servicebus.windows.net^
 ||ss.0001.xyz^
 ||ss.microbaidu.com^
 ||ss.sharethis.com^
@@ -46906,6 +47180,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||sstats.scholastic.com^
 ||sstats.vizergy.com^
 ||sstrk.green-acres.com^
+||ssw.live.com^
 ||ssydquy.top^
 ||ssytnik.de^
 ||sszcthuzaxba.com^
@@ -47220,6 +47495,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||stats-eu1.crsend.com^
 ||stats-eu2.crsend.com^
 ||stats-iobit-com.us-east-1.elasticbeanstalk.com^
+||stats-partner.trafficmanager.net^
 ||stats-proto.pandora.com^
 ||stats-ssl.mdanderson.org^
 ||stats.abbi.io^
@@ -47343,6 +47619,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||statscollector.sd-rtn.com^
 ||statserv.net^
 ||statsfa.com^
+||statsfe1.ws.microsoft.com^
+||statsfe2.ws.microsoft.com^
 ||statsforads.com^
 ||statshunt.com^
 ||statsig.anthropic.com^
@@ -47451,6 +47729,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||stingyshoe.com^
 ||stingyspoon.com^
 ||stintziinsure.com^
+||stjjp.msn.com^
 ||stmetrics.bbva.com.co^
 ||stmetrics.bbva.de^
 ||stmetrics.bbva.es^
@@ -47961,6 +48240,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||swft.vedomosti.ru^
 ||swgwujrh.com^
 ||swiessz-sbb-cff94.live^
+||swiftanalyticsprod.servicebus.windows.net^
 ||swiftbytes.store^
 ||swiftexpertsdelivery.com^
 ||swiftmining.win^
@@ -48111,7 +48391,14 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||t-odx.op-mobile.opera.com^
 ||t-plus-finance.click^
 ||t-remad.qm989.com^
+||t-ring-fallback-s2.msedge.net^
+||t-ring-fallback.msedge.net^
+||t-ring-fallbacks1.msedge.net^
+||t-ring-s.msedge.net^
+||t-ring-s2.msedge.net^
+||t-ring.msedge.net^
 ||t-s.gene.com^
+||t-s1-ring.msedge.net^
 ||t-ulog-me.kwai-pro.com^
 ||t-ulog-me.kwaipros.com^
 ||t-ulog-pro.kwai-pro.com^
@@ -48519,6 +48806,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||taptica.com^
 ||tapulsads.ru^
 ||tapzfyacpd.com^
+||tar.microsoft.com^
 ||tardtodtimpi.com^
 ||target-us.samsung.com^
 ||target.pandasecurity.com^
@@ -48670,6 +48958,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||tealsgenevan.com^
 ||teamnaoki.com^
 ||teamproject.substack.com^
+||teams-events-data.trafficmanager.net^
 ||teams-gglegendscup.com^
 ||teams-live.com^
 ||teamswarehousedaffodil.com^
@@ -48733,6 +49022,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||telecid.ru^
 ||telecom-info.com^
 ||telecome.cn^
+||telecommandsvc.microsoft.com^
 ||telegram-208.com^
 ||telegram-ba.org^
 ||telegram-bag.xyz^
@@ -48783,6 +49073,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||telegraph.tn^
 ||telegraphcompetenceslightly.com^
 ||telegraphfamouscucumbers.com^
+||telem-edge.smartscreen.microsoft.com^
 ||telemarktalk.com^
 ||telemetric.dk^
 ||telemetry-app.groww.in^
@@ -48886,6 +49177,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||telemetry.medpresence.com^
 ||telemetry.meilisearch.com^
 ||telemetry.mibexsoftware.com^
+||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.n8n.io^
 ||telemetry.nbcuott.com^
@@ -48960,12 +49252,14 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||telemetry.ukwest.arcdataservices.com^
 ||telemetry.unitrends.com^
 ||telemetry.uphold.com^
+||telemetry.urs.microsoft.com^
 ||telemetry.us.transcend.io^
 ||telemetry.v.dropbox.com^
 ||telemetry.v3.influxdata.com^
 ||telemetry.vaultdcr.com^
 ||telemetry.vercel.com^
 ||telemetry.veritas.com^
+||telemetry.visualstudio.microsoft.com^
 ||telemetry.vtex.com^
 ||telemetry.wall-box.com^
 ||telemetry.weaviate.io^
@@ -48977,6 +49271,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||telemetry2.devolutions.net^
 ||telemetry2.netzeroapp.io^
 ||telemetryapi.logos.com^
+||telemetrycollector.microsoft.com^
 ||telemetrydeck.com^
 ||telemetryk.api.2kcoretech.online^
 ||telemetryservice.brightspace.com^
@@ -49030,6 +49325,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||tenkeifa.com^
 ||tenkeiya.com^
 ||tenkeiza.com^
+||tenmax-ads.trafficmanager.net^
 ||tenmax.io^
 ||tenmei-michibiki.com^
 ||tennessee.demdex.net^
@@ -49125,6 +49421,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||tgolerogkcbck.online^
 ||tgram.ru^
 ||tgtag.io^
+||tgtus1-excel-telemetry-vip.officeapps.live.com^
+||tgtus1-powerpoint-telemetry-vip.officeapps.live.com^
+||tgtus1-word-telemetry-vip.officeapps.live.com^
 ||tgw.gmx.net^
 ||tgw.web.de^
 ||tgwidget.com^
@@ -49565,6 +49864,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||tm-analytics-pr.trafficmanager.net^
 ||tm-awx.com^
 ||tm-banners.gamingadult.com^
+||tm-enrollment-telemetry-datacore.trafficmanager.net^
 ||tm-offers.gamingadult.com^
 ||tm.br.de^
 ||tm5kpprikka.com^
@@ -50067,8 +50367,10 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||track.linksynergy.com^
 ||track.mailerlite.com^
 ||track.mmsvc.io^
+||track.mp.microsoft.com^
 ||track.mp4.center^
 ||track.netzero.net^
+||track.notif.careersppe.microsoft.com^
 ||track.oasis.magictavern.com^
 ||track.olx.com.br^
 ||track.opentable.de^
@@ -50134,6 +50436,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||tracker.dcdn.baidu.com^
 ||tracker.digikala.com^
 ||tracker.eu.al-array.com^
+||tracker.flightview.com.trafficmanager.net^
 ||tracker.gamemonkey.org^
 ||tracker.gitee.com^
 ||tracker.metricool.com^
@@ -51250,6 +51553,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||udbaa.com^
 ||udblog.huya.com^
 ||udc-neb.kampyle.com^
+||udc.msn.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||udd1i5.zhihu.com^
@@ -51352,6 +51656,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||uk0.icu^
 ||ukaf23trk.com^
 ||ukankingwithea.com^
+||ukc-onenote-telemetry.officeapps.live.com^
+||ukc-visio-telemetry.officeapps.live.com^
 ||ukegpnsbemegy.store^
 ||ukew6uo7u1.com^
 ||ukfp.cn^
@@ -51892,6 +52198,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||usbank.demdex.net^
 ||usbpalsmfz.com^
 ||usbrowserspeed.com^
+||usc-onenote-telemetry.officeapps.live.com^
+||usc-visio-telemetry.officeapps.live.com^
 ||uscc.ua^
 ||uscensusbureau.demdex.net^
 ||usd-transfer.online^
@@ -52069,6 +52377,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||utlove02.com^
 ||utm-campaign.com^
 ||utm-campaign.com^$dnsrewrite=ad-block.dns.adguard.com
+||utm.sankei.jp.msn.com^
 ||utmostxu.com^
 ||utorrent.it^
 ||utotsllaeowgnlhmnivr.com^
@@ -52867,6 +53176,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||visibleservices.demdex.net^
 ||visibli.com^
 ||visilabs.net^
+||visio-telemetry.officeapps.live.com^
 ||visionary-business-52.com^
 ||visionary-operation365.com^
 ||visionary365enterprise.com^
@@ -53072,6 +53382,11 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||vornilastrenqa.icu^
 ||vortex-comger.com^
 ||vortex-dual.hulu.com^
+||vortex-sandbox.data.microsoft.com^
+||vortex-win-sandbox.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||vortex.data.microsoft.com^
+||vortex.data.trafficmanager.net^
 ||vortex.hulu.com.akadns.net^
 ||vortex.hulu.com^
 ||vosteran.com^
@@ -53208,6 +53523,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||vssid.*.cc^
 ||vst.sibnet.ru^
 ||vstat.rtr-vesti.ru^
+||vstelemetry.trafficmanager.net^
 ||vstergioul.sites.sch.gr^
 ||vstlog.17u.cn^
 ||vstsample.com^
@@ -53514,7 +53830,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||waters888.com^
 ||watertgdelivery.ru^
 ||wathzapp.com^
+||watson.live.com^
 ||watson.microsoft.com^
+||watson.officeint.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||watwait.com^
 ||waudit.cz^
@@ -53537,6 +53855,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||waxapushlite.com^
 ||waydnes.ru^
 ||wayfarerorthodox.com^
+||wayfinderanalytics.servicebus.windows.net^
 ||wayzada.com^
 ||wazimo.com^
 ||wbaetwsafkqlw.store^
@@ -53893,6 +54212,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||wetrackgames.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wetter.pushwoosh.com^
 ||wettigo136.com^$dnsrewrite=ad-block.dns.adguard.com
+||weus2watcab01.blob.core.windows.net^
+||weus2watcab02.blob.core.windows.net^
 ||wew.dushiwenxue.net^
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wexe.ink^
@@ -54113,7 +54434,9 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||williamhill.demdex.net^
 ||wiltinfume.com^
 ||win-dsp.branchdsp.io^
+||win-global-asimov-leafs-events-data.trafficmanager.net^
 ||win.gdt.qq.com^
+||win10-trt.msedge.net^
 ||win32diskimager.org^
 ||winads.eraofecom.org^
 ||winbaicai.com^
@@ -54326,6 +54649,8 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||wootric-eligibility.herokuapp.com^
 ||woovoree.net^
 ||word-bi.zenkube.com^
+||word-telemetry.officeapps.live.com^
+||word-telemetry.wac.trafficmanager.net^
 ||word-v1.tuanguwen.com^
 ||wordc.ga^
 ||wordego.com^
@@ -56098,6 +56423,7 @@ For more on scraping GitHub and how it may affect your rights, please review our
 ||zmaka.net^
 ||zmaticoo.com^
 ||zmdk.xyz^
+||zmetrics.msn.com^
 ||zmkp6jvq4.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||zmoe.ru^
