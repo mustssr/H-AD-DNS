@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-03-01:20PM(UTC+8)
-! Total rules: 62688
+! Last modified: 2025-11-03-02:31PM(UTC+8)
+! Total rules: 62689
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -42972,6 +42972,7 @@
 ||nwr.static.mmcdn.com^
 ||nwwais.com^
 ||nwwrtbbit.com^$dnsrewrite=ad-block.dns.adguard.com
+||nx2jt4p4r.com^
 ||nx2ucbzw1.com^
 ||nx53b3rpxb87cbyj6b8l75m9x17c89zuyvzxx.rest^
 ||nx8.icu^
