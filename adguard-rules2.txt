@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-03-11:20PM(UTC+8)
-! Total rules: 60761
+! Last modified: 2025-11-04-12:23AM(UTC+8)
+! Total rules: 60762
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -43300,6 +43300,7 @@
 ||painfullydeplore.com^
 ||painlessspill.com^
 ||paintejuke.com^
+||paintejuke.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paintnet.es^
 ||paintnet.fr^
 ||paintnet.it^
