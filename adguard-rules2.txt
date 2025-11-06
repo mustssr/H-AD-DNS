@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-06-05:21PM(UTC+8)
-! Total rules: 63864
+! Last modified: 2025-11-06-06:22PM(UTC+8)
+! Total rules: 63865
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -63798,6 +63798,7 @@
 ||zujz.cn^
 ||zuk.freemyip.com^
 ||zukxd6fkxqn.com^$dnsrewrite=ad-block.dns.adguard.com
+||zulaedha.com^
 ||zulkas.top^
 ||zululion.com^
 ||zumail.cz^
