@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-08-03:16PM(UTC+8)
-! Total rules: 61569
+! Last modified: 2025-11-08-04:22PM(UTC+8)
+! Total rules: 61571
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18000,6 +18000,7 @@
 ||cephei-b.com^
 ||cepp-apple.com^
 ||ceqzalgmqqqjg.com^
+||ceramicturtleremnant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ceravindrelis.cfd^
 ||cerebro.edna.yahoo.net^
 ||cerental.icu^
@@ -56607,6 +56608,7 @@
 ||uniowarvvdsto.website^
 ||uniproject.substack.com^
 ||uniqlo-france.fr^
+||uniqlo-nz.com^
 ||uniqodo.com^
 ||unique-memory.com^
 ||uniquely-peaceful-hagfish.edgecompute.app^
