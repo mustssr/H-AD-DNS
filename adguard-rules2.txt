@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-10-01:20PM(UTC+8)
-! Total rules: 58880
+! Last modified: 2025-11-10-02:31PM(UTC+8)
+! Total rules: 58882
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -25584,6 +25584,7 @@
 ||fwtrck.com^
 ||fx.gearmanswings.com^
 ||fx.sternswellman.help^
+||fxab9iuprt.com^
 ||fxcentrum.com^
 ||fxclub.org^
 ||fxfifv.icu^
@@ -55935,6 +55936,7 @@
 ||wbapp.mobile.sina.cn^
 ||wbczkm.icu^
 ||wbe4.cn^
+||wbea.cn^
 ||wbidder.online^
 ||wbidder.online^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder04112024.com^
