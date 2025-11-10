@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-11-03:16AM(UTC+8)
-! Total rules: 57083
+! Last modified: 2025-11-11-04:23AM(UTC+8)
+! Total rules: 57049
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -93,7 +93,6 @@
 @@||adaxxcloud.com^
 @@||adfoc.us^
 @@||adform.com^
-@@||adition.com^
 @@||adj.st^
 @@||adlucent.com^
 @@||admarkt.kleinanzeigen.de^
@@ -5189,7 +5188,6 @@
 ||ad.snaptube.app.eo.dnse3.com^
 ||ad.snaptube.app^
 ||ad.style^
-||ad.sxp.smartclip.net^
 ||ad.szhsx.net^
 ||ad.tencentmusic.com^
 ||ad.timefine.org^
@@ -5892,6 +5890,7 @@
 ||adintop.com^
 ||adipolosolutions.com^
 ||adireto.com^
+||adition.com^
 ||aditms.me^$dnsrewrite=ad-block.dns.adguard.com
 ||aditserve.com^
 ||aditude.cloud^
@@ -9977,7 +9976,6 @@
 ||appanalytics.in^
 ||appannie.com^
 ||appart.yoannchappaz.best^
-||appassets.smartclip.net^
 ||appbaqend.com^
 ||appboy.com^
 ||appboycdn.com^
@@ -10179,7 +10177,6 @@
 ||appstore.pandora.xiaomi.com^
 ||appsupport.qq.com^
 ||apptap.com^
-||apptbkic-relay.iocnt.net^
 ||apptelemetry.xyz^
 ||apptentive.com^
 ||appthe.click^$dnsrewrite=ad-block.dns.adguard.com
@@ -10617,12 +10614,10 @@
 ||at-af.outfit7.com^
 ||at-ninja.jp^
 ||at-t-admin.daftpage.com^
-||at-w-atorf-relay.iocnt.net^
 ||at-wie-w-p-1.nashkan.net^
 ||at.cbsi.com^
 ||at.colony-on.id^
 ||at.deutsche-bank.de^
-||at.iocnt.net^
 ||at.pagesjaunes.fr^
 ||at.postbank.de^
 ||at.prod.jimdo.systems^
@@ -12250,7 +12245,6 @@
 ||bicp-analytics.postscript.io^
 ||bid-algorix.com^
 ||bid-open.com^
-||bid.sxp.smartclip.net^
 ||bidajet.info^
 ||bidarblam.com^
 ||bidata.store^
@@ -12333,7 +12327,6 @@
 ||bil.su^
 ||bilateralunchanged.com^
 ||bilbocine.com^
-||bild-relay.iocnt.net^
 ||bilder-a.akamaihd.net^
 ||bilder.n-tv.de^
 ||bilder11.markt.de^
@@ -14503,7 +14496,6 @@
 ||cdn.signalfx.com^
 ||cdn.sinparty.com^
 ||cdn.slots.baxter.olx.org^
-||cdn.smartclip.net^
 ||cdn.socialannex.com^
 ||cdn.swellrewards.com^
 ||cdn.teleportapi.com^
@@ -16135,7 +16127,6 @@
 ||confiant-integrations.net^
 ||confiant.msn.com^
 ||confidelivery.shop^
-||config-at.iocnt.net^
 ||config-factory.com^
 ||config-track.airbridge.io^
 ||config.ad.falconnet.app.cdn.cloudflare.net^
@@ -17941,7 +17932,6 @@
 ||dclk-match.dotomi.com^
 ||dcmn.io^
 ||dcntr-ads.com^
-||dco.smartclip.net^
 ||dcqapz.shop^
 ||dcs.audi.com^
 ||dcs.plussizetech.com^
@@ -18272,7 +18262,6 @@
 ||derriks.site^
 ||dertvyn.com^
 ||derwbl.icu^
-||des.sxp.smartclip.net^
 ||desapangkul.kotaprabumulih.go.id^
 ||descarga.pw^
 ||desekansr.com^
@@ -26526,7 +26515,6 @@
 ||hayadns.online^
 ||hayadns.site^
 ||haybk.com^
-||haz-relay.iocnt.net^
 ||hazaarulo.com^
 ||hazmatworkshop.com^
 ||hb-af-us-central1.outfit7.com^
@@ -26543,7 +26531,6 @@
 ||hba9.hepsiburada.com^
 ||hbagency.it^
 ||hbb.afl.rakuten.co.jp^
-||hbbtv.smartclip.net^
 ||hbdruktekf.com^
 ||hbeafcac.top^
 ||hbi-ingest.net^
@@ -27191,8 +27178,6 @@
 ||hoood.info^
 ||hoopersnonpoet.com^
 ||hoothooshain.net^
-||hoover.sxp.smartclip.net^
-||hoovermedia.sxp.smartclip.net^
 ||hoowuliz.com^
 ||hop.boutique^$dnsrewrite=ad-block.dns.adguard.com
 ||hop.clickbank.net^
@@ -28830,6 +28815,7 @@
 ||ioapp.sbs^
 ||iochange.top^
 ||iocnt.de^
+||iocnt.net^
 ||iodidlawlike.com^
 ||iofeguoyhemey.space^
 ||iofferphoto.com^
@@ -30264,7 +30250,6 @@
 ||khwnfkla.com^
 ||kib.hu^
 ||kibn.cn^
-||kicker-relay.iocnt.net^
 ||kickfire.com^
 ||kickmyapps.com^
 ||kickoffo.site^
@@ -34888,12 +34873,9 @@
 ||mobaliyun.res.mgtv.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mobappconfig.securities.eastmoney.com^
-||mobaubi-relay.iocnt.net^
-||mobbild-relay.iocnt.net^
 ||mobee2.jp^
 ||mobfox.com^
 ||mobgi.com^
-||mobhaz-relay.iocnt.net^
 ||mobi-promo.com^
 ||mobi.yanosik.pl^
 ||mobiads.co.in^
@@ -34952,23 +34934,15 @@
 ||mobilluck.com.ua^
 ||mobio-salive.com^
 ||mobio.vn^
-||mobippen-relay.iocnt.net^
-||mobkicke-relay.iocnt.net^
-||mobmhs-relay.iocnt.net^
 ||mobon.net^
 ||mobpowertech.com^
-||mobpromo-relay.iocnt.net^
 ||mobshark.net^
 ||mobsuccess.com^
-||mobt3n-relay.iocnt.net^
-||mobtoi-relay.iocnt.net^
 ||mobtop.ru^
 ||mobuppsrtb.com^
 ||mobuppsweb.online^
 ||mobusi.com^
 ||mobvista.com^
-||mobwatso-relay.iocnt.net^
-||mobwelt-relay.iocnt.net^
 ||mobwithad.com^
 ||mobwsa.ximalaya.com^
 ||mobylog.jp^
@@ -41472,6 +41446,7 @@
 ||px.mountain.com^
 ||px.skiechottar.shop^
 ||px.srvcs.tumblr.com^
+||px.staticfiles.at^
 ||px.ucweb.com^
 ||px.wpk.quark.cn^
 ||px02mouzas.com^
@@ -42575,9 +42550,6 @@
 ||relationshipspotted.com^
 ||relaxafford.com^
 ||relaxtime24.biz^
-||relay-client-c01.iocnt.net^
-||relay-client-c02.iocnt.net^
-||relay-client-c07.iocnt.net^
 ||relay-event.talkie-ai.com^
 ||relay-fr-domicile.com^
 ||relay.fiverr.com^
@@ -44355,7 +44327,6 @@
 ||scribus.it^
 ||scripps.demdex.net^
 ||scrippsnetworks.com^
-||script-at.iocnt.net^
 ||script-bd.baixing.net^
 ||script-support.com^
 ||script.ac^
@@ -45928,6 +45899,7 @@
 ||smartclip-services.com^
 ||smartclip.com^
 ||smartclip.demdex.net^
+||smartclip.net^
 ||smartcpatrack.com^
 ||smartdatacollective.com^
 ||smartdeconline.com^
@@ -47689,9 +47661,7 @@
 ||stats.setapp.com^
 ||stats.sg-light-edge.com^
 ||stats.slashed.cloud^
-||stats.smartclip.net^
 ||stats.sumikai.com^
-||stats.sxp.smartclip.net^
 ||stats.symptoma.com^
 ||stats.tazeros.com^
 ||stats.testbericht.de^
@@ -48493,7 +48463,6 @@
 ||sync.sharethis.com^
 ||sync.shinobi.jp^
 ||sync.smartadserver.com^
-||sync.sxp.smartclip.net^
 ||sync.tv^
 ||sync2.resetdigital.co^
 ||synccora.com^
@@ -49118,6 +49087,7 @@
 ||tdzqoewz.icu^
 ||te-static.ip-prod.aws-cbc.cloud^
 ||te.baur.de^
+||te.ip-prod.aws-cbc.cloud^
 ||te.otto.de^
 ||te37w.cn^
 ||tea.tescobank.com^
@@ -49171,6 +49141,7 @@
 ||techmarketingdemos.demdex.net^
 ||techmktg.thehut.net^
 ||techmorich.com^
+||technical-service.net^
 ||techniciancocoon.com^
 ||technomould.gr^
 ||technoratimedia.com^
@@ -50220,7 +50191,6 @@
 ||togmoxwnw.com^
 ||togothermany.com^
 ||toh32tfaast.lat^
-||toi-relay.iocnt.net^
 ||toiletpaper.life^
 ||toiletpaper.life^$dnsrewrite=ad-block.dns.adguard.com
 ||token.rubiconproject.com^
@@ -50524,7 +50494,6 @@
 ||tr.price.com.hk^
 ||tr.snapchat.com^
 ||tr.standardadmin.org^
-||tr.technical-service.net^
 ||tr.vitals.co^
 ||tr.zam.com^
 ||tr1net.com^
@@ -53125,7 +53094,6 @@
 ||viagogo.se^
 ||viagrasamplesfrompfizer.com^
 ||viagrawinner.com^
-||vialotadom.com^
 ||vianboaegiaed.website^
 ||viantinc.com^
 ||vibe.co^
@@ -54473,12 +54441,10 @@
 ||wellsfargobankna.demdex.net^
 ||welltodo-type.com^
 ||wellworn-lead.com^
-||welt-relay.iocnt.net^
 ||weltderrabatte.de^
 ||weltsparer-online.de^
 ||wemass.com^
 ||wemtagoowhoohiz.net^
-||wendels-bistro.com^
 ||wendelstein-1b.com^
 ||wendise.com^
 ||wenhua.jiaoshou.com^
