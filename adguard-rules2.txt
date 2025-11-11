@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-11-09:30PM(UTC+8)
-! Total rules: 56348
+! Last modified: 2025-11-11-10:20PM(UTC+8)
+! Total rules: 56349
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24497,6 +24497,7 @@
 ||gml-grp.com^
 ||gml.email^
 ||gmluzdka.com^
+||gmmads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gmn.gloo.com^
 ||gmorafjcnoifq.space^
 ||gmossp-sp.jp^
