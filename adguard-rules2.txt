@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-12-11:22PM(UTC+8)
-! Total rules: 57000
+! Last modified: 2025-11-13-12:27AM(UTC+8)
+! Total rules: 57001
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18008,6 +18008,7 @@
 ||dioxidedigamy.shop^
 ||dipan.com^
 ||diplomaticamazingbazaar.com^
+||dipperflightrecommend.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dippergeologyprescribe.com^
 ||dircont3.com^
 ||direcompulsion.com^
