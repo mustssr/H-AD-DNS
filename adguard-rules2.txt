@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-14-03:19PM(UTC+8)
-! Total rules: 57102
+! Last modified: 2025-11-14-04:26PM(UTC+8)
+! Total rules: 57098
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9461,7 +9461,6 @@
 ||ardeleted.com^
 ||ardenneweb.com^
 ||ardssandshrewon.com^
-||ardssandshrewon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||arduino.org^
 ||ardvcelitb.com^
 ||area51.mywire.org^
@@ -10488,6 +10487,7 @@
 ||b76d324ae6.com^
 ||b79e4u3hz7.com^
 ||b7f3210a1e.top^
+||b7ijghyla1.com^
 ||b7sw62.pingshu8.xyz^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b82q168jgj.com^
@@ -24466,7 +24466,6 @@
 ||go2cliks.net^
 ||go2cliks.net^$dnsrewrite=ad-block.dns.adguard.com
 ||go2crystalroll.com^
-||go2linktrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go2net.com.ua^
 ||go2offer-1.com^
 ||go2offer-1.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -37545,7 +37544,6 @@
 ||outwingullom.com^
 ||outwitssolan.com^
 ||ouyaoxiazai.com^
-||ouzalruksengung.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ov-hzwu.live^
 ||ov-imhg.live^
 ||ov-payow.win^
@@ -45095,7 +45093,6 @@
 ||sinera.org^
 ||sinfo.dtcidev.co^
 ||sinfoon.com^
-||singaporetradingchallengetracker1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singelstodate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singjn.today^
 ||singledatetime.com^
@@ -52060,7 +52057,6 @@
 ||unfoolvenines.cfd^
 ||unforrinsa.world^
 ||unframesiberia.com^
-||ungiblechan.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ungothoritator.com^
 ||unguledsnaws.com^
 ||unhallowed.pl^
