@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-16-05:18PM(UTC+8)
-! Total rules: 56313
+! Last modified: 2025-11-16-06:18PM(UTC+8)
+! Total rules: 56314
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11263,6 +11263,7 @@
 ||bilkreta.com^
 ||billaccountant.com^
 ||billboard.cz^
+||billilia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||billing-delivery.com^
 ||billowybelief.com^
 ||billtable.com^
