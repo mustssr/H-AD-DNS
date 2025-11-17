@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-17-02:31PM(UTC+8)
-! Total rules: 55435
+! Last modified: 2025-11-17-03:19PM(UTC+8)
+! Total rules: 55436
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2101,6 +2101,7 @@
 ||49706204.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||49766251.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||49b6a44c06.com^
+||49ioqq6kt.com^
 ||4a2d06a3e4b89403fe9baa80bad508d4.net^
 ||4ab7db5a31114.beer^
 ||4aqoxkesav.com^
