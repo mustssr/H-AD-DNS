@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-19-01:19PM(UTC+8)
-! Total rules: 56219
+! Last modified: 2025-11-19-02:30PM(UTC+8)
+! Total rules: 56220
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -44333,6 +44333,7 @@
 ||sinawap.com^
 ||sincerelyfutile.com^
 ||sinder8.com^
+||sinehut.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sinfo.dtcidev.co^
 ||sinfoon.com^
 ||singin-sellercentral-amazon.com^
