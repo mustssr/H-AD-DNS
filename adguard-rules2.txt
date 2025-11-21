@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-21-11:18PM(UTC+8)
-! Total rules: 56532
+! Last modified: 2025-11-22-12:25AM(UTC+8)
+! Total rules: 56533
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -25986,6 +25986,7 @@
 ||hostingcloud.racing^
 ||hostingfile.live^
 ||hostingtinysoft.space^
+||hostk.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||hostolhg.com^
 ||hostpdf.co^
 ||hosts.vggwebsitetrackingprod.azurewebsites.net^
