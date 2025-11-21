@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-21-09:28AM(UTC+8)
-! Total rules: 56894
+! Last modified: 2025-11-21-11:10AM(UTC+8)
+! Total rules: 56891
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -19907,7 +19907,6 @@
 ||dullequivalent.com^
 ||duluthtrading.demdex.net^
 ||dumasinvious.help^
-||dumbpop.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dummieseardrum.com^
 ||dumontnet.demdex.net^
 ||dumpalink.com^
@@ -24362,7 +24361,6 @@
 ||go-amazon.cn^
 ||go-ld-li-ne.site^
 ||go-live-shop.store^
-||go-route.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go-srv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go-static.info^
 ||go-to-zlibrary.com^
@@ -30118,7 +30116,6 @@
 ||liasingmyxopod.com^
 ||lib-333-lib.com^
 ||lib1.biz^
-||libedgolart.com^$dnsrewrite=ad-block.dns.adguard.com
 ||libertycdn.com^
 ||libertycoinsdrew.com^
 ||libertylatrian.shop^
@@ -42732,6 +42729,7 @@
 ||ryvvzl.icu^
 ||ryzath-wealth-app.com^
 ||ryzathwealthappai.com^
+||rz2xtcvuy.com^
 ||rzcruzullr.com^
 ||rzded.bassettfurniture.com^
 ||rzfhn8trk.com^
@@ -45756,7 +45754,6 @@
 ||snammar-jumntal.com^
 ||snap-pixel.onrender.com^
 ||snapads.com^
-||snapcheat.app^$dnsrewrite=ad-block.dns.adguard.com
 ||snapdrop.net^
 ||snapfish.demdex.net^
 ||snapmint-delta-posthog.ap-south-1.aws.opsverse.cloud^
