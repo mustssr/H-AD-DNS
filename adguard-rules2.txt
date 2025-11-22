@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-22-03:17PM(UTC+8)
-! Total rules: 56820
+! Last modified: 2025-11-22-04:24PM(UTC+8)
+! Total rules: 56822
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -39364,6 +39364,7 @@
 ||popcent.net^$dnsrewrite=ad-block.dns.adguard.com
 ||popcent.org^
 ||popcent.org^$dnsrewrite=ad-block.dns.adguard.com
+||popcornpump.xyz^
 ||popdemission.com^
 ||poperblocker.com^
 ||poperblocker.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -55222,6 +55223,7 @@
 ||xbfk.cn^
 ||xbigduck.com^
 ||xbldtkkjeqgna.store^
+||xblocklist*.pages.dev^
 ||xblognetwork.com^
 ||xbqm.cn^
 ||xbqzrd.meticuiousdate.com^
