@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-22-07:14PM(UTC+8)
-! Total rules: 56509
+! Last modified: 2025-11-22-08:35PM(UTC+8)
+! Total rules: 56510
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -32433,6 +32433,7 @@
 ||mazdamotorofamericainc.demdex.net^
 ||mazedecrypt.top^
 ||mazefoam.com^$dnsrewrite=ad-block.dns.adguard.com
+||mazincike.com^
 ||mazu.3g.qq.com^
 ||mazu.m.qq.com^
 ||mazu.sec.miui.com^
