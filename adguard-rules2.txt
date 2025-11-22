@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-22-11:40AM(UTC+8)
-! Total rules: 56812
+! Last modified: 2025-11-22-12:22PM(UTC+8)
+! Total rules: 56816
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -41587,6 +41587,7 @@
 ||reklamstore.com^
 ||rekmob.com^
 ||rel-s.com^
+||rel-s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rel.msn.com^
 ||relaido.jp^
 ||relais-center.com^
@@ -46148,6 +46149,7 @@
 ||spendharassingwarmly.com^
 ||spendsterral.cfd^
 ||speraspace.com^
+||sperebnf.click^$dnsrewrite=ad-block.dns.adguard.com
 ||spexjs.com^
 ||spfy-pxl.archive-digger.com^
 ||sphostserver.com^
@@ -52902,6 +52904,7 @@
 ||viigetxc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viijxyqp.com^
 ||viikqoye.com^
+||viikuhhs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viinjjlt.com^
 ||viiqkzqv.com^
 ||viisupport.com^
@@ -52947,6 +52950,7 @@
 ||vinlens.com^
 ||vinoinqih.com^
 ||vinsgcs.com^
+||vinstigo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vinted-securepayment.com^
 ||violation-*.surge.sh^
 ||violationphysics.click^$dnsrewrite=ad-block.dns.adguard.com
