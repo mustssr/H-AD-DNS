@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-25-05:23PM(UTC+8)
-! Total rules: 55178
+! Last modified: 2025-11-25-06:24PM(UTC+8)
+! Total rules: 55185
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9899,6 +9899,7 @@
 ||avivid.likr.tw^
 ||avividone.likr.tw^
 ||avkd.cn^
+||avlmy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||avmws.com^
 ||avnxt.site^
 ||avo.app^
@@ -14006,6 +14007,7 @@
 ||clickonometrics.pl^
 ||clickpoint.com^
 ||clickpunch.icu^
+||clickpunch.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||clickrotate.net^
 ||clicks.affstrack.com^
 ||clicks.tyuwq.com^
@@ -31767,6 +31769,7 @@
 ||mbox.wegmans.com^
 ||mbreviewer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbreviews.info^$dnsrewrite=ad-block.dns.adguard.com
+||mbsrv2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbsspads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbt-1.com^
 ||mbuncha.com^
@@ -32840,6 +32843,7 @@
 ||misterindo.net^
 ||mistyishyst.com^
 ||mistysteel.co^
+||mistysteel.co^$dnsrewrite=ad-block.dns.adguard.com
 ||misusesetupindecision.com^
 ||mitchgermain.com^
 ||mite.ac.in^
@@ -34356,6 +34360,7 @@
 ||newnorth.net^
 ||newnschk.click^
 ||newoffertops.info^
+||newoffertops.info^$dnsrewrite=ad-block.dns.adguard.com
 ||newoffice.xyz^
 ||newonlinedates.com^
 ||newormedia.com^
@@ -41217,12 +41222,14 @@
 ||rollserver.xyz^
 ||rolltrk4.com^
 ||rolltrk9.com^
+||rolltrk9.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rolpenszimocca.com^
 ||romance-time.net^
 ||romanceswoman-romance.com^
 ||romancetastic.com^
 ||romancetime.jp^
 ||romancetrain.jp^
+||romil-jdd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rompishvariola.com^
 ||roms-download.com^
 ||ronaldvkrueger.ddns.net^
