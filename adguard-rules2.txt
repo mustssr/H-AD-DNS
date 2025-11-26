@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-26-07:17PM(UTC+8)
-! Total rules: 56065
+! Last modified: 2025-11-26-08:43PM(UTC+8)
+! Total rules: 56068
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -20529,6 +20529,7 @@
 ||enhancement44.com^
 ||enhencer.com^
 ||eniedu.com^
+||enield.com^$dnsrewrite=ad-block.dns.adguard.com
 ||enigmanarrativedime.com^
 ||enigmaticcanyon.com^
 ||eniza.site^
@@ -21624,6 +21625,7 @@
 ||fansartikelshop.com^
 ||fanscloud.net^
 ||fanta-stic.net^
+||fantabro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fantasia-menard.com^
 ||fantastic-salamander-c721cb.netlify.app^
 ||fantastindents.com^
@@ -34964,6 +34966,7 @@
 ||ngvdk.musely.com^
 ||ngxvojbpnjtjv.space^
 ||ngxzkaxf.icu^
+||ngygalitlv.com^
 ||nh3ymjjdkx.com^
 ||nh7.icu^
 ||nh88trk.com^
