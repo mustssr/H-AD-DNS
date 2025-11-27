@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-27-09:31PM(UTC+8)
-! Total rules: 55702
+! Last modified: 2025-11-27-10:19PM(UTC+8)
+! Total rules: 55703
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -12,6 +12,7 @@
 -ndax-*.webflow.io^
 -sso-*.webflow.io^
 /\.[a-z][a-z][a-z]-adguard\.pro\//
+/\.[a-z][a-z][a-z]-defender\.pro\//
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
