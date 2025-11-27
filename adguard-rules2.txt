@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-27-11:20PM(UTC+8)
-! Total rules: 55653
+! Last modified: 2025-11-28-12:24AM(UTC+8)
+! Total rules: 55654
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33580,6 +33580,7 @@
 ||mostauthor.com^
 ||mostbet-live.org^
 ||mostbet-ua5.com^
+||mosved.com^$dnsrewrite=ad-block.dns.adguard.com
 ||motaikhoanchungkhoanvps.com^
 ||motelverves.com^
 ||motionberry999xerz.ru^
