@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-29-01:19PM(UTC+8)
-! Total rules: 54274
+! Last modified: 2025-11-29-02:28PM(UTC+8)
+! Total rules: 54275
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -35810,6 +35810,7 @@
 ||overture.com^
 ||ovobet-live.com^
 ||ovologysnoops.com^
+||ovr-toolkit.com^
 ||ovret.com^
 ||ovret.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovsfr.fr^
