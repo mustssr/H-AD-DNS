@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-29-09:27AM(UTC+8)
-! Total rules: 54267
+! Last modified: 2025-11-29-11:11AM(UTC+8)
+! Total rules: 54274
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11567,6 +11567,7 @@
 ||bonusdeal.ink^
 ||bonusfeh.com^
 ||bonusgaf.com^
+||bonusgew.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bonusmaniac.com^
 ||bonusnun.com^
 ||bonuspis.com^
@@ -21643,6 +21644,7 @@
 ||floweryfact.com^
 ||floweryflavor.com^
 ||flowgo.com^
+||flowldsb.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowldsf.online^
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowpanlive.com^
@@ -24222,6 +24224,7 @@
 ||hariken.co^
 ||harley-davidson.com.102.122.2o7.net^
 ||harleydavidson.demdex.net^
+||harmo-woe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||harmony573.top^
 ||harolgo.top^
 ||harriscollect.net^
@@ -47693,6 +47696,7 @@
 ||tootersfissure.shop^
 ||toothbrushascertainhelped.com^
 ||toots-a.akamaihd.net^
+||top-best.com^$dnsrewrite=ad-block.dns.adguard.com
 ||top-fwz1.mail.ru^
 ||top-official-app.com^
 ||top-site-list.com^
@@ -47948,6 +47952,7 @@
 ||track.bentonow.com^
 ||track.bizjournals.com^
 ||track.bomiv.com^
+||track.bwclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.capitaloneshopping.com^
 ||track.cedsdigital.it^
 ||track.chkr7.com^
@@ -50369,6 +50374,7 @@
 ||vercorslet.rest^
 ||verdantlabyrinth.com^
 ||verdepromo.info^$dnsrewrite=ad-block.dns.adguard.com
+||veret-fqv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vergimh.forum^
 ||veridelivery.info^
 ||verification-220-check-441-8890.click^
@@ -54077,6 +54083,7 @@
 ||zngvqwp.icu^
 ||znlvhnej.icu^
 ||zno9qw80o.com^
+||zo0nk647a.com^
 ||zodalt.com^
 ||zodertracker.com^
 ||zodescdmuxxqq.site^
