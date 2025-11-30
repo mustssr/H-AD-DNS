@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2025-11-30-02:30PM(UTC+8)
-! Total rules: 49382
+! Last modified: 2025-11-30-03:17PM(UTC+8)
+! Total rules: 49404
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3839,7 +3839,9 @@
 ||ad.imp.joins.com^
 ||ad.intl.xiaomi.com^
 ||ad.intools.dev^
+||ad.iot.360.cn^
 ||ad.iwhop.cn^
+||ad.jia.360.cn^
 ||ad.jorte.com^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.kartina.tv^
@@ -3849,6 +3851,7 @@
 ||ad.letmeads.com^
 ||ad.lgappstv.com^
 ||ad.lgsmartad.com^
+||ad.life.360.cn^
 ||ad.line-scdn.net^
 ||ad.linksynergy.com^
 ||ad.mail.ru^
@@ -3881,6 +3884,7 @@
 ||ad.qq.com^
 ||ad.richmob.cn^
 ||ad.setn.com^
+||ad.shenshiads.com^
 ||ad.shunchangzhixing.com^
 ||ad.simpledesign.ltd^
 ||ad.skyflag.jp^
@@ -3910,6 +3914,7 @@
 ||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
+||ad.xunkids.com^
 ||ad.xxam.org^
 ||ad.ymcdn.org^
 ||ad.yna.co.kr^
@@ -4677,6 +4682,7 @@
 ||ads.com.mk^
 ||ads.com^
 ||ads.contents.fc2.com^
+||ads.cup.com.cn^
 ||ads.df-automotive.de^
 ||ads.digitalfirstmedia.com^
 ||ads.dotomi.com^
@@ -5202,6 +5208,7 @@
 ||adups.cn^
 ||adutp.com^
 ||adv-analytics-collector.videograph.ai^
+||adv-api.shenshiads.com^
 ||adv-sv-show.focus.cn^
 ||adv.aryel.io^
 ||adv.bandi.so^
@@ -7841,7 +7848,9 @@
 ||api-access.pangolin-sdk-toutiao5.com^
 ||api-ad-adapter.wps.com^
 ||api-ad-callback.falconnet.app^
+||api-ad-data.kajicam.com^
 ||api-ad-product.huxiu.com^
+||api-ad.kajicam.com^
 ||api-adservices.apple.com^
 ||api-an.tutu.ru^
 ||api-analytic.wahanahonda.com^
@@ -17438,6 +17447,7 @@
 ||engagetosell.com^
 ||engageya.com^
 ||engine.adzerk.net^
+||engine.dcad01.com^
 ||engine.fxempire.com^
 ||engine.partylemons.com^
 ||engine.traceparts.com^
@@ -26298,6 +26308,7 @@
 ||log.ifood.tv^
 ||log.immergo.tv^
 ||log.internetat.tv^
+||log.ireader.com^
 ||log.jackpotfriendsslots.com^
 ||log.jackpotmasterslots.com^
 ||log.justanswer.com^
@@ -26576,6 +26587,7 @@
 ||logr-ingest.com^
 ||logrcv.adseyeservice.com^
 ||logrcv.aiclk.com^
+||logrcv.yunxish.com^
 ||logreport-global-dual.coolgcloud.com^
 ||logreport-global-dual.coolhcloud.com^
 ||logrocket.io^
@@ -26689,6 +26701,7 @@
 ||logupdate.avlyun.sec.miui.com^
 ||logv.boyuanhulian.com^
 ||logw.boyuanhulian.com^
+||logwebs.kugou.com^
 ||logx-experimentation.iherb.com^
 ||logx.optimizely.com^
 ||logz.tekiusa.com.cdn.cloudflare.net^
@@ -27088,6 +27101,7 @@
 ||m.aty.sohu.com^
 ||m.doubleclick.net^
 ||m.gdpr-info.eu^
+||m.shenshiads.com^
 ||m.uptodown.net^
 ||m.yocvn.com^
 ||m.zedcdn.me^
@@ -31790,6 +31804,7 @@
 ||open-collectors.sumologic.com^
 ||open-keybox-office.cfd^
 ||open-office.fr^
+||open-set-api.shenshiads.com^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.inkfrog.com^
@@ -32329,6 +32344,7 @@
 ||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p543.inquirer.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
+||p66-ad.adkwai.com^
 ||p67-kuku4e.xyz^
 ||p6q65ivl4cqblyx.rest^
 ||p70y44odg.com^
@@ -37202,6 +37218,8 @@
 ||safeaccessapp.com^
 ||safeairtravels.com^
 ||safebrowsdv.com^
+||safebrowsing.googleapis.com^
+||safebrowsing.urlsec.gg.com^
 ||safepavo.com^
 ||safesendclub.com^
 ||safestcontentgate.com^
@@ -37727,6 +37745,7 @@
 ||sdkl.info^
 ||sdklog.tvstore.opera.com^
 ||sdkoptedge.chinanetcenter.com^
+||sdkreport.e.qq.com^
 ||sdktmp.hubcloud.com.cn^
 ||sdkv2.imaginationunwired.com^
 ||sdnc.top^
@@ -43483,6 +43502,7 @@
 ||tracecontent.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
+||tracelog-debug.yunxish.com^
 ||tracemonitors.com^
 ||tracemour.com^
 ||tracer.concung.com^
@@ -47967,6 +47987,7 @@
 ||xcqfaclqifemm.site^
 ||xcultur.com^
 ||xcwdcynb.icu^
+||xcx.dcad01.com^
 ||xcyzuhpweo.com^
 ||xczzfvxknafgoawjtv.com^
 ||xd-mob2.tooltigers.com^
@@ -49136,6 +49157,7 @@
 ||zjliloveyou.ixiunv.com^
 ||zjptg.com^
 ||zjqbxcdwwtvtt.site^
+||zjres-ad.kajicam.com^
 ||zk.91post.com^
 ||zk.handoutawmbrie.shop^
 ||zk1w.com^
