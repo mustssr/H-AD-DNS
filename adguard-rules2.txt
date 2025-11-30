@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-11-30-03:17PM(UTC+8)
-! Total rules: 54396
+! Last modified: 2025-11-30-04:23PM(UTC+8)
+! Total rules: 54401
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2919,6 +2919,7 @@
 ||8ff0.cn^
 ||8fo.icu^
 ||8jfbt5va3r.com^
+||8jfbt5va3r.com^$dnsrewrite=ad-block.dns.adguard.com
 ||8jk35km0r3.com^
 ||8jkx.com^
 ||8jp5zpz5rl7ix1wq5q.cfd^
@@ -10476,6 +10477,7 @@
 ||bcjhlhuhq.icu^
 ||bclays-ads.aimatch.com^
 ||bclimiv.top^
+||bclogin-check.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bcloudhost.com^
 ||bcn01.dnscry.pt^
 ||bcnproduction.com^
@@ -10890,6 +10892,7 @@
 ||betify-casino1.fr^
 ||betifycasinoofrance1.fr^
 ||betifycasinos.fr^
+||betmenaff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||betongame-1083.top^
 ||betonred.com^
 ||betotodilea.com^
@@ -12845,6 +12848,7 @@
 ||cattednatalia.help^
 ||cattery.noddos.top^
 ||cattery2.noddos.top^
+||cauditcommernal.com^$dnsrewrite=ad-block.dns.adguard.com
 ||caultonconsulting.com^
 ||cauly.co.kr^
 ||causlesscauslessshowerconventional.com^
@@ -31374,6 +31378,7 @@
 ||mbaedurr.com^
 ||mbaobao.com^
 ||mbbai7.ru^
+||mbcm2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbddip.com^
 ||mbdippex.com^
 ||mbdlog.iqiyi.com^
