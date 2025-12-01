@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-01-07:18PM(UTC+8)
-! Total rules: 56505
+! Last modified: 2025-12-01-08:43PM(UTC+8)
+! Total rules: 56506
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -55556,6 +55556,7 @@
 ||yggtorrent.com^
 ||yggtorrent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||yghalathio.com^
+||yghonola.com^
 ||ygmkcuj3v.com^
 ||ygunoiunommiurynfuup.com^
 ||ygwolalwgjgs.com^
