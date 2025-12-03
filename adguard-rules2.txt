@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-04-01:22AM(UTC+8)
-! Total rules: 57989
+! Last modified: 2025-12-04-02:32AM(UTC+8)
+! Total rules: 57990
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -12458,6 +12458,7 @@
 ||authorizedimmediate.com^
 ||authsignonstaff*.softr.app^
 ||autivnay.com^
+||auto-ads6.site^$dnsrewrite=ad-block.dns.adguard.com
 ||auto-ping.com^
 ||autoappassionati.it^
 ||autoaudience.com^
