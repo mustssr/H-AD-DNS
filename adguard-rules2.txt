@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-09-05:24PM(UTC+8)
-! Total rules: 56523
+! Last modified: 2025-12-09-06:24PM(UTC+8)
+! Total rules: 56526
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33460,6 +33460,7 @@
 ||megadefi.top^
 ||megadeliveryn.com^
 ||megadrive.solutions^
+||megaihargi.com^
 ||meganerd.nl^
 ||megapaypal.app^
 ||megapaypal.live^
@@ -36754,6 +36755,7 @@
 ||oca.microsoft.com^
 ||ocbcccreonline.com^
 ||occasional-flow.com^
+||occasional-flow.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ocean2.authcaptcha.com^
 ||oceanfall.xyz^
 ||oceanicblazeq.cfd^
@@ -52612,6 +52614,7 @@
 ||vid12080hl.com^
 ||vid12081hl.com^
 ||vid12090hl.com^
+||vid12091hl.com^
 ||vidads.gr^
 ||vidalak.com^
 ||vidazoo.com^
