@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-10-08:44PM(UTC+8)
-! Total rules: 60123
+! Last modified: 2025-12-10-09:36PM(UTC+8)
+! Total rules: 60129
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9152,6 +9152,7 @@
 ||app.jodoo.com^
 ||app.kamlno.network^
 ||app.kodiakifnance.run^
+||app.kyberwsap.bond^
 ||app.leadsrx.com^
 ||app.lido-dashboard.pro^
 ||app.livechatoo.com^
@@ -22763,6 +22764,7 @@
 ||exodus-wallets.io^
 ||exodus.walletv3.com^
 ||exodusjailhousetarantula.com^
+||exodusl.com^
 ||exodustrading-ai.com^
 ||exoduswallet.at^
 ||exoh.cn^
@@ -32976,6 +32978,7 @@
 ||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyb-amazon.com^
+||kyberswap-kyber-swap.com^
 ||kyberswap-v2.xyz^
 ||kybet138-a2.site^
 ||kychq.cn^
@@ -39044,6 +39047,7 @@
 ||node3.b4el.ru^
 ||node9.servernode.store^
 ||nodego.network^
+||nodegoai.com^
 ||nodelivery.fun^
 ||nodenotify.com^
 ||nodude.my^
@@ -44779,7 +44783,6 @@
 ||redirect.pandora.xiaomi.com^
 ||redirecthitnspin.com^
 ||redirecting.online^$dnsrewrite=ad-block.dns.adguard.com
-||redirectingat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redirection-colis.com^
 ||redirections-x.com^
 ||redirekted.com^
@@ -54954,6 +54957,9 @@
 ||unisound.cdnvideo.ru^
 ||unisound.net^
 ||uniswap-app.to^
+||uniswap.org-service-prod-secure-cdn.ltd^
+||uniswap.org.in^
+||uniswap.www.org^
 ||uniswapdataprice.com^
 ||uniswaphub.net^
 ||united-infos.net^
