@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-11-05:26PM(UTC+8)
-! Total rules: 58311
+! Last modified: 2025-12-11-06:25PM(UTC+8)
+! Total rules: 58318
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9140,6 +9140,7 @@
 ||app-posthog.bi-sage.site^
 ||app-rush.com^
 ||app-statistics.puzzel.com^
+||app-trust.co.com^
 ||app-zoom.com^
 ||app.altlayer.ink^
 ||app.bentonow.com^
@@ -21196,6 +21197,7 @@
 ||en-ledger-install.com^
 ||en-mu-su-bi.com^
 ||en-trezor.io^
+||en-trust.co.com^
 ||en.msidb.org^
 ||en6.icu^
 ||enabledetective.com^
@@ -51943,6 +51945,7 @@
 ||trapfulgide.com^
 ||trashdisguisedextension.com^
 ||trasre.com^
+||trastwallet.co.com^
 ||trasupr.com^
 ||trasupr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||traukvan.com^
@@ -52235,6 +52238,10 @@
 ||trustseal.e-rasaneh.ir^
 ||trustutn.org^
 ||trustwallct.cc^
+||trustwallet-app.io^
+||trustwallet-com.to^
+||trustwallet-pc.to^
+||trustwallett.co.com^
 ||trustx.org^
 ||trusty-research.com^
 ||trustyfruit.com^
