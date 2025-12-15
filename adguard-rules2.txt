@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-15-09:46AM(UTC+8)
-! Total rules: 56557
+! Last modified: 2025-12-15-11:41AM(UTC+8)
+! Total rules: 56564
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1355,7 +1355,6 @@
 ||1c89c9a9061e6e.com^
 ||1ckbfk08k.de^
 ||1clic1don.fr^
-||1clic1don.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||1controller.online^
 ||1controller.ru^
 ||1cpbac.ru^
@@ -6086,6 +6085,7 @@
 ||ajpielqqmdqat.com^
 ||ajrkm1.com^
 ||ajrkm3.com^
+||ajrkm3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ajrtthiewfb.com^
 ||ajscdn.com^
 ||ajua.cn^
@@ -8158,6 +8158,7 @@
 ||antcixn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||anteaterdriftrecast.com^
 ||antevenio.com^
+||antfa.link^$dnsrewrite=ad-block.dns.adguard.com
 ||anthe-znn.com^
 ||anthill.vn^
 ||anti-automation-v*.b-cdn.net^
@@ -8178,6 +8179,7 @@
 ||antivirus.landerhd.com^
 ||antivirusace.com^
 ||antivirusfit.co^$dnsrewrite=ad-block.dns.adguard.com
+||antj.link^$dnsrewrite=ad-block.dns.adguard.com
 ||antlerlode.com^
 ||antrea-catalog-ledger.xyz^
 ||antrea-facebook-crun.xyz^
@@ -30207,6 +30209,7 @@
 ||l5id.com^
 ||l5pzbzfnjm.com^
 ||l6.fancyapi.com^
+||l6h17ybxe.com^
 ||l6y9bf.icu^
 ||l799.esaimaa.fi^
 ||l83-29.com^
@@ -36335,6 +36338,7 @@
 ||nqh-dns.duckdns.org^
 ||nqlzlr.icu^
 ||nqqqnyyceaypa.online^
+||nqwgvk.cn^
 ||nr-beacon.movingimage.com^
 ||nr-data.net^
 ||nr.bidderstack.com^
@@ -44650,6 +44654,7 @@
 ||shinypond.com^
 ||shinystat.com^
 ||shinystat.it^
+||shipment30.top^
 ||shipwreckclassmate.com^
 ||shise.me^
 ||shit-around.com^
@@ -45087,6 +45092,7 @@
 ||sleekynothing.cyou^
 ||sleighssecalin.cfd^
 ||slemula.fra-01.braze.eu^
+||slext2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||slf.fugu-it.com^
 ||slgnt.us^
 ||slhemrnxzsmgg.online^
@@ -49383,6 +49389,7 @@
 ||tkll12131nb.com^
 ||tkll12140nb.com^
 ||tkll12141nb.com^
+||tkll12150nb.com^
 ||tklto.drinkag1.com^
 ||tkrconnector.com^
 ||tkshopvn.vip^
