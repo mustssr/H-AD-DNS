@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-15-05:32PM(UTC+8)
-! Total rules: 56297
+! Last modified: 2025-12-15-06:26PM(UTC+8)
+! Total rules: 56298
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -23800,6 +23800,7 @@
 ||go.hackmodsapk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go.hangzhou.com.cn^
 ||go.megabanners.cf^
+||go.nsfwlivechat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go.pancafepro.com^
 ||go.planetnine.com^
 ||go.sohu.com^
