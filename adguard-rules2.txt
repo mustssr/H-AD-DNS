@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-17-03:22PM(UTC+8)
-! Total rules: 55041
+! Last modified: 2025-12-17-04:30PM(UTC+8)
+! Total rules: 55044
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -12415,6 +12415,7 @@
 ||cddtsecure.com^
 ||cddtsecure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cdend.com^
+||cdertf.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||cdgfa.ifeng.com^
 ||cdgtw3.guapaijia.com^
 ||cdinmaf.top^
@@ -15138,6 +15139,7 @@
 ||cza.crazygames.com^
 ||czfpc8.ru^
 ||czilladx.com^
+||czt4gnz57.com^
 ||czx5eyk0exbhwp43ya.biz^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
@@ -22169,6 +22171,7 @@
 ||galdens.cfd^
 ||galileo.math.unipd.it^
 ||galileotelemetry.tencent.com^
+||galiysana.vip^$dnsrewrite=ad-block.dns.adguard.com
 ||gallerieshub.com^
 ||galt.hit.gemius.pl^
 ||galu.hit.gemius.pl^
