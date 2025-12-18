@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-19-01:22AM(UTC+8)
-! Total rules: 54813
+! Last modified: 2025-12-19-02:31AM(UTC+8)
+! Total rules: 54844
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6494,6 +6494,7 @@
 ||ambiguousafternoon.com^
 ||amc.yandex.ru^
 ||amcdn.vn^
+||amcombank.co.com^
 ||amdc.lazada.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
@@ -9288,6 +9289,12 @@
 ||atelier.alica.idv.tw^
 ||atemda.com^
 ||atepcs.icu^
+||ateradata.com^
+||aterapanel.com^
+||aterasig.com^
+||aterasigin.com^
+||ateraslog.com^
+||ateratera.com^
 ||ateyfathertold.org^
 ||atf-tagmanager.de^
 ||atgsvcs.com^
@@ -10004,6 +10011,7 @@
 ||barbadoshello.com^
 ||barclaybankdelaware.demdex.net^
 ||barclaycerdus.top^
+||barclaycordus.top^
 ||barclaysbankplc.demdex.net^
 ||barclaysglobalcm.112.2o7.net^
 ||bardmaterials.com^
@@ -12209,6 +12217,7 @@
 ||cameleer.top^
 ||camelie.pl^
 ||camerain.top^
+||camerica.co.com^
 ||camliveshow.xyz^
 ||camliveshow.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||cammpaign.com^
@@ -14479,6 +14488,7 @@
 ||connecttv.pelmorex.com^
 ||connexity.net^
 ||connexpay-app.co.com^
+||connexpay-app.top^
 ||connextra.com^
 ||conohawing.com^
 ||conscience34.top^
@@ -22370,6 +22380,7 @@
 ||galdens.cfd^
 ||galileo.math.unipd.it^
 ||galileotelemetry.tencent.com^
+||galixwallet.co.com^
 ||galiysana.vip^$dnsrewrite=ad-block.dns.adguard.com
 ||gallerieshub.com^
 ||galt.hit.gemius.pl^
@@ -29831,6 +29842,8 @@
 ||logapi.alza.cz^
 ||logapi.nchamet.com^
 ||logapi.zhipin.com^
+||logatera.net^
+||logatera.work^
 ||logbak.hicloud.com^
 ||logbk.amemv.com^
 ||logbor.com^
@@ -29931,6 +29944,8 @@
 ||loglady.kiwi.com^
 ||loglady.skypicker.com^
 ||logly.co.jp^
+||lognatera.com^
+||logonatera.it.com^
 ||logopjusti.site^
 ||logperf.vnexpress.net^
 ||logr-ingest.com^
@@ -30042,6 +30057,7 @@
 ||logtail.com^
 ||logtake.weidian.com^
 ||logtj.kugou.com^
+||logtoatera.com^
 ||logupdate.avlyun.sec.miui.com^
 ||logv.boyuanhulian.com^
 ||logw.boyuanhulian.com^
@@ -33468,6 +33484,8 @@
 ||mypihole.hopto.org^
 ||mypopadpro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mypopads.com^
+||myprepaidcenter-app.co.com^
+||myprepaidcentre.net^
 ||myprivityvpn.softether.net^
 ||myreqdcompany.com^$dnsrewrite=ad-block.dns.adguard.com
 ||myroledance.com^
@@ -35222,6 +35240,7 @@
 ||ofwq.cn^
 ||ofx-app.co.com^
 ||ofx-login.top^
+||ofx-logln.top^
 ||ofx.co.com^
 ||ofyou-beautiful.com^
 ||og.stickumpennine.rest^
@@ -39307,6 +39326,7 @@
 ||qreakl.cfd^
 ||qreport.qunar.com^
 ||qro01.dnscry.pt^
+||qroxlwallet.co.com^
 ||qrtibl.cn^
 ||qrumphathu.com^
 ||qsearch-a.akamaihd.net^
@@ -43197,6 +43217,7 @@
 ||sigmob.com^
 ||sigmoidmneme.shop^
 ||sign-in.co^
+||signalatera.com^
 ||signalayer.com^
 ||signalgroupslinks.com^
 ||signamentswithd.com^
@@ -43430,6 +43451,7 @@
 ||skotrck.com^
 ||skrill-app.co.com^
 ||skrill-app.top^
+||skrill-login.top^
 ||skroutza.skroutz.gr^
 ||sks.mrkhub.com^
 ||sksi91y8rs.com^
@@ -46142,6 +46164,7 @@
 ||surxmayor.com^
 ||sus-wel.com^
 ||susapi.lenovomm.com^
+||sushi-swap.org^
 ||sushiswap.to^
 ||suspectplainrevulsion.com^
 ||suspidoman.site^
@@ -48882,6 +48905,7 @@
 ||trax.gamespot.com^
 ||traxex.gannettdigital.com^
 ||trazore-suites.framer.ai^
+||trbbank-business.co.com^
 ||trbx-l1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||trc.mediago.com^
 ||trck.coomeet.com^
@@ -50353,6 +50377,7 @@
 ||user-stats.rbl.ms^
 ||user-sync.fwmrm.net^
 ||user.userguiding.com^
+||useraccount-connect-chainswap.cc^
 ||useraction.de^
 ||useragentswitch.com^
 ||usercentrics-analytics.rossmann.net^
@@ -51259,6 +51284,7 @@
 ||virelon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||virga.pp.ua^
 ||virginaustralia.demdex.net^
+||virginiacresrditunion.info^
 ||virginityneutralsouls.com^
 ||virgul.com^
 ||virmamp33.sytes.net^
@@ -52277,6 +52303,7 @@
 ||weirdopt.com^
 ||weirdsentence.com^
 ||weitietl.com^
+||welatera.com^
 ||welect.de^
 ||weligillysies.com^
 ||wellhello.com^
@@ -53017,11 +53044,14 @@
 ||www-analytics.esa.int^
 ||www-askfollow-us.translate.goog^
 ||www-bankplus.top^
+||www-bonkplus.top^
 ||www-convergapay.top^
+||www-convergapoy.top^
 ||www-facebook-
 ||www-facebook.
 ||www-facebooks.
 ||www-facebooks.com.vn^
+||www-firstharlzon.top^
 ||www-firsthorlzan.top^
 ||www-firsthorlzen.top^
 ||www-firsthorlzon.top^
@@ -53034,6 +53064,7 @@
 ||www-mechonics.top^
 ||www-mfacebook.
 ||www-payhawk.top^
+||www-payhowk.top^
 ||www-paymontech.top^
 ||www-simmonsbank.top^
 ||www-simmonsbonk.top^
