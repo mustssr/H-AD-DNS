@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-20-05:18AM(UTC+8)
-! Total rules: 55001
+! Last modified: 2025-12-20-06:20AM(UTC+8)
+! Total rules: 55002
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -23786,6 +23786,7 @@
 ||gruppo.pp.ua^
 ||grv.media^
 ||grvmedia.com^
+||grwdrkaqpxcna.website^$dnsrewrite=ad-block.dns.adguard.com
 ||gs-ad.jp^
 ||gs.bambosunsash.top^
 ||gs.mountain.com^
