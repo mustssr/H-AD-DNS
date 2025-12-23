@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-23-07:18PM(UTC+8)
-! Total rules: 54857
+! Last modified: 2025-12-23-08:44PM(UTC+8)
+! Total rules: 54861
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -5480,6 +5480,7 @@
 ||adtrack.ucweb.com^
 ||adtrack.voicestar.com^
 ||adtrack.xiaojukeji.com^
+||adtracker.medproad.com^
 ||adtracks.com^
 ||adtraction.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adtrade.com^
@@ -31469,6 +31470,7 @@
 ||mediocre-hire.pro^
 ||mediocrebrilliant.com^
 ||medleyads.com^
+||medproad.com^
 ||medstarhealth.demdex.net^
 ||medtargetsystem.com^
 ||medtecchina.com^
@@ -39146,6 +39148,7 @@
 ||qcra.cn^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
+||qcwx.medproad.com^
 ||qd.x4399.com^
 ||qdasflqe.top^
 ||qdheqraln.com^
@@ -46323,6 +46326,7 @@
 ||szw.demdex.net^
 ||szwrfefyffnaf.space^
 ||szyrzyk.pl^
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t-log.sgmarkets.com^
 ||t-mv.outbrain.com^
