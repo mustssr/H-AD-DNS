@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-24-03:17AM(UTC+8)
-! Total rules: 54866
+! Last modified: 2025-12-24-04:22AM(UTC+8)
+! Total rules: 54868
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -32813,6 +32813,7 @@
 ||motonuvekerwi.online^
 ||motorik.io^
 ||motorshook.com^
+||motorshook.com^$dnsrewrite=ad-block.dns.adguard.com
 ||motorsport-cdn.ex.co^
 ||motorsport-player.ex.co^
 ||motricity.com^
@@ -51225,6 +51226,7 @@
 ||viiczfvm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiczmdv.com^
 ||viidccdn.com^$dnsrewrite=ad-block.dns.adguard.com
+||viidedss.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viidsyej.com^
 ||viifcktm.com^
 ||viifwfyo.com^
