@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-23-09:43AM(UTC+8)
-! Total rules: 54211
+! Last modified: 2025-12-23-11:26AM(UTC+8)
+! Total rules: 54213
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -31000,6 +31000,7 @@
 ||mcdp-wndc1.outbrain.com^
 ||mcfolazsg.pro^
 ||mcfstats.com^$dnsrewrite=ad-block.dns.adguard.com
+||mcge.cn^
 ||mcgi.v.qq.com^
 ||mcgo2.com^
 ||mci01.dnscry.pt^
@@ -53310,6 +53311,7 @@
 ||ykveifvdzadrl.online^
 ||ykvlhxlrdqzjw.website^
 ||ykxwn.com^
+||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||yladm.com^
 ||yldbt.com^
