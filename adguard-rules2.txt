@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2025-12-28-09:28PM(UTC+8)
-! Total rules: 53712
+! Last modified: 2025-12-28-10:19PM(UTC+8)
+! Total rules: 53713
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9738,6 +9738,7 @@
 ||avocet.io^
 ||avocetriches.com^
 ||avod.ad.abema.io^
+||avogex.com^$dnsrewrite=ad-block.dns.adguard.com
 ||avp.labanquepostale.fr^
 ||avspda.xyz^
 ||avsplow.com^
