@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-03-07:19AM(UTC+8)
-! Total rules: 58072
+! Last modified: 2026-01-03-09:40AM(UTC+8)
+! Total rules: 58065
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1631,7 +1631,6 @@
 ||1404a464ba553e01.com^
 ||141592653589793238462643383279502884197169399375105820974944592.com^
 ||141ecd71594eb6d691b39e45d2289d69.org^
-||14202444.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||14329ff8853d7b8d.com^
 ||1437953666.rsc.cdn77.org^
 ||143c5560713fa7b2.com^
@@ -1661,7 +1660,6 @@
 ||1500026601.vodplayer.wxamedia.com^
 ||150e9bc2579c.top^
 ||1513c4fe5d8fd73b.com^
-||15223102.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||15272973.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||152media.cloud^
 ||152media.com^
@@ -1769,7 +1767,6 @@
 ||18ramp.com^
 ||18tlm4jee.de^
 ||18wosx.ru^
-||19009143.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||19093.jp^
 ||1910f3eb30.com^
 ||1910ff22816642ef281ab73d122feec2.xyz^
@@ -2113,7 +2110,6 @@
 ||22094483c2e3043d.com^
 ||220fe6cfd9efdd28.com^
 ||2211116b8a952dd5.com^
-||22117898.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||2218bddb7c7a5d05e37eace74b96d3174499c541c2cd714d90705506a2ed401.link^
 ||2222.ro^
 ||2226668ad1.top^
@@ -3043,7 +3039,6 @@
 ||4265b07932ffcb15eb793ad8c81abc52.xyz^
 ||42736c12558acabf.com^
 ||427f8b547741eb4c.com^
-||42869755.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||428b704aef36d921.com^
 ||428cd84e276d8bfe.com^
 ||428d9b0e1fb25e30.com^
@@ -3570,7 +3565,6 @@
 ||555abc333abc.com^
 ||555abc666abc.com^
 ||55726zubo56686.com^
-||55766925.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||557acd3ab337.top^
 ||557bf166e2c636d5.com^
 ||557ma7bd9.com^
@@ -3671,7 +3665,6 @@
 ||5934e8732139098f.com^
 ||593902912f9ed64a.com^
 ||595image.com^
-||59644010.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||59768910.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||5988ee19e1f10182.com^
 ||598n8mpd6.com^
@@ -3854,6 +3847,7 @@
 ||5mp.eu^
 ||5n4bjvymzzqjuj1zbv.rest^
 ||5odd5zsn.xyz^
+||5p35xkp1p.com^
 ||5pub.com^
 ||5qjspf2c.xyz^
 ||5qzone.net^
@@ -4364,7 +4358,6 @@
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
 ||7349ffc66b7aa469.com^
-||73503921.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||73579d9cf8ad82e8.com^
 ||735f9936a771b094.com^
 ||7360b46eca70cf7b.com^
@@ -4507,7 +4500,6 @@
 ||790772854f3d.top^
 ||7907dc4fcd96dd3d.com^
 ||791267132585385f.com^
-||79180284.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||79181531227.com^
 ||791dbe40ede5c321.com^
 ||7929821097ffb25c.com^
@@ -4710,7 +4702,6 @@
 ||8001aa4a315e2185.com^
 ||8001d52dbcc02381.com^
 ||800400.net^
-||80133082.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||8014bac5085ca71f.com^
 ||802ac.v.fwmrm.net^
 ||804bcbd02362.top^
@@ -9031,6 +9022,7 @@
 ||ainb01011zh.com^
 ||ainb01020zh.com^
 ||ainb01021zh.com^
+||ainb01030zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -13633,7 +13625,6 @@
 ||bemobtrcks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bemobtrk.com^
 ||bemobtrk.com^$dnsrewrite=ad-block.dns.adguard.com
-||bemoonunbroid.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||benaughty.com^
 ||benbbs.net^
 ||bend-me-over.com^
@@ -15199,6 +15190,7 @@
 ||c0nect.com^
 ||c0nmelm3y2.com^
 ||c0nt4ct-me.pages.dev^
+||c0xz0b2dy.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.adform.net^
@@ -15543,7 +15535,6 @@
 ||calypsocapsule.com^
 ||cam-analytics-service-435433079.us-west-2.elb.amazonaws.com^
 ||cam-content.com^
-||cam-maus.info^$dnsrewrite=ad-block.dns.adguard.com
 ||cam.demdex.net^
 ||cam4tracking.com^
 ||camdough.com^
@@ -15580,6 +15571,7 @@
 ||canadianshield.cira.ca^
 ||cancannicolas.com^
 ||cancelaciondeseguros-*.azurewebsites.net^
+||cancellation58.top^
 ||canceltrustingunderuse.com^
 ||candb.demdex.net^
 ||canddi.com^
@@ -16348,6 +16340,7 @@
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
 ||cgcg01020ht.com^
+||cgcg01030ht.com^
 ||cgcsarz0opg.jp^
 ||cgicol.amap.com^
 ||cgigc.com.cn^
@@ -19701,7 +19694,6 @@
 ||def2g1kz2t.top^
 ||def35ff3d38ca185.com^
 ||def3971eff64.top^
-||defandoar.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||defeasestanks.shop^
 ||defeatedbadge.com^
 ||defectiveaskewsite.com^
@@ -19874,7 +19866,6 @@
 ||detaillog-global.coolzcloud.com^
 ||detaillog-hk-base.coolacloud.com^
 ||detaillog-hk-dual-base.coolacloud.com^
-||detailsallaround.org^$dnsrewrite=ad-block.dns.adguard.com
 ||detaymaxinet.com^
 ||detectca.easysol.net^
 ||detectdiscovery.com^
@@ -25013,7 +25004,6 @@
 ||fin.ovh^
 ||final-claim.pages.dev^
 ||final-future.com^
-||finalice.net^$dnsrewrite=ad-block.dns.adguard.com
 ||finallyy2.top^
 ||finance-superchain.net^
 ||finance1-online.de^
@@ -25969,6 +25959,7 @@
 ||g10300385420.co^
 ||g10498469755.co^
 ||g1188506010.co^
+||g12tm6xl3.com^
 ||g1386590346.co^
 ||g1584674682.co^
 ||g1584674683.co^
@@ -28362,6 +28353,7 @@
 ||hltpdd.icu^
 ||hltppkzfbhkuc.space^
 ||hltvorg.com^
+||hluraiwoy.com^
 ||hly.com^
 ||hlzncxmu.icu^
 ||hm.baidu.com^
@@ -37734,7 +37726,6 @@
 ||nonfeoctas.world^
 ||nonguds.com^
 ||nonprbatte.world^
-||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
 ||nontymontylle.jp^
 ||noochouhaureepu.com^
 ||noodle.backmarket.io^
@@ -41459,6 +41450,7 @@
 ||pps.nab.com.au^
 ||ppslywixsqohh.space^
 ||ppxndfgf.icu^
+||ppxqhx.icu^
 ||ppyoirmdaupvx.space^
 ||pq3orc-ledger.com^
 ||pq9alk18ik.com^
@@ -47930,7 +47922,6 @@
 ||spendesk.co.com^
 ||spendharassingwarmly.com^
 ||speraspace.com^
-||sperebnf.click^$dnsrewrite=ad-block.dns.adguard.com
 ||spexjs.com^
 ||spezzbleat.world^
 ||spezzbrank.casa^
@@ -49460,6 +49451,7 @@
 ||swashapp.io^
 ||swatledgesling.com^
 ||swaven.com^
+||swaw.cn^
 ||swcnmtb.top^
 ||swcs.24sata.rocks^
 ||swcs.jp^
@@ -49989,6 +49981,7 @@
 ||tailstories.biz^
 ||taimpt.com^
 ||taiteemozathou.com^
+||taiverturena.com^
 ||taj1.ebis.ne.jp^
 ||taj2.ebis.ne.jp^
 ||taka-live.com^
@@ -52270,7 +52263,6 @@
 ||truell55.top^
 ||trueprofit.io^
 ||trueroas.io^
-||truevibe.live^$dnsrewrite=ad-block.dns.adguard.com
 ||truffle.bid^
 ||trulysuitedcharges.com^
 ||trumops.com^
@@ -55027,6 +55019,7 @@
 ||w7044.com^
 ||w716eb02n9.ru^
 ||w740.newstimes.com^
+||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w8.com.cn^
 ||w890.denvergazette.com^
