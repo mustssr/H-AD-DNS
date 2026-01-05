@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-05-11:24PM(UTC+8)
-! Total rules: 56914
+! Last modified: 2026-01-06-12:27AM(UTC+8)
+! Total rules: 56915
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24649,6 +24649,7 @@
 ||figpii.com^
 ||figsprotein.com^
 ||figurechairmanarrive.com^
+||figureraisinupper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||figvatqrwd.com^
 ||figvdxrpxreta.space^
 ||fiheos.co.in^
