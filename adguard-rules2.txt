@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-05-03:28PM(UTC+8)
-! Total rules: 57308
+! Last modified: 2026-01-05-04:33PM(UTC+8)
+! Total rules: 57310
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8998,6 +8998,7 @@
 ||ainb01040zh.com^
 ||ainb01041zh.com^
 ||ainb01050zh.com^
+||ainb01051zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -42260,6 +42261,7 @@
 ||qwikln.com^
 ||qwikln.com^$dnsrewrite=ad-block.dns.adguard.com
 ||qwilmiy.top^
+||qwnzzp50x.com^
 ||qwqnvhnqepymjaduaxih.com^
 ||qwsbegovo.top^
 ||qwtag.com^
