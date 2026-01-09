@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-10-01:23AM(UTC+8)
-! Total rules: 55874
+! Last modified: 2026-01-10-02:32AM(UTC+8)
+! Total rules: 55875
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10077,6 +10077,7 @@
 ||attentionantecedentsuperb.com^
 ||attestdivine.com^
 ||attestsamylom.shop^
+||atthhnv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||attirecideryeah.com^
 ||attirra.com^
 ||attmailservice*.weebly.com^
