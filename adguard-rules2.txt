@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-10-10:18PM(UTC+8)
-! Total rules: 56043
+! Last modified: 2026-01-10-11:19PM(UTC+8)
+! Total rules: 56003
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -984,7 +984,6 @@
 ||025-377-6150.com^
 ||0281.jp^
 ||029google.com^
-||02a30fd4b8.com^
 ||0365alert.com^
 ||03770d07341.beer^
 ||037991.click^
@@ -1845,6 +1844,7 @@
 ||3i3w8hl6do.com^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||3j1fiw14n9.com^
+||3jgtwq9ywh273fqr.cfd^
 ||3k2frl8r79.com^
 ||3kfvgobkw.com^
 ||3lift.com^
@@ -2063,6 +2063,7 @@
 ||540484935e.com^
 ||54199287.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||542710.com^
+||545xnv7vpyxmg5lqvzx4unqut938.cfd^
 ||546100.com^
 ||54623b622061211f9813c0c4d18f2a5f.com^
 ||54623b622061211f9813c0c4d18f2a5f.online^
@@ -2468,7 +2469,6 @@
 ||7cf90.v.fwmrm.net^
 ||7d01d.v.fwmrm.net^
 ||7d074.v.fwmrm.net^
-||7d45c312ac.com^
 ||7db96.v.fwmrm.net^
 ||7dbdb.v.fwmrm.net^
 ||7dc33.v.fwmrm.net^
@@ -2598,8 +2598,12 @@
 ||845550.com^
 ||84586.vu^
 ||84631949.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||84640.xyz^
+||84643.xyz^
+||84673.xyz^
 ||84698.xyz^
 ||84705.xyz^
+||84708.xyz^
 ||84d2d09697.com^
 ||84dwl4bbq.com^
 ||850-google.com^
@@ -2894,7 +2898,6 @@
 ||a-ring-ipv6only.msedge.net^
 ||a-ring.msedge.net^
 ||a-ro-ma.com^
-||a-tiktok.love^
 ||a-zzz.com^
 ||a.0c3a9b2aae13e46e43b0815559b8ab5288c3616548b2a148d9ac9c5d.com^
 ||a.10tianqi.com^
@@ -3095,6 +3098,7 @@
 ||a63t9o1azf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||a64x.com^
 ||a6622333.com^
+||a66g.xyz^
 ||a67443426d522e851bc8660da8dfd61a.com^
 ||a6a2df32c0.icu^
 ||a6def2ef910.pw^
@@ -3115,7 +3119,6 @@
 ||a910445285.cn^
 ||a958562188.com^
 ||a9780eb84d.a065b8f217.com^
-||a9a1a0fb14.com^
 ||a9c3f7e1d4b2c8f0e7a6d1c3b5e9f2a4.net^
 ||a9c3f7e1d4b2c8f0e7a6d1c3b5e9f2a4.org^
 ||a9c4fb8cf64c313b61c3b0f55dba001c.com^
@@ -6666,8 +6669,6 @@
 ||amezpay.com^
 ||amgdgt.com^
 ||amghzrc.cn^
-||amghztx.cn^
-||amghzud.cn^
 ||amghzyi.cn^
 ||amgpprod.112.2o7.net^
 ||amgr.asuscomm.com^
@@ -9482,7 +9483,6 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||asdfix.com^
 ||asdnow.xyz^
-||ase-amazon.com^
 ||asearch.alicdn.com^
 ||asensoithecb.com^
 ||asepourioter.com^
@@ -10208,7 +10208,6 @@
 ||b053d0h076.com^
 ||b0df88651ae82a2c409e045d0383a0a2.info^
 ||b0e8.com^
-||b0e81fb2f1.com^
 ||b0f1d2.com^
 ||b0rz2s5ik.com^
 ||b1-data.ads.heytapmobi.com^
@@ -10227,6 +10226,7 @@
 ||b1t0gw.lat^
 ||b1zftjhtwb.com^
 ||b2.mail.ru^
+||b236g.xyz^
 ||b241c574f8.com^
 ||b28c32736a.top^
 ||b29b70e3ca.com^
@@ -11439,7 +11439,6 @@
 ||bjsvp49.space^
 ||bjtag.littlespoon.com^
 ||bjtlzv.icu^
-||bjxas.cn^
 ||bk.usesmock.top^
 ||bk2l4eidc.com^
 ||bkad13gfu.com^
@@ -12864,6 +12863,7 @@
 ||caroda.io^
 ||carolinareaper.heeremans.net^
 ||carolroth.com^
+||caroncommunicatie.nl^
 ||carrefour-enbacktoschool4.pages.dev^
 ||carrell.bajrisialid.top^
 ||carrick-ui.advoncommerce.com^
@@ -12872,6 +12872,7 @@
 ||cars-taxonomy.mywebartist.eu^
 ||cartbooster.io^
 ||carte-grise.org^
+||carte-public-sante.com^
 ||carte-renouv-sante.com^
 ||cartegriseminute.fr^
 ||cartelsalsa.com^
@@ -14399,38 +14400,6 @@
 ||cnet-nn.info^
 ||cnetcontentsolutions.com^
 ||cnhv.co^
-||cnic-probe-aws-asia-tokyo-live-1767912301.xyz^
-||cnic-probe-aws-asia-tokyo-live-1767914101.xyz^
-||cnic-probe-aws-asia-tokyo-live-1767914701.xyz^
-||cnic-probe-aws-asia-tokyo-live-1767915001.xyz^
-||cnic-probe-aws-asia-tokyo-live-1767915901.xyz^
-||cnic-probe-aws-asia-tokyo-live-1767916501.online^
-||cnic-probe-aws-asia-tokyo-live-1767917101.online^
-||cnic-probe-aws-asia-tokyo-live-1767918002.online^
-||cnic-probe-aws-asia-tokyo-live-1767919201.online^
-||cnic-probe-aws-eu-frankfurt-live-1767911701.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1767912601.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1767915301.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1767916201.online^
-||cnic-probe-aws-eu-frankfurt-live-1767916201.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1767916802.online^
-||cnic-probe-aws-north-america-oregon-live-1767915601.xyz^
-||cnic-probe-aws-north-america-oregon-live-1767917701.online^
-||cnic-probe-aws-north-america-oregon-live-1767918302.online^
-||cnic-probe-aws-north-america-oregon-live-1767918602.online^
-||cnic-probe-aws-north-america-oregon-live-1767918901.online^
-||cnic-probe-aws-north-america-vir-live-1767912002.xyz^
-||cnic-probe-aws-north-america-vir-live-1767912901.xyz^
-||cnic-probe-aws-north-america-vir-live-1767913201.xyz^
-||cnic-probe-aws-north-america-vir-live-1767913502.xyz^
-||cnic-probe-aws-north-america-vir-live-1767919501.online^
-||cnic-probe-aws-north-america-vir-live-1767920101.online^
-||cnic-probe-aws-oceania-sydney-live-1767913801.xyz^
-||cnic-probe-aws-oceania-sydney-live-1767914401.xyz^
-||cnic-probe-aws-oceania-sydney-live-1767917402.online^
-||cnic-probe-aws-oceania-sydney-live-1767919801.online^
-||cnic-probe-aws-oceania-sydney-live-1767920401.online^
-||cnic-probe-aws-oceania-sydney-live-1767920702.online^
 ||cnlogs.umeng.com^
 ||cnlogs.umengcloud.com^
 ||cnn-app-kaiyun.com^
@@ -14472,6 +14441,7 @@
 ||cnuonlineholdings.demdex.net^
 ||cnvlink.com^
 ||cnwuamf.top^
+||cnwucnf.top^
 ||cnzz.com^
 ||cnzz.net^
 ||cnzz.trafficmanager.net^
@@ -14746,6 +14716,7 @@
 ||colonistsmothercommunity.com^
 ||colorados-live.de^
 ||coloradoserves.com^
+||colorfulglowllc.com^
 ||colorfullouderremnant.com^
 ||colorfulpet.com^
 ||colorfulromance.com^
@@ -14794,7 +14765,6 @@
 ||commentarybumpbankrupt.com^
 ||comments.vg.no^
 ||commerce.bing.com^
-||commercets-office.site^
 ||commercial-analytics-collector.news.co.uk^
 ||commercial-carrefour.fr^
 ||commercial-onepass.com^
@@ -15621,6 +15591,7 @@
 ||cruzietv.com^
 ||crxcr1.com^
 ||cryingforanyth.com^
+||crymandrel.info^
 ||cryp-prel.com^
 ||crypromo.com^
 ||crypt.mostsecureme.com^
@@ -16539,7 +16510,6 @@
 ||dazactivator.com^
 ||dazedengage.com^
 ||dazzlejigged.cfd^
-||db-unlimited.net^
 ||db.unfattybeveled.shop^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||db8b41ie5.com^
@@ -17138,7 +17108,6 @@
 ||dhlghfdfd.sbs^
 ||dhlguide.co.uk^
 ||dhlh.cn^
-||dhlhuq.mom^
 ||dhlianmeng.com^
 ||dhlib.org.cn^
 ||dhlifeus-micro1.dns.3456.kr^
@@ -19285,7 +19254,6 @@
 ||dsu-adguard.pro^
 ||dsvthltqnv.com^
 ||dswinc.demdex.net^
-||dswkqzg.cn^
 ||dt-percolator-ash-fknp0-sjc2.rubiconproject.com^
 ||dt-tracker.mamikos.com^
 ||dt.adsafeprotected.com^
@@ -19865,7 +19833,6 @@
 ||eeco.xyz^
 ||eeco.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||eecowhucoams.com^
-||eedsgu.cn^
 ||eef62cfd612e33b5871850596955c76e42b4eaa9.com^
 ||eehassoosostoa.com^
 ||eehsd.cyclegear.com^
@@ -21416,7 +21383,6 @@
 ||fb-business.com^
 ||fb07b1b8e1cbc42f33ae26b3b2e28359.org^
 ||fb2newr2nm.com^
-||fb56565897464564.com^
 ||fbappi.co^
 ||fbcdn2.com^
 ||fbdata-edt.com^
@@ -24010,6 +23976,7 @@
 ||grimlyappuikaraite.cfd^
 ||grimlycask.com^
 ||grimoiksep.com^
+||grindharassment.com^
 ||grintracks.com^
 ||gripping-bread.com^
 ||grippingdelay.com^
@@ -24506,7 +24473,6 @@
 ||hantana.org^
 ||hanulsms.com^
 ||hanzidnbn.com^
-||hao222.com^
 ||hao61.net^
 ||haokoubei.top^
 ||haole1xx.top^
@@ -25156,7 +25122,6 @@
 ||holidaydelivery.shop^
 ||holidayvilla-canaryislands.com^
 ||holland-casino-live.xyz^
-||hollisparkmanor.com^
 ||hollister-abercrombiefitch.fr^
 ||hollistersoldes.fr^
 ||hollow-mess.com^
@@ -25674,7 +25639,6 @@
 ||hypedrip.top^
 ||hypelab.com^
 ||hyper-liquid.to^
-||hyper-office.com^
 ||hyperadx.com^
 ||hyperbanner.net^
 ||hyperliquid-filtering.xyz^
@@ -26383,7 +26347,6 @@
 ||indiansexstories.net^
 ||indiavisa-online.org^
 ||indicative.com^
-||indigitall.com^
 ||indirads.org^
 ||indlyment-stuador.com^
 ||indlyment-stuador.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -26925,7 +26888,6 @@
 ||irtyc.com^
 ||irtyf.com^
 ||irxybq.com^
-||irysnetwork.com^
 ||irzi.cn^
 ||is02041qqp.xyz^
 ||is02050qqp.xyz^
@@ -27059,6 +27021,7 @@
 ||ivzaq2irg.com^
 ||iwa.iplsc.com^
 ||iwa3.hit.interia.pl^
+||iwad.cachefly.net^
 ||iwama-office.org^
 ||iwanad.baidu.com^
 ||iwantu.com^
@@ -27084,7 +27047,6 @@
 ||ixspublic.com^
 ||ixtu.cn^
 ||ixug0amgtn.com^
-||ixvhwhd.cn^
 ||ixxx-blognew.com^
 ||iy.com.cn^
 ||iyes.youku.com^
@@ -27363,7 +27325,6 @@
 ||jibtdn.top^
 ||jicacmeswuba.world^
 ||jicoffice.cn^
-||jieliyinshua.cn^
 ||jifflebreasts.com^
 ||jifjeholixetafo.cloud^
 ||jifr.net^
@@ -28730,7 +28691,6 @@
 ||ladsp.jp^
 ||lagzoids.com^
 ||lahrarbfemav.com^
-||laillearda.com^
 ||laimroll.ru^
 ||laivue.com^
 ||laivue.xyz^
@@ -29880,7 +29840,6 @@
 ||load.data.medpets.de^
 ||load.gtm.audocph.com^
 ||load.metrics.actionmoto.it^
-||load.s.vibholm.dk^
 ||load.s3.amazonaws.com^
 ||load.sgtm.deutsches-gesundheits-journal.com^
 ||load.sgtm.metaflow.de^
@@ -29926,6 +29885,7 @@
 ||localsgowild.com^
 ||localsnapsext.com^
 ||localsnapsext.com^$dnsrewrite=ad-block.dns.adguard.com
+||localupdate.icu^
 ||localytics.com^
 ||location-microsoft-com.b-0005.b-msedge.net^
 ||location-services-measurements.s3-external-1.amazonaws.com^
@@ -31303,7 +31263,6 @@
 ||markethealth.com^
 ||marketing-tracker.babbel.com^
 ||marketing.dropbox.com^
-||marketing.visitmadison.com^
 ||marketingcube.com.au^
 ||marketinghub.zoho.eu^
 ||marketingsolutions.yahoo.com^
@@ -33092,6 +33051,7 @@
 ||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
 ||mixpanel.cdn.viber.com^
+||mixpanel.tigocloud.net^
 ||mixpo.com^
 ||mixtureanticipationsuede.com^
 ||mixx-ad.net^
@@ -35693,7 +35653,6 @@
 ||office-matrix.com^
 ||office-mikan.com^
 ||office-nakataku-chosaku.site^
-||office-nanairo.net^
 ||office-nemoto.com^
 ||office-otaniyuyasu.com^
 ||office-pac.jp^
@@ -35884,6 +35843,7 @@
 ||okjqawahxv.com^
 ||okkkk.com^
 ||okkywctpvfu.com^
+||oklopz.com^
 ||okn57l1h.top^
 ||oko.net^
 ||okon-remont-borisov-pr.ru^
@@ -38970,7 +38930,6 @@
 ||pricecardboardtractor.com^
 ||pricedupbet.casino^
 ||pricelib.ru^
-||pricenepal.com^
 ||priceypies.com^
 ||pricklydebt.com^
 ||prickypaeony.top^
@@ -40145,6 +40104,7 @@
 ||r3.visualwebsiteoptimizer.com^
 ||r30address.com^
 ||r30deai.com^
+||r36r.xyz^
 ||r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com^
 ||r3f.technology^
 ||r40h9qvpq.com^
@@ -41285,6 +41245,7 @@
 ||robhqwdc.com^
 ||robin-flow.com^
 ||robiox.com.py^
+||roblox-creators.com^
 ||roblox.com.ht^
 ||robloxforum.dev^
 ||robloxrr.com^
@@ -42019,6 +41980,7 @@
 ||s9.cnzz.com^
 ||s95.cnzz.com^
 ||s96.cnzz.com^
+||s98s.xyz^
 ||s99i.org^
 ||sa.openmedia.co^
 ||sa.scorpion.co^
@@ -42803,13 +42765,13 @@
 ||securifyguard.com^
 ||securifyprotect.com^
 ||securifythis.com^
-||securing-amazon.com^
 ||securiteycoinbase.com^
 ||security-apple-portal.com^
 ||security-suggestion.com^$dnsrewrite=ad-block.dns.adguard.com
 ||security-u.com^$dnsrewrite=ad-block.dns.adguard.com
 ||security.rabbitdns.org^
 ||securitycheckonline.com^$dnsrewrite=ad-block.dns.adguard.com
+||securityinvaluableanne.com^
 ||securityservicesfcu.demdex.net^
 ||securybrowsenow.com^
 ||securysearch.com^
@@ -43173,7 +43135,6 @@
 ||services.brightline.tv^
 ||servicetzlx.sbs^
 ||servicewehi.sbs^
-||servicewjuo.sbs^
 ||servicezdga.sbs^
 ||servicezmzu.sbs^
 ||servicezohl.sbs^
@@ -43695,6 +43656,7 @@
 ||shells.pairapple.net^
 ||shelluiqy.com^
 ||shelter57.com^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shengsizhanchang.com^
@@ -44951,7 +44913,6 @@
 ||snigelweb.com^
 ||sniperlog.ru^
 ||snipersex.com^
-||snipit.tech^
 ||snippet.affilimate.io^
 ||snippetdata.api.swiftkey.com^
 ||snitchmountain.com^
@@ -46900,7 +46861,6 @@
 ||supportingchildrenwithburns.com^
 ||supportinggenericexchanged.com^
 ||supportjobsumkm.net^
-||supports-tiktok.com^
 ||supportsentparticle.com^
 ||supportss-microsoft.com^
 ||supportstudent.link^
@@ -46921,6 +46881,7 @@
 ||surgeon38.top^
 ||surgicalconceivedrighteous.com^
 ||surgicalfavor.com^
+||surlymotley.com^
 ||suroffice.xyz^
 ||surprisinglyferry.com^
 ||surprisinglystaunchdemocratic.com^
@@ -47109,6 +47070,7 @@
 ||synacast.com^
 ||synacor-match.dotomi.com^
 ||synamicvibune.com^
+||sync-bybit.one^
 ||sync-collab.land^
 ||sync-yieldmo-com-tf-1869548451.eu-west-1.elb.amazonaws.com^
 ||sync.ads.oveeo.com^
@@ -47881,7 +47843,6 @@
 ||telecomitalia.demdex.net^
 ||telecommandsvc.microsoft.com^
 ||telegram-aaa.buzz^
-||telegram-badirectory.shop^
 ||telegram-click.ru^
 ||telegram-delta.ru^
 ||telegram-gov-service.online^
@@ -49060,6 +49021,7 @@
 ||toiletpaper.life^$dnsrewrite=ad-block.dns.adguard.com
 ||token.rubiconproject.com^
 ||tokenp0ckht.click^
+||tokeu.app^
 ||toki-no-irodori.com^
 ||tokimekimaildesu.net^
 ||tokimekitaine.net^
@@ -49098,6 +49060,7 @@
 ||tongj.xilu.com^
 ||tongji.baidu.com^
 ||tongjiniao.com^
+||tonguecherry.info^
 ||tongueq2.top^
 ||tonzz3.ru^
 ||toobee.it^
@@ -50125,6 +50088,7 @@
 ||truoptik.com^
 ||trusa.xyz^
 ||trusourcelabs.com^
+||trust-bybit.one^
 ||trust-download.co.com^
 ||trust-group.pro^
 ||trust-office.com^
@@ -50172,7 +50136,6 @@
 ||try-smiley.com^
 ||try.opera.com^
 ||try.opera.com^$dnsrewrite=ad-block.dns.adguard.com
-||tryamiclear.com^
 ||tryly.live^
 ||tryrichleads.top^
 ||trystpage.com^
@@ -51368,7 +51331,6 @@
 ||usdt936.com^
 ||usdt938.com^
 ||usdttbs.dev^
-||use-amazon.com^
 ||use.hetzner.com^
 ||use.hosting.de^
 ||use1-secure.smartadserver.com^
@@ -51453,7 +51415,6 @@
 ||ustat.info^
 ||ustechsupport.com^
 ||usuarios-online.com^
-||usupport-amazon.com^
 ||usvetdsp.com^
 ||usw1-secure.smartadserver.com^
 ||usw1.smartadserver.com^
@@ -52890,6 +52851,7 @@
 ||w3cfba6ufr.com^
 ||w3counter.com^
 ||w3ytzqm3d.com^
+||w49q.xyz^
 ||w4h5ae.ru^
 ||w4jj99ggt.xyz^
 ||w4sn20zpvz.com^
@@ -54411,6 +54373,7 @@
 ||x861g.duckdns.org^
 ||x9.shinobi.jp^
 ||x904.lansi-savo.fi^
+||x92l.xyz^
 ||x9fnzrtl4x8pynsf.com^
 ||x9ner.anygay.com^
 ||xa.poringa.net^
@@ -54724,7 +54687,6 @@
 ||xoilactvcj.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||xoilacxq.com^
 ||xoiz.cn^
-||xokhilc.cn^
 ||xokhlmuwadyhp.com^
 ||xomadns.com^
 ||xoom-ads.com^
@@ -55361,7 +55323,6 @@
 ||yuelmodqhrw.com^
 ||yueqal.glassesusa.com^
 ||yugjwgg.icu^
-||yuhuan.cc^
 ||yui06111shga.com^
 ||yui06120shga.com^
 ||yui06121shga.com^
@@ -55881,7 +55842,6 @@
 ||zontera.com^
 ||zoojoujoaseeh.com^
 ||zoologist00.com^
-||zoom-client.site^
 ||zoom-connection.com^
 ||zoom-game.online^
 ||zoom-game.ru^
