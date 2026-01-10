@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-10-09:28PM(UTC+8)
-! Total rules: 56042
+! Last modified: 2026-01-10-10:18PM(UTC+8)
+! Total rules: 56043
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -45035,6 +45035,7 @@
 ||sofq.site^$dnsrewrite=ad-block.dns.adguard.com
 ||soft-com.biz^
 ||soft-download-files.ru^
+||soft-hub.site^
 ||softchest.com^
 ||softdownloadgithub.icu^
 ||softonic.it^
