@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-12-05:32PM(UTC+8)
-! Total rules: 55797
+! Last modified: 2026-01-12-06:26PM(UTC+8)
+! Total rules: 55791
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11532,7 +11532,6 @@
 ||blawnsodium.com^
 ||blcdog.com^
 ||blcdog.com^$dnsrewrite=ad-block.dns.adguard.com
-||blck.pages.dev^
 ||bld.mobi^
 ||bld.sys-adm.in^
 ||bleachbit.com^
@@ -11573,10 +11572,6 @@
 ||blockadsnot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blockchain-ads.com^
 ||blockchains-nexo.io^
-||blockcheck.pages.dev^
-||blockchecker-8ka.pages.dev^
-||blockchecker5.pages.dev^
-||blockchecker6.pages.dev^
 ||blocker.thethorsens.org^
 ||blockerads.multimediaconcept.fr^
 ||blockfi-claims.help^
@@ -13688,7 +13683,6 @@
 ||checkstoken.com^
 ||checkupoceandip.com^
 ||checkvim.com^
-||checkx.pages.dev^
 ||chedethw.com^
 ||cheerfulgames2023.com^
 ||cheersoolrato.net^
@@ -30647,6 +30641,7 @@
 ||lppfnf.icu^
 ||lpriu.shop^
 ||lptrak.com^
+||lpuqhego.com^
 ||lqdcvj.top^
 ||lqfctb.icu^
 ||lqfsnws.cc^
@@ -54234,7 +54229,6 @@
 ||xceliams.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xcf-bd-js.chuimg.com^
 ||xcheckx.pages.dev^
-||xchekersite.pages.dev^
 ||xclaimwords.net^
 ||xclick24.com^
 ||xcoin-crypto.com^
