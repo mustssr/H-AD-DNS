@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-15-05:21AM(UTC+8)
-! Total rules: 55988
+! Last modified: 2026-01-15-06:22AM(UTC+8)
+! Total rules: 55990
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24069,6 +24069,7 @@
 ||goodlifestylenews.com^
 ||goodnika.com^
 ||goodseepic.com^
+||goodsstor.vip^$dnsrewrite=ad-block.dns.adguard.com
 ||goofdiam.com^
 ||goofy1x.xyz^
 ||googie-anaiytics.com^
@@ -25006,6 +25007,7 @@
 ||heartchakracheckup.com^
 ||heartilyfootindebted.com^
 ||heartilyscales.com^
+||heartlessanthemantiquity.com^$dnsrewrite=ad-block.dns.adguard.com
 ||heartmatch.jp^
 ||heartstring66.com^
 ||heartyboney.com^
