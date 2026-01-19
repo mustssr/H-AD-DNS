@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-19-07:21PM(UTC+8)
-! Total rules: 54145
+! Last modified: 2026-01-19-08:51PM(UTC+8)
+! Total rules: 54147
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -24992,6 +24992,8 @@
 ||host0y.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||host2y.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||host3.live^
+||host40x.cfd^$dnsrewrite=ad-block.dns.adguard.com
+||host72x.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||host8.248.cloudhost.in.th^
 ||host9.link^
 ||host94.rheingold.com.ua^
