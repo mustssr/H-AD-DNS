@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-20-03:28PM(UTC+8)
-! Total rules: 54309
+! Last modified: 2026-01-20-04:32PM(UTC+8)
+! Total rules: 54312
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -12406,6 +12406,7 @@
 ||bugs01190ko.com^
 ||bugs01191ko.com^
 ||bugs01200ko.com^
+||bugs01201ko.com^
 ||bugscrawled.com^
 ||bugwykhuyh.com^
 ||buh01.dnscry.pt^
@@ -19056,6 +19057,7 @@
 ||dpmsrv.com^
 ||dpsusqs20.com^
 ||dpu.samsungelectronics.com^
+||dpuhlinevz.com^
 ||dpuplet.com^
 ||dpuplet.net^
 ||dpuplet.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -39178,6 +39180,7 @@
 ||r7tqkqrvuz.com^
 ||r8bz.com^
 ||r8bz.com^$dnsrewrite=ad-block.dns.adguard.com
+||r8ln4v4nef.com^
 ||r9-2an.com^
 ||r973.timesheraldonline.com^
 ||ra.katowice-airport.com^
