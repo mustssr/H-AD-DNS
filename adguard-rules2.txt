@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-21-04:32PM(UTC+8)
-! Total rules: 55432
+! Last modified: 2026-01-21-05:33PM(UTC+8)
+! Total rules: 55435
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3182,6 +3182,7 @@
 ||8fdmj67f5e.com^
 ||8feichai.com^
 ||8ff0.cn^
+||8g2a7mifv.com^
 ||8jfbt5va3r.com^
 ||8jfbt5va3r.com^$dnsrewrite=ad-block.dns.adguard.com
 ||8jk35km0r3.com^
@@ -24426,6 +24427,7 @@
 ||gsk.demdex.net^
 ||gsk801200hh.com^
 ||gsk801201hh.com^
+||gsk801211hh.com^
 ||gslb.hpplay.cn^
 ||gsminternetinfo.sbs^
 ||gspo.jp^
@@ -52388,6 +52390,7 @@
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w592be.cc^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
