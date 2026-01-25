@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-25-07:17PM(UTC+8)
-! Total rules: 66057
+! Last modified: 2026-01-25-08:42PM(UTC+8)
+! Total rules: 66059
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -37729,6 +37729,7 @@
 ||masteringdiabetes.org^
 ||mastermind.com^
 ||masterpiecevex.com^
+||masterreviews.org^$dnsrewrite=ad-block.dns.adguard.com
 ||masters-of-cloud.de^
 ||mastershik.com^
 ||mastertarget.ru^
@@ -57535,6 +57536,7 @@
 ||thirty-live.com^
 ||this-category.pro^
 ||thisiswaldo.com^
+||thj36m3dm.com^
 ||thkrchain.org^
 ||thljnv.top^
 ||thlko6.ru^
