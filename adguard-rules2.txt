@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-27-08:51PM(UTC+8)
-! Total rules: 67938
+! Last modified: 2026-01-27-09:48PM(UTC+8)
+! Total rules: 67946
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -5988,6 +5988,7 @@
 ||ad.waff.me^
 ||ad.walkgame.com^
 ||ad.watchnet.com^
+||ad.weibo.com^
 ||ad.weixin.qq.com^
 ||ad.weplayer.cc^
 ||ad.winrar.com.cn^
@@ -6714,6 +6715,7 @@
 ||adimg-d01.moneycontrol.com^
 ||adimg.daumcdn.net^
 ||adimg.liba.com^
+||adimg.uve.weibo.com^
 ||adimo.co^
 ||adimpact.com^
 ||adinall.com^
@@ -7816,6 +7818,7 @@
 ||adstorebluebird.cy^
 ||adstork.com^
 ||adstracking.io^
+||adstrategy.biz.weibo.com^
 ||adstrategysites.com^
 ||adstreampro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adstrim.live^
@@ -7939,6 +7942,7 @@
 ||adturtle.biz^
 ||adtwister.me^
 ||aduhai.caksono.com^
+||adui.tg.meitu.com^
 ||adukwai.com^
 ||adult-filter-dot.dnswarden.com^
 ||adult-live.org^
@@ -8150,6 +8154,7 @@
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx-saas.advlion.com^
+||adx-strategy-api-cn.statisticslinks.com^
 ||adx.4strokemedia.com^
 ||adx.adform.net^
 ||adx.ads.heytapmobi.com^
@@ -41771,6 +41776,7 @@
 ||morele.one^
 ||moremorelove.net^
 ||moremoremail.net^
+||mores.toponad.com^
 ||morevisits.info^
 ||morganryan.shop^
 ||morganstanley.demdex.net^
@@ -52835,6 +52841,7 @@
 ||sdkapicdn.applanga.com^
 ||sdkapiv2.bizport.cn^
 ||sdkapp.mobile.sina.cn^
+||sdkapp.uve.weibo.com^
 ||sdkauth.hpplay.cn^
 ||sdkbalance.com^
 ||sdkconf.avlyun.com^
@@ -61304,6 +61311,7 @@
 ||tuhszivw.com^
 ||tuia.cn^
 ||tuicom.demdex.net^
+||tuiguang.meitu.com^
 ||tuiinteractive.122.2o7.net^
 ||tuisong.baidu.com^
 ||tuiukltd.demdex.net^
