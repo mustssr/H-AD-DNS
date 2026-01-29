@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-29-11:35PM(UTC+8)
-! Total rules: 71991
+! Last modified: 2026-01-30-12:43AM(UTC+8)
+! Total rules: 71992
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -58757,6 +58757,7 @@
 ||sparlappli.rest^
 ||sparrow.ru^
 ||sparrowcanned.com^
+||sparrowcanned.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sparrowwallef.com^
 ||sparrowwallet.net^
 ||sparrycarven.qpon^
