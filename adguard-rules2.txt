@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-30-12:15PM(UTC+8)
-! Total rules: 71962
+! Last modified: 2026-01-30-01:47PM(UTC+8)
+! Total rules: 71965
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1883,6 +1883,7 @@
 ||2026-google.com^
 ||2026-whatsapp.com^
 ||2026ochnikvip.shop^
+||202xs.com^
 ||20330.cfd^
 ||20382207.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||20481293813612.cfd^
@@ -42522,6 +42523,7 @@
 ||miaopartlet.com^
 ||miaowu.baidu.com^
 ||miaozhen.com^
+||mias92zmaf.com^
 ||miaunshorn.com^
 ||miav-cse.avlyun.com^
 ||miaxxx.com^
@@ -70328,6 +70330,7 @@
 ||xq-googlezh.com.cn^
 ||xqcniblvlbgu.com^
 ||xqennmzrybvkp.website^
+||xqhfb9hzrs.com^
 ||xqoh.cn^
 ||xqrydt.icu^
 ||xqtcpf.icu^
