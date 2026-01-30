@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-01-30-11:35PM(UTC+8)
-! Total rules: 72006
+! Last modified: 2026-01-31-12:39AM(UTC+8)
+! Total rules: 72005
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -57223,7 +57223,6 @@
 ||singlefeed.com^
 ||singleflirt.com^
 ||singlegirlsfinder.com^
-||singlegirlsfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||singles50.jp^
 ||singphoto.digital^
 ||singroot.com^
