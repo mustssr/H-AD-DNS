@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-02-05:23AM(UTC+8)
-! Total rules: 74805
+! Last modified: 2026-02-02-06:24AM(UTC+8)
+! Total rules: 74794
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8247,7 +8247,6 @@
 ||adfinix.com^
 ||adflex.vn^
 ||adflight.com^
-||adflowtube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adflux.adlice.com^
 ||adfly.vn^
 ||adflycode.com^
@@ -8877,7 +8876,6 @@
 ||adomic.com^
 ||adomik.com^
 ||adone.com^
-||adoni-nea.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adop.asia^
 ||adop.cc^
 ||adoperator.com^
@@ -25811,7 +25809,6 @@
 ||dithodackee.com^
 ||dithodackee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ditruntp.com^
-||divaresnapshareagido.com^$dnsrewrite=ad-block.dns.adguard.com
 ||divatraffic.bid^
 ||divcom.demdex.net^
 ||dive77kt.com^
@@ -28551,7 +28548,6 @@
 ||ecolas.eu^
 ||ecole-saint-simon.net^
 ||ecologieurbaine.net^
-||ecomicrolab.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ecomm.events^
 ||ecommerce-events-lb.adscale.com^
 ||ecommerce.iap.unity3d.com^
@@ -29227,7 +29223,6 @@
 ||enhencer.com^
 ||eni-spa.net^
 ||eniedu.com^
-||enield.com^$dnsrewrite=ad-block.dns.adguard.com
 ||enigma-locket.info^
 ||enigmaticcanyon.com^
 ||enisaflower.com^
@@ -29391,7 +29386,6 @@
 ||equalpreparation.pro^
 ||equation-of-happiness.com^
 ||equativ.com^
-||equides.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||equifax.122.2o7.net^
 ||equilibriumfestive.com^
 ||equinox.demdex.net^
@@ -31672,7 +31666,6 @@
 ||flowldsf.online^$dnsrewrite=ad-block.dns.adguard.com
 ||flowoffice.org^
 ||flowpanlive.com^
-||flowworksfivesphere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||flqa83yic.com^
 ||flrvsh.com^
 ||fls.doubleclick.net^
@@ -55792,7 +55785,6 @@
 ||red-dust.de^
 ||red-shopping.com^
 ||redads.com^
-||redaffil.com^$dnsrewrite=ad-block.dns.adguard.com
 ||redappletech.info^
 ||redav.online^
 ||redbasketball.com^
@@ -67426,7 +67418,6 @@
 ||trkpc.net^
 ||trkpostback.com^
 ||trkpostback.com^$dnsrewrite=ad-block.dns.adguard.com
-||trkred.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkrspace.com^
 ||trksmorestreacking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkwinaff13.com^
@@ -70514,7 +70505,6 @@
 ||voffice.co.uk^
 ||vogate.com^
 ||vogue99.top^
-||voguelift.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||voice-ourtime.*.workers.dev^
 ||voiceads.cn^
 ||voicefive.com^
@@ -71719,7 +71709,6 @@
 ||wheelzbyte.cyou^
 ||wheeraphonsame.com^
 ||wherdiapospir.com^
-||where-to.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||wheredoyoucomefrom.ovh^
 ||wherepaup.com^
 ||whereyourartlivesonline.xyz^
