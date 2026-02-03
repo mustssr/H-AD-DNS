@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-03-09:01PM(UTC+8)
-! Total rules: 74065
+! Last modified: 2026-02-03-10:06PM(UTC+8)
+! Total rules: 74066
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -32418,6 +32418,7 @@
 ||gb.corp.163.com^
 ||gb.gnomonsgashly.com^
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
+||gb3scpejq.com^
 ||gbads.net^
 ||gbafor2030.org^
 ||gbede.com^
