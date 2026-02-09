@@ -6,9 +6,9 @@ on:
   # 允许手动触发
   workflow_dispatch:
 
-  # 定时触发（每1小时运行一次）
+  # 定时触发（每2小时运行一次）
   schedule:
-    - cron: '2 */1 * * *'
+    - cron: '2 */2 * * *'
 
 # 定义一个名为 'build' 的任务
 jobs:
