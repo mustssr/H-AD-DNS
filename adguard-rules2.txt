@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-14-02:49PM(UTC+8)
-! Total rules: 82027
+! Last modified: 2026-02-14-04:35PM(UTC+8)
+! Total rules: 82028
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -41105,6 +41105,7 @@
 ||invle.co^$dnsrewrite=ad-block.dns.adguard.com
 ||invoca.net^
 ||invocacdn.com^
+||invoice-guide.com^
 ||invoiceondelivery.com^
 ||invoiceteam-linkedin.com^
 ||invoicetick.com^
