@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-15-08:55PM(UTC+8)
-! Total rules: 78623
+! Last modified: 2026-02-15-10:29PM(UTC+8)
+! Total rules: 78624
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -74364,6 +74364,7 @@
 ||wbidder3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder311072023.com^
 ||wbidder4.com^
+||wbkar038r.com^
 ||wbkokfwzpfuai.life^
 ||wblkp4ae.xyz^
 ||wbmbr16tt.com^
