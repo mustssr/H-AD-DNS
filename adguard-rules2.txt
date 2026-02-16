@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-16-01:27PM(UTC+8)
-! Total rules: 76580
+! Last modified: 2026-02-16-03:05PM(UTC+8)
+! Total rules: 76582
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -74268,6 +74268,7 @@
 ||x2tsa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||x35ehot6mu.com^
 ||x3lps9uuog.com^
 ||x3m.biz^
 ||x3os.com^
@@ -74842,6 +74843,7 @@
 ||xupobpgarh.com^
 ||xuwmylm697.com^
 ||xv.mashmandom.top^
+||xv62yli8iz.com^
 ||xvbc1u.ru^
 ||xvbwjd.icu^
 ||xve4ww01l.com^
