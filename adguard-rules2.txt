@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-24-09:10PM(UTC+8)
-! Total rules: 79049
+! Last modified: 2026-02-24-10:52PM(UTC+8)
+! Total rules: 79051
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -61134,6 +61134,7 @@
 ||sentimentalflight.com^
 ||sentimentalflight.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sentinelbi.com^
+||sentinelbotcore.co.in^
 ||sentinelol.com^
 ||sentinelpro.com^
 ||sentrol.cl^
@@ -78293,6 +78294,7 @@
 ||zbislaernv.com^
 ||zbl40hvzzy.com^
 ||zbmatomoapp.ziraatbank.com.tr^
+||zbmeerconq.com^
 ||zbplwoxihqcfd.site^
 ||zbrtnv.icu^
 ||zbtrckygrpruu.com^
