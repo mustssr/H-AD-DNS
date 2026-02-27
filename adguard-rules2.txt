@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-27-01:14PM(UTC+8)
-! Total rules: 77440
+! Last modified: 2026-02-27-02:57PM(UTC+8)
+! Total rules: 77442
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1753,6 +1753,7 @@
 ||1upblogger.com^
 ||1upofficesolutions.com^
 ||1v1lol.app^
+||1vd2esrss.com^
 ||1waid.top^
 ||1wallpaper.net^
 ||1wiipr.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -33376,6 +33377,7 @@
 ||gtw.xvideos.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||gtwbackoffice.com^
 ||gtwrpsm.icu^
+||gu4xxpoe9.com^
 ||guang.sdsgwy.com^
 ||guang1.zhakao.cn^
 ||guanjiabo.net^
