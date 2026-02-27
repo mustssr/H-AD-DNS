@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-02-27-09:03PM(UTC+8)
-! Total rules: 76630
+! Last modified: 2026-02-27-10:39PM(UTC+8)
+! Total rules: 76633
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -21461,6 +21461,7 @@
 ||crmentjg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crmtt.livejasmin.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crn77.com^
+||crn77.com^$dnsrewrite=ad-block.dns.adguard.com
 ||croakglanceskier.com^
 ||croatiaflowersdelivery.com^
 ||crocitrasa.rest^
@@ -31179,6 +31180,7 @@
 ||gbg.ty2s-pqv7.com^
 ||gbhozynxmyxos.online^
 ||gbiathrilzik.com^
+||gbiltuj8w.com^
 ||gblcdn.com^
 ||gblkeras.com^
 ||gbnfaehebroyq.online^
@@ -64517,6 +64519,7 @@
 ||suzannelawoffices.com^
 ||suzdal-media.ru^
 ||sv-video.play.aiseet.atianqi.com^
+||sv1291.space^$dnsrewrite=ad-block.dns.adguard.com
 ||sv2.biz^
 ||svagiaboug.rest^
 ||svalenkrona.top^
