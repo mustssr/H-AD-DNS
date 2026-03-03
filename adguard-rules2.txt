@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-03-09:01PM(UTC+8)
-! Total rules: 80876
+! Last modified: 2026-03-03-10:43PM(UTC+8)
+! Total rules: 80880
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14687,6 +14687,7 @@
 ||api.eventbus.me^
 ||api.expf.ru^
 ||api.exponea.com^
+||api.extensionanalyticspro.top^
 ||api.flipdesk.jp^
 ||api.flocktory.com^
 ||api.flowsixteen.com^
@@ -20010,6 +20011,7 @@
 ||bw2rt48fe4qzld6bd4bq.top^
 ||bw95vpjda.ru^
 ||bwapi.bikerumor.com^
+||bwau1s2fm.com^
 ||bwcnmtv.top^
 ||bwg.559299366.xyz^
 ||bwg.sooda.moe^
@@ -29366,6 +29368,7 @@
 ||drstrachowski.com^
 ||drubpainch.com^
 ||drudgeryarson.com^
+||druggedrat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drugspowerstore.com^
 ||drugstoredemuretake.com^
 ||drujapat.com^
@@ -33903,6 +33906,7 @@
 ||fpc.sage.com^
 ||fpcdn.io^
 ||fpctraffic2.com^$dnsrewrite=ad-block.dns.adguard.com
+||fpgxyjv3h.com^
 ||fpjs.io^
 ||fpjscdn.net^
 ||fpktmtw.com^
