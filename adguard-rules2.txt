@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-04-01:08PM(UTC+8)
-! Total rules: 80794
+! Last modified: 2026-03-04-02:51PM(UTC+8)
+! Total rules: 80795
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -22210,6 +22210,7 @@
 ||chovaiksuque.com^
 ||chpadblock.com^
 ||chpadblock.com^$dnsrewrite=ad-block.dns.adguard.com
+||chplea1tj9.top^
 ||chpok.site^
 ||christianlouboutin-pas-cher.fr^
 ||christianrituals.shop^
