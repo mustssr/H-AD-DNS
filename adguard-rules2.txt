@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-06-10:38PM(UTC+8)
-! Total rules: 71846
+! Last modified: 2026-03-07-12:43AM(UTC+8)
+! Total rules: 71848
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -38525,6 +38525,7 @@
 ||kbox-analytics-backup.s3.amazonaws.com^
 ||kbox-analytics-prod.s3-accelerate.amazonaws.com^
 ||kbox-analytics-prod.s3.amazonaws.com^
+||kbr23k89xz.com^
 ||kbtg.demdex.net^
 ||kbx.toffeln.com^
 ||kby.oqp.mybluehost.me^
@@ -41828,6 +41829,7 @@
 ||mahubraces.com^
 ||mai-tel.jp^
 ||maidcontrarypenknife.com^
+||maideatp.com^
 ||maidinboubous.com^
 ||maidismsnackle.com^
 ||maigris.com^$dnsrewrite=ad-block.dns.adguard.com
