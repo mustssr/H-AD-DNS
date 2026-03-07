@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-07-10:26PM(UTC+8)
-! Total rules: 71694
+! Last modified: 2026-03-08-12:30AM(UTC+8)
+! Total rules: 71695
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -59354,6 +59354,7 @@
 ||srmdata-eur.com^
 ||srmdata-us.com^
 ||srmdata.com^
+||srowox.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srtb.msn.cn^
 ||srtb.msn.com^
 ||srtj.antutu.net^
