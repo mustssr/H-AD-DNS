@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-03-07-04:34PM(UTC+8)
-! Total rules: 67327
+! Last modified: 2026-03-07-06:26PM(UTC+8)
+! Total rules: 67328
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14,7 +14,7 @@
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
-/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[ps][br][os]\/xm\/xm[0-9]\/\?/
+/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
@@ -50455,6 +50455,7 @@
 ||rfihub.com^
 ||rfihub.net^
 ||rfilmalmz.com^
+||rfk2ddbh9.com^
 ||rfnrkyfbghhzm.space^
 ||rfpx1.com^
 ||rfsonuevhprbm.space^
