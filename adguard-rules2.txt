@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-09-12:31AM(UTC+8)
-! Total rules: 74124
+! Last modified: 2026-03-09-02:36AM(UTC+8)
+! Total rules: 74126
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -25570,6 +25570,7 @@
 ||degentrack.fun^
 ||degg.site^$dnsrewrite=ad-block.dns.adguard.com
 ||deghooda.net^
+||degreedistance.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||degreeeruptionpredator.com^
 ||degussa-goldhandel.click^
 ||dehacomaiapartners.click^
@@ -29618,6 +29619,7 @@
 ||elsevier.demdex.net^
 ||elsevierlimited.demdex.net^
 ||elsewhere.info^
+||elsieawd.com^
 ||elslotswin.com^
 ||elster-online-portal-de.com^
 ||eltex.co.jp^
