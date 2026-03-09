@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-10-12:58AM(UTC+8)
-! Total rules: 73192
+! Last modified: 2026-03-10-02:56AM(UTC+8)
+! Total rules: 73193
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -68544,6 +68544,7 @@
 ||vfgte.com^
 ||vfgte.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vfgth.com^
+||vfie3ximi3elx4uw.cfd^
 ||vfjktzbecbede.space^
 ||vfjxvt.icu^
 ||vfnq.cn^
