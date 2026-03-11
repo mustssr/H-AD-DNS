@@ -1,5 +1,5 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-11-09:04PM(UTC+8)
+! Last modified: 2026-03-11-10:48PM(UTC+8)
 ! Total rules: 75156
 
 *-ad.sm.cn*
@@ -31625,6 +31625,7 @@
 ||fbiwarning.online^
 ||fbmediafor.com^
 ||fbpqvs.com^$dnsrewrite=ad-block.dns.adguard.com
+||fbraaphra.com^
 ||fbshop689.com^
 ||fbshop690.com^
 ||fbtacriikh.com^
@@ -35367,6 +35368,7 @@
 ||gtm.zara.com^
 ||gtm.zav-vita.si^
 ||gtm.zeeksack.de^
+||gtmajs.click^
 ||gtmdev.jabra.com^
 ||gtmfsstatic.getgoogletagmanager.com^
 ||gtmpx.com^
@@ -51743,7 +51745,6 @@
 ||phazashabu.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||pheedo.com^
 ||pheenecs.com.ua^
-||pheersie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||phenomtrackapi-ir.phenompeople.com^
 ||pheoptrape.rest^
 ||phfuhedbph.com^
@@ -67358,7 +67359,6 @@
 ||tradewizsolana.cfd^
 ||trading-ad.net^
 ||trading.com^
-||traditionallyobjectlessblinked.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tradplusad.com^
 ||trafefinta.rest^
 ||trafempire.com^
@@ -68491,7 +68491,6 @@
 ||uetx75ibcu.com^
 ||ueuee.com^
 ||ueueroutlet.com^
-||ueuodgnrhb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ueuwvgco19.com^
 ||uewzjy.xyz^
 ||uexpi.com^
@@ -72406,6 +72405,7 @@
 ||wlct-two.de^
 ||wlemdl1yx.com^
 ||wleve.cyou^
+||wlgjz02mo.com^
 ||wlgore.112.2o7.net^
 ||wlhcb.cn^
 ||wliksa.icu^
