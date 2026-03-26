@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-03-26-09:20PM(UTC+8)
-! Total rules: 73602
+! Last modified: 2026-03-26-11:06PM(UTC+8)
+! Total rules: 73604
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15,6 +15,7 @@
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
 /^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/
+/^https:\/\/([a-vx-z][a-z]{2,}\.)?[0-9a-z-]{3,}\.(com|net|org)\/index\.php\?main_page=product_info(&stl=\d)?&(cPath|products_id)=/
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
@@ -50212,6 +50213,7 @@
 ||pluralsight.demdex.net^
 ||pluronexavira.org^
 ||plus-x4-alpha.com^
+||plus.rustfacepunch.com^
 ||plus.tourispo.com^
 ||plusfind.info^
 ||plussizetech.com.102.122.2o7.net^
