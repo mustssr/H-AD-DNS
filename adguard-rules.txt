@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-03-26-03:11PM(UTC+8)
-! Total rules: 74359
+! Last modified: 2026-03-26-04:59PM(UTC+8)
+! Total rules: 74363
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18,6 +18,7 @@
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
+429: Too Many Requests
 ://account.booking.xn--
 ://message1*.z13.web.core.windows.net^
 @@||*-go.kelkoogroup.net^
@@ -84,7 +85,6 @@
 @@||aclk.io^
 @@||aclk.org^
 @@||action.metaffiliation.com^
-@@||ad-block.dns.adguard.com^
 @@||ad.admitad.com^
 @@||ad.adverticum.net^
 @@||ad.atdmt.com^
@@ -735,7 +735,6 @@
 @@||srvto.com^
 @@||ssl.hurra.com^
 @@||static*.cleverpush.com^
-@@||static-xl.a.88cdn.com^
 @@||staticiv.com^
 @@||stendia.co.uk^
 @@||stvkr.com^
@@ -936,6 +935,7 @@
 @@||xg4ken.com^
 @@||xprrtupdate.com^
 @@||yellowbook.com^
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 [Adblock Plus]
 ||0-02.net^
 ||0-3.org^
@@ -30049,6 +30049,7 @@
 ||gez.io^
 ||gezinti.com^
 ||gezondheid.artrose-blog.nl^
+||gf6axe5bdb.com^
 ||gfdpjfngu.com^
 ||gfgywe.abril.com.br^
 ||gfh9j4wyub.com^
@@ -52541,6 +52542,7 @@
 ||qipihe.com^
 ||qipnihruwwc.in^
 ||qiqpfmnb.com^
+||qirloith.com^
 ||qirqritp.com^
 ||qishui-music.com^
 ||qishui-music.hl.cn^
@@ -66913,6 +66915,7 @@
 ||uitdz.biomel.life^
 ||uivc.cn^
 ||uj2h8xm8w.com^
+||ujfyzxfc01.com^
 ||ujhu.cn^
 ||ujian.cc^
 ||ujkjhxeltkshw.online^
@@ -72976,6 +72979,7 @@
 ||ynkunarlg.com^
 ||ynlakesh.com^
 ||ynote.hk^
+||ynpkjip43x.com^
 ||ynppqrvsmwfpz.space^
 ||ynsysb.com^
 ||yntwj.com^
