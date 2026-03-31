@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-03-31-06:38AM(UTC+8)
-! Total rules: 76483
+! Last modified: 2026-03-31-10:34AM(UTC+8)
+! Total rules: 76486
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3227,6 +3227,7 @@
 ||5vpbnbkiey24.com^
 ||5w31xv1a2.com^
 ||5wgtw63.cfd^
+||5wzew9jht.com^
 ||5wzgtq8dpk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||5x17591y3b.com^
 ||5xvtbbvb6.com^
@@ -14363,6 +14364,7 @@
 ||b474e0e3e2520db2ad86b4acec875b3c.com^
 ||b4867eb1de2c0d7f.com^
 ||b4a1230b04bc130217553728af8e785c6acf25fab910dc4343d74e7a4dac1af.com^
+||b4afsapz0.com^
 ||b4d07cfa96a3a487.xyz^
 ||b4e040d4398555d8.com^
 ||b527635e057f.com^
@@ -16818,6 +16820,7 @@
 ||btrace.video.qq.com^
 ||btrace.ysp.cctv.cn^
 ||btrbdf.com^
+||btreelmulq.com^
 ||btrll.com^
 ||bts-la.ucweb.com^
 ||bts01.dnscry.pt^
