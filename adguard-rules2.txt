@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-03-09:07PM(UTC+8)
-! Total rules: 80875
+! Last modified: 2026-04-03-10:43PM(UTC+8)
+! Total rules: 80873
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14,8 +14,6 @@
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
-/^https://d[0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z][0-9a-z]\.[a-z][a-z][a-z][a-z]?-[a-z][a-z][a-z][a-z][a-z][a-z][a-z][a-z]?\.[cps][bor][os]?\.?i?n?\/xm\/xm[0-9]\/\?/
-/^https:\/\/([a-vx-z][a-z]{2,}\.)?[0-9a-z-]{3,}\.(com|net|org)\/index\.php\?main_page=product_info(&stl=\d)?&(cPath|products_id)=/
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
@@ -35086,7 +35084,7 @@
 ||google-chrome-google.hl.cn^
 ||google-chrome-web.hl.cn^
 ||google-chromegw.com.cn^
-||google-chrrome-zh.hl.cn^
+||google-chrrome-zh.hl.cn^[Adblock Plus]
 ||google-cn-chrom.com.cn^
 ||google-co.com.cn^
 ||google-corp.us^
