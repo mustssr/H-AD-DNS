@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-04-12:42AM(UTC+8)
-! Total rules: 80873
+! Last modified: 2026-04-04-02:51AM(UTC+8)
+! Total rules: 80886
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8242,6 +8242,7 @@
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
 ||adguard.avavd.ru^
+||adguard.avdkishore.dev^
 ||adguard.ayrespace.cc^
 ||adguard.baltes.info^
 ||adguard.bitteeinbyte.de^
@@ -10408,6 +10409,7 @@
 ||afvrolvial.com^
 ||ag.alexf.cc^
 ||ag.apollohct.com^
+||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
 ||ag.divcom.com^
 ||ag.felixf.eu^
@@ -14558,6 +14560,7 @@
 ||api.analytics.stanwith.me^
 ||api.antibanads.com^
 ||api.anythinktech.com^
+||api.applicationinsights.azure.cn^
 ||api.appodeal.com^
 ||api.appsflyer.com^
 ||api.aqyad.com^
@@ -15272,6 +15275,7 @@
 ||arc1.msn.com^
 ||arc2.msn.com^
 ||arc3.msn.com^
+||arc5.msn.com^
 ||arc9.msn.com^
 ||arcaceahelper.cyou^
 ||arcade.show^
@@ -26725,6 +26729,7 @@
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
 ||dns-finder.com^
+||dns-fr-psv1.cloudsides.com^
 ||dns-free.link^
 ||dns-gcp.aaflalo.me^
 ||dns-idx1.itsec.my.id^
@@ -27441,6 +27446,7 @@
 ||dns.rotunneling.net^
 ||dns.ru.anitelekom.ru^
 ||dns.rubyfish.cn^
+||dns.safesurfer.co.nz^
 ||dns.safko.eu^
 ||dns.sainternet.xyz^
 ||dns.saneaki.com^
@@ -44645,6 +44651,7 @@
 ||lvllnj.top^
 ||lvmeet.net^
 ||lvnskin.com^
+||lvpn.2rdp.ru^
 ||lvqcfuwngsaxmp.com^
 ||lvqg.cn^
 ||lvqo.cn^
@@ -58057,6 +58064,7 @@
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racunpak.site^
 ||rad.live.com^
+||rad.microsoft.com^
 ||radar.cedexis.com^
 ||radar.imgsmail.ru^
 ||radarurl.com^
@@ -76930,6 +76938,8 @@
 ||www.a-calc.de^
 ||www.a-pagerank.net^
 ||www.a-spy.com^
+||www.a.ads1.msn.com^
+||www.a.ads2.msn.com^
 ||www.aaddzz.com^
 ||www.abcdespanol.com^
 ||www.abclauncher.com^
@@ -76973,9 +76983,11 @@
 ||www.adperium.com^
 ||www.adquota.com^
 ||www.adresult.jp^
+||www.ads1.msn.com^
 ||www.adserverpub.com^
 ||www.adsforallmedia.com^
 ||www.adshopping.com^
+||www.adsinapps.microsoft.com^
 ||www.adsmarket.com^
 ||www.adsmart.net^
 ||www.adsonar.co^
@@ -77069,6 +77081,7 @@
 ||www.axes.co^
 ||www.azoogleads.com^
 ||www.b-1st.com^
+||www.b.ads1.msn.com^
 ||www.badjocks.com^
 ||www.balmoralmkt.com^
 ||www.bannerimage.com^
