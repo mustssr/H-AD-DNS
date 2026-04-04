@@ -1,4 +1,4 @@
-# 自用AdGuardHome规则整合/每1个小时整合一次
+# 自用AdGuardHome规则整合/每4个小时整合一次
 
 订阅地址  
 `https://raw.githubusercontent.com/mustssr/H-AD-DNS/main/adguard-rules.txt`  
