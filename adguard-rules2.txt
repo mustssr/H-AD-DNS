@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-04-09:17PM(UTC+8)
-! Total rules: 80175
+! Last modified: 2026-04-05-12:49AM(UTC+8)
+! Total rules: 80177
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15188,6 +15188,7 @@
 ||applog.zijieapi.com^
 ||applogios.uc.cn^
 ||applogs.pixelfederation.com^
+||applot-jp.com^
 ||applovefrom.com^
 ||applovin.com^
 ||applvn.com^
@@ -52418,6 +52419,7 @@
 ||orca-slicer.
 ||orca-slicer.com^
 ||orca3dslicer.
+||orcanmedikal.com.tr^[Adblock Plus]
 ||orcaouphsfurlers.cyou^
 ||orcaslice.
 ||orcaslicer.org^
@@ -68379,7 +68381,7 @@
 ||testci.demdex.net^
 ||testedforyou.net^
 ||testguard.meexx.de^
-||testio.ecartdev.com^[Adblock Plus]
+||testio.ecartdev.com^
 ||testmyaa.pages.dev^
 ||testnet.nl^
 ||testony.com^
