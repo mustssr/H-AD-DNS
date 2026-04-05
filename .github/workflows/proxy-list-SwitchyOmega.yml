@@ -1,0 +1,32 @@
+name: Update SwitchyOmega proxy.sorl
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # 每天北京时间10点
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          curl -L -o proxy-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
+          echo "[SwitchyOmega Conditions]" > proxy.sorl
+          echo "; Last updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> proxy.sorl
+          echo "; Source: Loyalsoldier proxy-list" >> proxy.sorl
+          echo "" >> proxy.sorl
+          while IFS= read -r line; do
+            if [[ -n "$line" && ! "$line" =~ ^# ]]; then
+              echo "||$line" >> proxy.sorl
+            fi
+          done < proxy-list.txt
+      - run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add proxy.sorl
+          git commit -m "Update proxy.sorl" || exit 0
+          git push
