@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-07-11:25AM(UTC+8)
-! Total rules: 80623
+! Last modified: 2026-04-07-01:52PM(UTC+8)
+! Total rules: 80625
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -29773,6 +29773,7 @@
 ||edgedc.falabella.com^
 ||edgedc.ibm.com^
 ||edgeio.com^
+||edgelib.net^
 ||edgetag.io^
 ||edgetrksvc.ebay.com^
 ||edgexml.com^
@@ -46773,6 +46774,7 @@
 ||mbt-1.com^
 ||mbt-8.com^
 ||mbusa-server-side-tagging-ydw2gpju5q-ue.a.run.app^
+||mbuuceth.com^
 ||mbvlmz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mbvndspl1.pro^
 ||mbvsm.com^
