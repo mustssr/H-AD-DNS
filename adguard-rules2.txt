@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-09-01:54PM(UTC+8)
-! Total rules: 78953
+! Last modified: 2026-04-09-05:21PM(UTC+8)
+! Total rules: 78958
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -4418,6 +4418,7 @@
 ||5vd12a.ru^
 ||5visions.com^
 ||5vpbnbkiey24.com^
+||5vszw5ab2.com^
 ||5w31xv1a2.com^
 ||5wzew9jht.com^
 ||5wzgtq8dpk.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -35716,6 +35717,7 @@
 ||gspo.jp^
 ||gspubterc.site^
 ||gspwm.demdex.net^
+||gspwpr0ox.com^
 ||gsrv.dev^
 ||gss.skatepro.de^
 ||gss.skatepro.dk^
@@ -51853,7 +51855,7 @@
 ||orca-slicer.
 ||orca-slicer.com^
 ||orca3dslicer.
-||orcanmedikal.com.tr^[Adblock Plus]
+||orcanmedikal.com.tr^
 ||orcaouphsfurlers.cyou^
 ||orcaslice.
 ||orcaslicer.org^
@@ -56343,6 +56345,7 @@
 ||q58nf16jd3.com^
 ||q5klmd.cleartag.run^
 ||q5sn40kmp2.com^
+||q6iw41lkk.com^
 ||q777.sfchronicle.com^
 ||q7qhlnyfx.com^
 ||q7wiow.ru^
@@ -66971,6 +66974,8 @@
 ||telefonsex-live.eu^
 ||telega-live.com^
 ||telega-live.su^
+||telega.info^
+||telega.me^[Adblock Plus]
 ||telegram-bonus.digital^
 ||telegram-casinos.com^
 ||telegram-channel.ru^
