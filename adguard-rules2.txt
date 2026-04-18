@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-18-01:46PM(UTC+8)
-! Total rules: 89646
+! Last modified: 2026-04-18-05:02PM(UTC+8)
+! Total rules: 89649
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1262,6 +1262,7 @@
 ||0i0i0i0.com^
 ||0i0i0i0.com^$dnsrewrite=ad-block.dns.adguard.com
 ||0iem8mw1lx.com^
+||0ihw4ipvm5.com^
 ||0jxaw4gb7qh8.top^
 ||0jxvgt-gcdsdk.appsflyersdk.com^
 ||0l1x2j.asia^
@@ -19540,6 +19541,7 @@
 ||c7496460945fe1d7.com^
 ||c77f83eb3d.com^
 ||c7b36a64697c3c9f9d5902d6154a4604480c0c6830f62b892291849de2e7b58.link^
+||c7bijgz6zr.com^
 ||c7cc03640d093755.com^
 ||c7d606bde5d9ba5a.com^
 ||c7e41de5549ebaf8.com^
@@ -45584,6 +45586,7 @@
 ||l1k8c4.lat^
 ||l1le6x3v87bjn3b.cfd^
 ||l1native.com^
+||l1owmrzjdw.com^
 ||l1yo9l-cdn-settings.appsflyersdk.com^
 ||l1yo9l-launches.appsflyersdk.com^
 ||l235cj20z.com^
