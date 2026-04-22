@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-22-11:35AM(UTC+8)
-! Total rules: 87400
+! Last modified: 2026-04-22-02:07PM(UTC+8)
+! Total rules: 87401
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -62987,6 +62987,7 @@
 ||reprogrammation-5.pro^
 ||reproio.com^
 ||reproreinf.cyou^
+||repslys.com^$dnsrewrite=ad-block.dns.adguard.com
 ||republer.com^
 ||republika.onet.pl^
 ||repulsivebend.pro^
