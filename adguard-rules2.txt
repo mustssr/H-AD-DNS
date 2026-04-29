@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-04-29-11:56AM(UTC+8)
-! Total rules: 85387
+! Last modified: 2026-04-29-02:32PM(UTC+8)
+! Total rules: 85388
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2659,7 +2659,7 @@
 ||360playvid.info^
 ||360service.report360.io^
 ||360shuke.com^
-||360weishi-360.cn^[Adblock Plus]
+||360weishi-360.cn^
 ||360yield-basic.com^
 ||360yield.com^
 ||36432d3e16.a29f24b2a6.com^
@@ -80583,6 +80583,7 @@
 ||www-official-ledger.live^
 ||www-optirism.com^
 ||www-qishiu.com.cn^
+||www-rarlab.com^[Adblock Plus]
 ||www-slash.co.com^
 ||www-sougou-cn.com.cn^
 ||www-strikesrobots.com^
