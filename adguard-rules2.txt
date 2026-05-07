@@ -1,16 +1,20 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-07-11:57AM(UTC+8)
-! Total rules: 81652
+! Last modified: 2026-05-07-02:47PM(UTC+8)
+! Total rules: 81695
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
+-dingding.com.cn^
 -ez-pass.com^
 -ledger.live^
 -ndax-*.webflow.io^
 -sso-*.webflow.io^
+-todesk.com.cn^
+-wps.com.cn^
+-youdao.com.cn^
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\.com\/proc\.php\?[0-9a-f]{40}$/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
@@ -7642,6 +7646,7 @@
 ||aa999dd999.com^
 ||aa9b7b73fd79c0f1.com^
 ||aa9b99fa91909178.com^
+||aaa-youdao.com.cn^
 ||aaa.bisnode.si^
 ||aaa.tumanyi.com^
 ||aaaadagxwrajaaaaaaaaaaa5ci.apm-agt.eu-frankfurt-1.oci.oraclecloud.com^
@@ -15788,6 +15793,7 @@
 ||app-atomic.co.com^
 ||app-cdn.moengage.com^
 ||app-defituna.github.io^
+||app-dingding.com.cn^
 ||app-flarenetwork.com^
 ||app-google-zh.hl.cn^
 ||app-hack.com^
@@ -22163,6 +22169,9 @@
 ||chrobinson.demdex.net^
 ||chrobnavispherecustomersolutions.112.2o7.net^
 ||chrome-ah.com.cn^
+||chrome-chrome-
+||chrome-chrome-cn.hl.cn^
+||chrome-chrome-zh.hl.cn^
 ||chrome-google-cn.com^
 ||chrome-google-google.com^
 ||chrome-gooogle-zh.hl.cn^
@@ -22814,6 +22823,7 @@
 ||cn-idm.com^
 ||cn-live-c7.com^
 ||cn-live-pgsoft.com^
+||cn-qishui-music-zh.hl.cn^
 ||cn-trezor.io^
 ||cn-wps-zh.com.cn^
 ||cn.bidushe.com^
@@ -25908,6 +25918,7 @@
 ||de-ner-mi-nis4.info^
 ||de-nis-ner-mi-5.info^
 ||de-passage.9273082020.ru^
+||de-todesk.com.cn^
 ||de.aphanesupwound.com^
 ||de.as.pptv.com^
 ||de.deghy.ir^
@@ -32636,6 +32647,7 @@
 ||fantasticcommunity.com^
 ||fantastindents.com^
 ||fantasylow.com^
+||fanxa-youdao.com.cn^
 ||fanyi100.com.cn^
 ||fanyiegg.youdao.com^
 ||fanza.cc^
@@ -33317,6 +33329,7 @@
 ||firebase-api-google-u1.sbs^
 ||firebaselogging-pa.googleapis.com^
 ||firefly.bol.com^
+||firefox-zh.com.cn^
 ||fireshieldit.com^
 ||fireworkadservices1.com^
 ||fireworkanalytics.com^
@@ -35789,6 +35802,7 @@
 ||go-todesk.hl.cn^
 ||go-trust.co.com^
 ||go-wegame.com^
+||go-youdao.com.cn^
 ||go.1bots.top^
 ||go.2038.pro^
 ||go.activengage.com^
@@ -36025,6 +36039,7 @@
 ||google-cnzh-chrome-hl.hl.cn^
 ||google-cnzh-chrome-zh.hl.cn^
 ||google-cnzh-chrome.com^
+||google-google-chrome-google-com.hl.cn^
 ||google-google-chrome.com^
 ||google-google-cn.com^
 ||google-google-google-cn.com^
@@ -38384,6 +38399,7 @@
 ||hivoppztet.com^
 ||hixewvvqqvi.com^
 ||hizechizr.com^
+||hj-wps.com.cn^
 ||hjbotih.cc^
 ||hjbsg.motosport.com^
 ||hjiuz.meundies.com^
@@ -38817,6 +38833,7 @@
 ||hpyrdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hpznk.live^
 ||hq-office.org^
+||hq-wps.com.cn^
 ||hq1.appsflyer.com^
 ||hqcecu-cdn-settings.appsflyersdk.com^
 ||hqfhspz.com^
@@ -39120,6 +39137,8 @@
 ||huoche.com.cn^
 ||huodong.m.taobao.com^
 ||huohuo.huamuwo.com^
+||huoronggk.com^
+||huoronggw.org.cn^
 ||huoying666.com^
 ||hupdeeno.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
@@ -39161,6 +39180,7 @@
 ||huv01.dnscry.pt^
 ||huwgjgf.icu^
 ||huxere.xyz^
+||hv-youdao.com.cn^
 ||hv.encystkokil.com^
 ||hv01gc-cdn-settings.appsflyersdk.com^
 ||hv01gc-inapps.appsflyersdk.com^
@@ -42373,6 +42393,7 @@
 ||k8truv-cdn-settings.appsflyersdk.com^
 ||k8truv-conversions.appsflyersdk.com^
 ||k8truv-launches.appsflyersdk.com^
+||k8velr77p.com^
 ||k90ey77nx.com^
 ||k929.co^
 ||k9egtgh8v.com^
@@ -42522,6 +42543,7 @@
 ||kayak.bapi-04.moengage.com^
 ||kayzen.io^
 ||kaz.kz^
+||kb-wps.com.cn^
 ||kb5.qz239yx7x4vvj1k96j2z3ulg.cfd^
 ||kbb.demdex.net^
 ||kbcgroup.demdex.net^
@@ -43240,6 +43262,7 @@
 ||kryptoswap.my^
 ||ks-p2p-v2.pull.yximgs.com^
 ||ks-p2p.pull.yximgs.com^
+||ks-wps.com.cn^
 ||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
 ||ksaef6idy.com^
@@ -44204,9 +44227,12 @@
 ||lindychat.com^
 ||lindychat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||line-channel-info.com^
+||line-go.hl.cn^
 ||line-special-information.com^
 ||line1-log.biligame.net^
+||line163.com^
 ||line3-adscore-api.biligame.net^
+||lineapps.com.cn^
 ||linear-ad-segments.frequency.stream^
 ||linelectriciti.casa^
 ||linelife.home-chat.jp^
@@ -45942,6 +45968,7 @@
 ||m-img.org^
 ||m-live.jp^
 ||m-stratovibe.prod.suno.com^
+||m-todesk.com.cn^
 ||m-zephyrtone.prod.suno.com^
 ||m.1gr.cz^
 ||m.89cb3ribpmg8up6nzfgw92h.cfd^
@@ -50638,6 +50665,7 @@
 ||mtzy0.com^
 ||mtzy1.com^
 ||mtzy2.com^
+||mu-qishuimusic.com.cn^
 ||mu36fn-cdn-settings.appsflyersdk.com^
 ||mu36fn-inapps.appsflyersdk.com^
 ||mu36fn-launches.appsflyersdk.com^
@@ -51040,6 +51068,7 @@
 ||mzwblatzoz.com^
 ||n-analytics.io^
 ||n-icloud-apple.com^
+||n-todesk.com.cn^
 ||n.3363.net^
 ||n.5201344.xyz^
 ||n.baminw.com.cn^
@@ -56875,6 +56904,7 @@
 ||pnuhondppw.com^
 ||pnwrs5xz.click^$dnsrewrite=ad-block.dns.adguard.com
 ||pnxjuppggesgo.com^
+||po-todesk.com.cn^
 ||po.trade^
 ||po18.in^
 ||po18ad.com^
@@ -58668,6 +58698,7 @@
 ||qgxgxh-cdn-settings.appsflyersdk.com^
 ||qgxgxh-inapps.appsflyersdk.com^
 ||qgxgxh-launches.appsflyersdk.com^
+||qh-qishuiyinyue.hl.cn^
 ||qhaazaduez.com^
 ||qhacrbhp.com^
 ||qhaelqata.com^
@@ -58727,6 +58758,7 @@
 ||qishuide.com.cn^
 ||qishuiie.com^
 ||qishuiit.com^
+||qishuiq.com.cn^
 ||qishuiss.com.cn^
 ||qishuiyinyuevv.com.cn^
 ||qishuiyy-jvip.com.cn^
@@ -65753,6 +65785,7 @@
 ||sotunet.com^
 ||soubtcevent.com^
 ||sougou-zii.com.cn^
+||sougoucom.cn^
 ||sougoullqvv.com.cn^
 ||sougoupy.com.cn^
 ||sougouvv.com.cn^
@@ -67802,6 +67835,7 @@
 ||storageimagedisplay.com^
 ||store-market.shop^
 ||store-mix.com^
+||store-sogou.com^
 ||store4porn.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storedl1.nearme.com.cn^
@@ -70819,6 +70853,7 @@
 ||todaydiscovery.com^
 ||todesk-jvip.com.cn^
 ||todesk-log-upload.todesk.com^
+||todesk-web.hl.cn^
 ||todesk-zh.cn^
 ||todesk-zh.hl.cn^
 ||todesk.ac.cn^
@@ -76198,8 +76233,10 @@
 ||vzxvv3-launches.appsflyersdk.com^
 ||vzzun.boxlunch.com^
 ||w-chat25.com^
+||w-dingding.com.cn^
 ||w-icloud-apple.com^
 ||w-profiling.simplii.com^
+||w-todesk.com.cn^
 ||w.cnzz.com^
 ||w.ilfattoquotidiano.it^
 ||w.inews.qq.com^
@@ -76686,6 +76723,7 @@
 ||web-stat.verdi.de^
 ||web-telegram.net^
 ||web-telemetry.sbrdvc.xyz^
+||web-todesk.com.cn^
 ||web-tracker.smsbump.com^
 ||web-umami.xq7pdk.easypanel.host^
 ||web-vitals-script.leaderint.workers.dev^
@@ -77487,6 +77525,7 @@
 ||wjuqut-launches.appsflyersdk.com^
 ||wjxc92bc.xyz^
 ||wjxcdn.com^
+||wk-wps.com.cn^
 ||wk70ccjk1a.com^
 ||wkanx.com^
 ||wkctj.baidu.com^
@@ -79832,6 +79871,7 @@
 ||ycugaikxafv.com^
 ||ycxrldow.com^
 ||yczl5qg8jr.com^
+||yd-fanyi.hl.cn^
 ||yd.valveguaruan.com^
 ||yd315.com^
 ||ydbvswwcyj.com^
@@ -80430,6 +80470,7 @@
 ||ytygtt-cdn-settings.appsflyersdk.com^
 ||ytygtt-conversions.appsflyersdk.com^
 ||ytygtt-launches.appsflyersdk.com^
+||yu-qishui.com.cn^
 ||yu-yake.com^
 ||yu.volleysstrany.cyou^
 ||yu3dc.com^
@@ -81110,6 +81151,7 @@
 ||zh-live-fifacuplive.com^
 ||zh-live-wcfifa2026.com^
 ||zh-tenxun.com^
+||zh-todesk-cn.hl.cn^
 ||zh-word-wps.com.cn^
 ||zh4qnnf63.com^
 ||zh7o6ecvnff93.8ttxeoz8cfk3cxbvnqf7bth.cfd^
@@ -81133,6 +81175,7 @@
 ||zhbeoi-register.appsflyersdk.com^
 ||zhbeoi-skadsdk.appsflyersdk.com^
 ||zhbhivvoid.com^
+||zhcn-chrome-chrome.com.cn^
 ||zhcn-googele.hl.cn^
 ||zhcn-google-google.com^
 ||zhcn-live-wcplay.com^
