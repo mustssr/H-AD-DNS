@@ -1,18 +1,19 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-11-12:18PM(UTC+8)
-! Total rules: 78843
+! Last modified: 2026-05-11-07:33PM(UTC+8)
+! Total rules: 78834
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
+-chrome-chrome.com.cn^
 -dingding.com.cn^
 -ez-pass.com^
 -ledger.live^
 -ndax-*.webflow.io^
+-qishui.com.cn^
 -sso-*.webflow.io^
--todesk.com.cn^
 -wps.com.cn^
 -youdao.com.cn^
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
@@ -1585,6 +1586,7 @@
 ||16g067.cleartag.run^
 ||16gang.com^
 ||16gift.com^
+||16gift.com^[Adblock Plus]
 ||16mzw9gff.com^
 ||16xxq8lb4g.com^
 ||17.huanqiu.com^
@@ -5244,7 +5246,6 @@
 ||a-ring-ipv6only.msedge.net^
 ||a-ring.msedge.net^
 ||a-ro-ma.com^
-||a-todesk.com.cn^
 ||a-zzz.com^
 ||a.10tianqi.com^
 ||a.1gr.cz^
@@ -5634,7 +5635,6 @@
 ||aa999cc555.com^
 ||aa999cc888.com^
 ||aa999dd999.com^
-||aaa-youdao.com.cn^
 ||aaa.bisnode.si^
 ||aaa.tumanyi.com^
 ||aaa1788.casino^
@@ -9369,7 +9369,6 @@
 ||ai-office.pro^
 ||ai-production-office.com^
 ||ai-referee.com^
-||ai-sogou.com.cn^
 ||ai-tas.com^
 ||ai-value-acceleration-office.com^
 ||ai.bioon.com^
@@ -9520,7 +9519,9 @@
 ||aiseet.aa.atianqi.com^
 ||aiseet.atianqi.com^
 ||aisi-i4.com^
+||aisi-zhi.com.cn^
 ||aisi.nx.cn^
+||aisiapp.com.cn^
 ||aisipc.net^
 ||aisiteanalytics.com^
 ||aisletowelreasoning.com^
@@ -9619,6 +9620,7 @@
 ||ak.oalsauwy.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ak.sail-horizon.com^
 ||ak0gsh40.com^
+||ak7ko01zs.com^
 ||aka1qe-cdn-settings.appsflyersdk.com^
 ||aka1qe-conversions.appsflyersdk.com^
 ||aka1qe-inapps.appsflyersdk.com^
@@ -13578,7 +13580,6 @@
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
-||apd-todesk.com.cn^
 ||apdowdap.com^
 ||ape-androids.isappcloud.com^
 ||apeacc.icu^
@@ -13998,7 +13999,6 @@
 ||app-atomic.co.com^
 ||app-cdn.moengage.com^
 ||app-defituna.github.io^
-||app-dingding.com.cn^
 ||app-flarenetworks.xyz^
 ||app-google-zh.hl.cn^
 ||app-hack.com^
@@ -14022,7 +14022,6 @@
 ||app-trust.co.com^
 ||app-unicwap.pro^
 ||app-uniewap.pro^
-||app-wegame.com^
 ||app-wg.com^
 ||app.bentonow.com^
 ||app.business.samsungusa.com^
@@ -14343,6 +14342,7 @@
 ||apps-phantom.com^
 ||apps-sougoupinyin.com^
 ||apps-tencent.com^
+||apps-wps-offce.com.cn^
 ||apps.alert.com.mt^
 ||apps.coloros.com^
 ||apps.sascdn.com^
@@ -14727,7 +14727,7 @@
 ||asiavibe.com^
 ||asiaxdate.com^
 ||asinlovewiththem.org^
-||asionamedrafter.com^[Adblock Plus]
+||asionamedrafter.com^
 ||asjfiqxajp.com^
 ||ask-sky.com^
 ||ask4pc.us^
@@ -19812,6 +19812,7 @@
 ||ch-deutsch.com^
 ||ch-live-2026fifa.com^
 ||ch-live-fifa.com^
+||ch-qishui-music.com.cn^
 ||ch-rechnung-de.com^
 ||ch-rechnung-web-de.com^
 ||ch-zahlung-web-de.com^
@@ -20084,8 +20085,6 @@
 ||chrobinson.demdex.net^
 ||chrobnavispherecustomersolutions.112.2o7.net^
 ||chrome-chrome-
-||chrome-chrome-cn.hl.cn^
-||chrome-chrome-zh.hl.cn^
 ||chrome-google-google.com^
 ||chrome-gooogle-zh.hl.cn^
 ||chrome-hl.hl.cn^
@@ -22924,6 +22923,7 @@
 ||d4e395edbd23b988.com^
 ||d4ebx5h0p80bx.cloudfront.net^
 ||d4ikyl4yo6.ru^
+||d4rxxm6ig.com^
 ||d4xmm7es84.com^
 ||d5.sina.com.cn^
 ||d504baf2e950.top^
@@ -23693,7 +23693,6 @@
 ||de-ner-mi-nis4.info^
 ||de-nis-ner-mi-5.info^
 ||de-passage.9273082020.ru^
-||de-todesk.com.cn^
 ||de.aphanesupwound.com^
 ||de.as.pptv.com^
 ||de.deghy.ir^
@@ -26952,6 +26951,7 @@
 ||dxvfdv.icu^
 ||dxzgwti.com^
 ||dxzvw.com^
+||dy-qishuimusic.hl.cn^
 ||dy.zolaizebogies.cfd^
 ||dycntw-cdn-settings.appsflyersdk.com^
 ||dycntw-inapps.appsflyersdk.com^
@@ -27048,6 +27048,7 @@
 ||e-ranok.com.ua^
 ||e-referrer.com^
 ||e-s.online^
+||e-sanpei.com^
 ||e-serviceparts.info^
 ||e-tax-nta.web.app^
 ||e-taxkeisanr-paypay.com^
@@ -27552,7 +27553,6 @@
 ||ee-payment-issue.web.app^
 ||ee-payment-method-issue.firebaseapp.com^
 ||ee-pending-payment.firebaseapp.com^
-||ee-web-youdao.com.cn^
 ||ee.adocean.pl^
 ||ee.hit.gemius.pl^
 ||ee.shixunwang.net^
@@ -27649,6 +27649,7 @@
 ||efrixk-conversions.appsflyersdk.com^
 ||efrixk-launches.appsflyersdk.com^
 ||efs.efani.com^
+||efsy7b1x6.com^
 ||eftd.cn^
 ||efu871zc4.com^
 ||efullofeedshen.com^
@@ -29225,7 +29226,6 @@
 ||f-log-win-extension.grammarly.io^
 ||f-log.grammarly.io^
 ||f-p-va.isnssdk.com.edgekey.net^
-||f-sogou.com.cn^
 ||f-tra.com^
 ||f.360.cn^
 ||f.pie.org^
@@ -30036,7 +30036,6 @@
 ||fantasticcommunity.com^
 ||fantastindents.com^
 ||fantasylow.com^
-||fanxa-youdao.com.cn^
 ||fanyi100.com.cn^
 ||fanyiegg.youdao.com^
 ||fanyiyoudao-ci.com.cn^
@@ -32659,6 +32658,7 @@
 ||gez.io^
 ||gezondheid.artrose-blog.nl^
 ||gezutpsqziids.website^
+||gf-qishuiapp.com.cn^
 ||gf-todesk.com.cn^
 ||gf6axe5bdb.com^
 ||gfbjcjdbfh.com^
@@ -33251,9 +33251,7 @@
 ||go-to-zlibrary.com^
 ||go-todesk.hl.cn^
 ||go-trust.co.com^
-||go-wegame.com^
 ||go-xkty-live.com^
-||go-youdao.com.cn^
 ||go.1bots.top^
 ||go.2038.pro^
 ||go.activengage.com^
@@ -33798,6 +33796,7 @@
 ||gpdyvt-inapps.appsflyersdk.com^
 ||gpdyvt-launches.appsflyersdk.com^
 ||gpefheorn.in^
+||gpfwx.cn^
 ||gpiebbxurugod.online^
 ||gpkheq.icu^
 ||gpladpl.hit.gemius.pl^
@@ -35396,7 +35395,6 @@
 ||hivoppztet.com^
 ||hixewvvqqvi.com^
 ||hizechizr.com^
-||hj-wps.com.cn^
 ||hjbotih.cc^
 ||hjbsg.motosport.com^
 ||hjhtjzugjsizr.com^
@@ -35585,7 +35583,6 @@
 ||home-live-maiqiu.top^
 ||home-saleoutlets.shop^
 ||home-server.store^
-||home-wegame.com^
 ||home.azagra.dev^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -35822,7 +35819,6 @@
 ||hpyjmp.com^
 ||hpyrdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hq-office.org^
-||hq-wps.com.cn^
 ||hq1.appsflyer.com^
 ||hqbec.shop^
 ||hqcecu-cdn-settings.appsflyersdk.com^
@@ -36024,7 +36020,6 @@
 ||huaweicloudapis.com^
 ||huaxiang.eastmoney.com^
 ||hub-megaeth.co^
-||hub-wegame.com^
 ||hub.autoblow.com^
 ||hub.autoblowdemovideos.com^
 ||hub.com.pl^
@@ -36120,6 +36115,7 @@
 ||huoche.com.cn^
 ||huodong.m.taobao.com^
 ||huohuo.huamuwo.com^
+||huoronggh.com^
 ||huoronggk.com^
 ||huoronggw.org.cn^
 ||huoying666.com^
@@ -36160,7 +36156,6 @@
 ||huv01.dnscry.pt^
 ||huwgjgf.icu^
 ||huxere.xyz^
-||hv-youdao.com.cn^
 ||hv.encystkokil.com^
 ||hv01gc-cdn-settings.appsflyersdk.com^
 ||hv01gc-inapps.appsflyersdk.com^
@@ -39503,7 +39498,6 @@
 ||kayak.bapi-04.moengage.com^
 ||kayzen.io^
 ||kaz.kz^
-||kb-wps.com.cn^
 ||kb5.qz239yx7x4vvj1k96j2z3ulg.cfd^
 ||kbb.demdex.net^
 ||kbcgroup.demdex.net^
@@ -40207,7 +40201,6 @@
 ||kryptoswap.my^
 ||ks-p2p-v2.pull.yximgs.com^
 ||ks-p2p.pull.yximgs.com^
-||ks-wps.com.cn^
 ||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
 ||ksaef6idy.com^
@@ -40557,6 +40550,7 @@
 ||labadena.com^
 ||labcorp.demdex.net^
 ||labeldollars.com^
+||labor-day-*.top^
 ||laboredlocket.com^
 ||labottegadieulopia.com^
 ||labourjavgg124.fun^
@@ -42948,7 +42942,6 @@
 ||m-live.jp^
 ||m-office.pro^
 ||m-stratovibe.prod.suno.com^
-||m-todesk.com.cn^
 ||m-zephyrtone.prod.suno.com^
 ||m.1gr.cz^
 ||m.89cb3ribpmg8up6nzfgw92h.cfd^
@@ -43023,6 +43016,7 @@
 ||m4n.nl^
 ||m4rtga-cdn-settings.appsflyersdk.com^
 ||m5.66077.cn^
+||m5nv2f52i.com^
 ||m5r.hoes.tube^
 ||m5tika-cdn-settings.appsflyersdk.com^
 ||m5uiy5gd1.com^
@@ -47815,6 +47809,7 @@
 ||mushextremelyfantastic.com^
 ||mushroomgods.com^
 ||mushroomtrack.com^
+||music-qishuiyinle.hl.cn^
 ||musicallv.top^
 ||musicboxcr.com^
 ||musicflashcard.com^
@@ -48136,7 +48131,6 @@
 ||mzvhtp-inapps.appsflyersdk.com^
 ||mzwblatzoz.com^
 ||n-analytics.io^
-||n-todesk.com.cn^
 ||n.3363.net^
 ||n.5201344.xyz^
 ||n.baminw.com.cn^
@@ -50310,7 +50304,6 @@
 ||official-live-cba.com.cn^
 ||official-live-nba.com.cn^
 ||official-permit.com^
-||official-wegame.com^
 ||official.step-up-line.com^
 ||official.treasure-fan.com^
 ||officialkmspico.com^
@@ -50318,7 +50311,6 @@
 ||officials-kmspico.com^
 ||offie-wps.com.cn^
 ||offiie-wps.com.cn^
-||offiio-wps.com.cn^
 ||offline-gtm-tracking.hipto.xyz^
 ||offline.toc.shopeemobile.com^
 ||offmantiner.com^
@@ -52230,7 +52222,6 @@
 ||pc-mon.zijieapi.com^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
 ||pc-tenxun.com^
-||pc-todesk.com.cn^
 ||pc.mt3sys.com^
 ||pc.snafuufos.com^
 ||pc1968.onrender.com^
@@ -52238,6 +52229,7 @@
 ||pc2512.com^
 ||pcapp-data-collect.youku.com^
 ||pcapp.store^
+||pccare-360.cn^
 ||pccdirect.site^
 ||pccleaner.cn^
 ||pccoach.ddns.net^
@@ -53970,7 +53962,6 @@
 ||pnuhondppw.com^
 ||pnwrs5xz.click^$dnsrewrite=ad-block.dns.adguard.com
 ||pnxjuppggesgo.com^
-||po-todesk.com.cn^
 ||po.trade^
 ||po18.in^
 ||po18ad.com^
@@ -54845,6 +54836,7 @@
 ||proranktracker.com^
 ||proscholarshub.com^
 ||proscholarshub.com^$dnsrewrite=ad-block.dns.adguard.com
+||prosecute39.top^
 ||prosecutordistinction.com^
 ||prosecutorremarkablegodforsaken.com^
 ||prosperman.us^
@@ -55524,7 +55516,6 @@
 ||pzxxrz-inapps.appsflyersdk.com^
 ||pzxxrz-launches.appsflyersdk.com^
 ||q-live.cc^
-||q-sogou.com.cn^
 ||q.easebar.com^
 ||q.i.gdt.qq.com^
 ||q.quora.com^
@@ -55803,18 +55794,25 @@
 ||qishiduijntianbisai.com.cn^
 ||qishiduimianfeiluxianghuifang.com.cn^
 ||qishmusic.com.cn^
+||qishui-*.com.cn^
+||qishui-eom.com.cn^
+||qishui-gf.com.cn^
 ||qishui-music.com^
 ||qishui-yinle.hl.cn^
 ||qishui-yymusic.com.cn^
 ||qishui-zn.hl.cn^
+||qishui.bj.cn^
 ||qishui.team^
 ||qishuicn.com^
 ||qishuide.com.cn^
 ||qishuiie.com^
 ||qishuiit.com^
+||qishuimusic-cn.hl.cn^
 ||qishuiq.com.cn^
 ||qishuiss.com.cn^
+||qishuiyinyue-music.hl.cn^
 ||qishuiyinyuevv.com.cn^
+||qishuiyy.com.cn^
 ||qishuui.com.cn^
 ||qitkpdaoujpxu.space^
 ||qitoshalan.xyz^
@@ -55864,6 +55862,7 @@
 ||qkwnyg-cdn-settings.appsflyersdk.com^
 ||qkwnyg-launches.appsflyersdk.com^
 ||qkzuoyocjmsgu.site^
+||ql-qishui.com.cn^
 ||ql.uzuzuz.com^
 ||qlcmnszrrzdsp.website^
 ||qlf-doh.inria.fr^
@@ -55884,6 +55883,7 @@
 ||qloi-jjcl.com^
 ||qltag.ariat.com^
 ||qlvobmtnqrocw.online^
+||qmarcani.com^
 ||qmav.cn^
 ||qmavyy.icu^
 ||qmeqraen.com^
@@ -61105,6 +61105,7 @@
 ||sgwxis-inapps.appsflyersdk.com^
 ||sgwxis-launches.appsflyersdk.com^
 ||sgyttxqfze.com^
+||sh-qishuimusic.com.cn^
 ||sh.turkeernohow.com^
 ||sh996.dftoutiao.com^
 ||shadowart.online^
@@ -62703,6 +62704,7 @@
 ||software.seznam.cz^
 ||softxz.com^
 ||soggysponge.com^
+||sogou-ai.com.cn^
 ||sogou-sogou.cn^
 ||sogou2.com.cn^
 ||sogouapps.com.cn^
@@ -62903,6 +62905,7 @@
 ||soviettreasures.com^
 ||sovrn.com^
 ||sowa.carhartt.com^
+||sowgou.com.cn^
 ||soxhyxhugzwez.website^
 ||soxivuphy.com^
 ||soxnwz.lg.com^
@@ -64949,7 +64952,6 @@
 ||storage.lulu-row1.com^
 ||storageimagedisplay.com^
 ||store-mix.com^
-||store-sogou.com^
 ||store4porn.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storedl1.nearme.com.cn^
@@ -66611,7 +66613,6 @@
 ||tealm-c.heydude.com^
 ||tealm-c.heydude.fr^
 ||team-authenticaton.pro^
-||team-wegame.com^
 ||teamproject.substack.com^
 ||teams-events-data.trafficmanager.net^
 ||teams-live.com^
@@ -66634,7 +66635,6 @@
 ||tech-best.com^
 ||tech-script.ru^
 ||tech-softwares.com^
-||tech-sogou.com^
 ||tech.jiukang.org^
 ||tech4u.app^
 ||techaddom8132.com^
@@ -68010,7 +68010,6 @@
 ||top-fwz1.mail.ru^
 ||top-official-app.com^
 ||top-site-list.com^
-||top-wegame.com^
 ||top.elec.ru^
 ||top.hsdn.org^
 ||top.list.ru^
@@ -68958,7 +68957,6 @@
 ||transfer.sec.miui.com^
 ||transferzenad.com^
 ||transit.ncsecu.org^
-||translate-youdao.com.cn^
 ||translatebonus.net^
 ||translatingshrinkspelling.com^
 ||transportationthou.com^
@@ -73301,9 +73299,7 @@
 ||vzxvv3-launches.appsflyersdk.com^
 ||vzzun.boxlunch.com^
 ||w-chat25.com^
-||w-dingding.com.cn^
 ||w-profiling.simplii.com^
-||w-todesk.com.cn^
 ||w-tools.com^
 ||w.cnzz.com^
 ||w.ilfattoquotidiano.it^
@@ -73779,7 +73775,6 @@
 ||web-stat.verdi.de^
 ||web-telegram.net^
 ||web-telemetry.sbrdvc.xyz^
-||web-todesk.com.cn^
 ||web-tracker.smsbump.com^
 ||web-umami.xq7pdk.easypanel.host^
 ||web-vitals-script.leaderint.workers.dev^
@@ -74143,7 +74138,6 @@
 ||wef0x7-launches.appsflyersdk.com^
 ||wefa.online^
 ||weforads.com^
-||wegameesport.com^
 ||weggrq0p42.com^
 ||wegmans.demdex.net^
 ||weh5lofraa.com^
@@ -74465,7 +74459,6 @@
 ||win-apple.com^
 ||win-dsp.branchdsp.io^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
-||win-sogou.com^
 ||win.gdt.qq.com^
 ||win10-trt.msedge.net^
 ||win10virtual.vpn.i81.ru^
@@ -74588,7 +74581,6 @@
 ||wjuqut-launches.appsflyersdk.com^
 ||wjxc92bc.xyz^
 ||wjxcdn.com^
-||wk-wps.com.cn^
 ||wk70ccjk1a.com^
 ||wkanx.com^
 ||wkctj.baidu.com^
@@ -74876,6 +74868,7 @@
 ||wpnjs.com^
 ||wpnoauvkm.com^
 ||wpnsrv.com^
+||wpp-wps.cn^
 ||wppanel.icu^
 ||wps-cnzh.com^
 ||wps-ii.com.cn^
@@ -75130,8 +75123,8 @@
 ||wvrp.cn^
 ||wvxi9jbnt.com^
 ||wvzd.cn^
+||ww-qishui.com.cn^
 ||ww-shadowsocketi.hl.cn^
-||ww-sogou.cn^
 ||ww.brawlysenjamb.com^
 ||ww1003.smartadserver.com^
 ||ww1097.smartadserver.com^
@@ -75196,7 +75189,6 @@
 ||www-mechanicsbank.co.com^
 ||www-mechonics.top^
 ||www-mfacebook.
-||www-office-wps.com.cn^
 ||www-qishiu.com.cn^
 ||www-rarlab.com^
 ||www-slash.co.com^
@@ -75771,7 +75763,6 @@
 ||x-f.fun^
 ||x-flirt.co^$dnsrewrite=ad-block.dns.adguard.com
 ||x-o-x.duckdns.org^
-||x-sogou.com^
 ||x-stat.de^
 ||x-traceur.com^
 ||x.castanet.net^
@@ -77171,6 +77162,7 @@
 ||yingyankantu.com^
 ||yinjidcpkso.com^
 ||yinvfv-launches.appsflyersdk.com^
+||yinyue-qishui.hl.cn^
 ||yipnhryqyfelw.space^
 ||yipxcxmb.com^
 ||yiqifa.com^
@@ -78296,7 +78288,6 @@
 ||zhbeoi-register.appsflyersdk.com^
 ||zhbeoi-skadsdk.appsflyersdk.com^
 ||zhbhivvoid.com^
-||zhcn-chrome-chrome.com.cn^
 ||zhcn-googele.hl.cn^
 ||zhcn-google-google.com^
 ||zhcn-live-wcplay.com^
