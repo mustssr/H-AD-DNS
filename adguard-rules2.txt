@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-13-10:55PM(UTC+8)
-! Total rules: 89652
+! Last modified: 2026-05-14-02:07AM(UTC+8)
+! Total rules: 89655
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3270,6 +3270,7 @@
 ||2guystalkingmetsbaseball.com^
 ||2h1.jp^
 ||2h6skj2da.de^
+||2hlcovn7n.com^
 ||2hpb1i5th.de^
 ||2i0lliongn.com^
 ||2iiyrxk0.com^
@@ -33573,6 +33574,7 @@
 ||edge.sharethis.com^
 ||edge.virginplus.ca^
 ||edge.vr.de^
+||edge.xtriks.com^$dnsrewrite=ad-block.dns.adguard.com
 ||edge226.com^
 ||edgecast-vod.yimg.com^
 ||edgedc.falabella.com^
@@ -46316,6 +46318,7 @@
 ||kdkgorjbvlxjrnv.com^
 ||kdlclkh.cc^
 ||kdmttk.com^
+||kdmupcsngkdoz.website^$dnsrewrite=ad-block.dns.adguard.com
 ||kdnvieos.my^$dnsrewrite=ad-block.dns.adguard.com
 ||kdow.cn^
 ||kdpic.pchome.com.tw^
