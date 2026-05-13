@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-13-06:38PM(UTC+8)
-! Total rules: 89648
+! Last modified: 2026-05-13-10:55PM(UTC+8)
+! Total rules: 89652
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18926,6 +18926,7 @@
 ||atclauncheran.com^
 ||atdeerlinga.com^
 ||atdwhoqtigke.com^
+||atdxamakqo.in^$dnsrewrite=ad-block.dns.adguard.com
 ||atekag.cn^
 ||atelier-goo.com^
 ||atelier-goo.net^
@@ -23770,6 +23771,7 @@
 ||candb.demdex.net^
 ||canddi.com^
 ||candellume.shop^
+||candellume.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||candid-dress.com^
 ||candid.zone^
 ||candidatelogapi.jobvision.ir^
@@ -37669,6 +37671,7 @@
 ||fruhhieeqcgpl.com^
 ||fruitful-request.com^
 ||fruitlessleanslender.com^
+||fruityarbors.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||frustratingimmersedoubtless.com^
 ||frxfvt-cdn-settings.appsflyersdk.com^
 ||frxfvt-launches.appsflyersdk.com^
@@ -69786,6 +69789,7 @@
 ||sheeme.com^
 ||sheeplm.top^
 ||shegaisoultou.net^
+||sheitelhamatum.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||shell-core.com^
 ||shell.demdex.net^
 ||shelljacket.us^
