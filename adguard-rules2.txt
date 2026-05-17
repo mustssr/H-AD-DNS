@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-17-05:00AM(UTC+8)
-! Total rules: 95900
+! Last modified: 2026-05-17-12:14PM(UTC+8)
+! Total rules: 95904
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -28974,6 +28974,7 @@
 ||dirty-tinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dirty.games^
 ||dirtydating.com^
+||disability29.top^
 ||disableadblock.com^
 ||disabteles.cyou^
 ||disamsinte.cyou^
@@ -46713,6 +46714,7 @@
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
 ||js1.tst.applicationinsights.io^
+||js154azzn.com^
 ||js2.cdn.applicationinsights.io^
 ||js2.keywordsconnect.com^
 ||js2.tst.applicationinsights.io^
@@ -87601,6 +87603,7 @@
 ||vlc.de^
 ||vlcdownloads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vlcpo.reebok.com^
+||vle6r0hma.com^
 ||vleigearman.com^
 ||vlejajflc.com^
 ||vless-service.ufodns.com^
@@ -93416,6 +93419,7 @@
 ||xzknvo-launches.appsflyersdk.com^
 ||xzkumjdqj.com^
 ||xzo.jp^
+||xzswn87hm.com^
 ||y-comblnator.com^
 ||y-icloud-apple.com^
 ||y-track.com^
