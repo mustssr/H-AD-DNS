@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-05-20-07:16PM(UTC+8)
-! Total rules: 92860
+! Last modified: 2026-05-20-11:51PM(UTC+8)
+! Total rules: 92863
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3415,6 +3415,7 @@
 ||4yl3e3fmv.com^
 ||4youdaily.com^
 ||4yzezh-cdn-settings.appsflyersdk.com^
+||4z48fqo12n.com^
 ||4z50jczq2.com^
 ||4zm6p17ppr.com^
 ||5.ccutu.com^
@@ -74266,6 +74267,7 @@
 ||ssv-whatsapp.com^
 ||ssvfv.com^
 ||ssw.live.com^
+||ssyegkbu0g.com^
 ||ssytnik.de^
 ||st-eu.dynamicyield.com^
 ||st.appsad.cn^
@@ -80235,6 +80237,7 @@
 ||trafficmoose.com^
 ||trafficnetworkads24.com^
 ||trafficoza.com^
+||trafficoza.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trafficpartner.com^
 ||trafficregenerator.com^
 ||trafficross.com^
