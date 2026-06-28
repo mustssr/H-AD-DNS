@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-06-28-06:32PM(UTC+8)
-! Total rules: 58136
+! Last modified: 2026-06-28-10:08PM(UTC+8)
+! Total rules: 58137
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3616,6 +3616,7 @@
 ||access-radar.jp^
 ||access-the-website.com^
 ||access-the-website.com^$dnsrewrite=ad-block.dns.adguard.com
+||access.invite-track.click^
 ||access.traders-friend.com^
 ||accessaccent.com^
 ||accessintel.com^
