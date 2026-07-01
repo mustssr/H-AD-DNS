@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-07-01-05:44AM(UTC+8)
-! Total rules: 58592
+! Last modified: 2026-07-01-12:47PM(UTC+8)
+! Total rules: 58598
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1457,6 +1457,7 @@
 ||1jlmfx-inapps.appsflyersdk.com^
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
+||1k1bd77k9.com^
 ||1k2uh20wr.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
@@ -11757,6 +11758,7 @@
 ||bonad.io^
 ||bonafides.club^
 ||bonasacarga.cyou^
+||bondeddarkenedswerve.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bonehead49.top^
 ||bonertraffic13.info^
 ||boneycootchturakoo.cyou^
@@ -15931,6 +15933,7 @@
 ||cydontopply.shop^
 ||cygnus.com^
 ||cyihpbij6yfqqh.cfd^
+||cylinder35.top^
 ||cyliu.idv.tw^
 ||cymastariff.cfd^
 ||cymfjunafovza.space^
@@ -26997,7 +27000,6 @@
 ||idstatus.sky.com^
 ||idvd.su^
 ||idverification-cdn.info^
-||idverification-cdn.info^[Adblock Plus]
 ||idvert.cz^
 ||idx.m.hub.sandai.net^
 ||idzdsbanio.com^
@@ -29588,6 +29590,7 @@
 ||kgihdv57il.com^
 ||kgms.top^
 ||kgoj4nrhe.com^
+||kgou4s5dz.com^
 ||kgpngtpxklcpk.site^
 ||khach-hang-
 ||khach-hang-the-
@@ -33837,6 +33840,7 @@
 ||microsoft*.dfautomotive.de^
 ||microsoft-notifcation.com^
 ||microsoft-support.net^
+||microsoft-update.support^[Adblock Plus]
 ||microsoft-verify.glitch.me^
 ||microsoft23-uslive4.online^
 ||microsoftdriver.com^
@@ -40101,7 +40105,7 @@
 ||promo.stream-films.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||promo.streaming-illimite.ma^$dnsrewrite=ad-block.dns.adguard.com
 ||promo.vador.com^
-||promo.vador.com^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
+||promo.vador.com^$dnsrewrite=ad-block.dns.adguard.com
 ||promo.yahoo.com^
 ||promoadsense.com^
 ||promocionesweb.com^
@@ -50186,6 +50190,7 @@
 ||tphurqalq.com^
 ||tpi-app.herokuapp.com^
 ||tpibo9-launches.appsflyersdk.com^
+||tpjhxbwkvjjvtq.com^
 ||tpjnsbmpkeigi.online^
 ||tplinkextender.net^
 ||tpmedia-reactads.com^
@@ -53325,6 +53330,7 @@
 ||villagetraitgarret.com^
 ||villagybullion.cyou^
 ||villainoussession.com^
+||villainoussession.com^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
 ||villalazza.stream^
 ||villasmbuva.co.mz^
 ||villi.shurakenas.ru^
