@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-07-07-07:16PM(UTC+8)
-! Total rules: 59302
+! Last modified: 2026-07-07-11:08PM(UTC+8)
+! Total rules: 59308
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -18,6 +18,7 @@
 -youdao.com.cn^
 /\.com(\.[a-z]{2})?\/wp-includes\/images\/smilies\/images?\/smili?es\/[a-z]{25,35}\.html/
 /\/(?:[0-9a-z]{7,25}-){9,13}[0-9a-z]{10,15}\/(?:[0-9a-z]+\/)+index\.php/
+/^https:\/\/[0-9a-z]{4}\.[a-z]{15,}\.monster\/\?[0-9a-f]{16,}$/
 /^https?:\/\/[a-z]{7}\.[a-z]{8,11}\.com\/products\/(?:[0-9a-z]+-)*(?:%[%0-9A-F]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9A-F]{8,}-)*[-%0-9A-Fa-z]+\/?$/$doc,match-case,ipaddress=/^23\.2\d{2}\.\d{2}\.\d{2}$/
 /^https?:\/\/www\.[a-z]{8,11}\.com\/product\/(?:[0-9a-z]+-)*(?:%[%0-9a-z]{8,}-)+(?:[0-9a-z]+-)*(?:[%0-9a-z]{8,}-)*[%0-9a-z]+\/?$/$doc,match-case,ipaddress=/^173\.2(08|32)\.\d{3}\.\d{3}$/
 /_dating\d\/index\.html\?aref=/
@@ -9981,6 +9982,7 @@
 ||authentic-criticism.com^
 ||author272.com^
 ||author279.net^
+||authorization-cdn-press-enter.info^
 ||authorizedimmediate.com^
 ||authsignonstaff*.softr.app^
 ||autivnay.com^
@@ -41044,6 +41046,7 @@
 ||qbokte-launches.appsflyersdk.com^
 ||qbpkyvtnxslrk.website^
 ||qbrth.ezcontacts.com^
+||qbxxi23a2.com^
 ||qbyngdjq8g.com^
 ||qbzccslyeesmj.online^
 ||qc-static.coccoc.com^
@@ -54451,6 +54454,7 @@
 ||vvllrb.top^
 ||vvnwnyxsuzbah.space^
 ||vvqc95xhtx.com^
+||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
 ||vvymhfdi.com^
 ||vvzjhzccndbhva.com^
@@ -54662,6 +54666,7 @@
 ||waikikitarifa.com^
 ||wailsmasonic.com^
 ||wainsscraighquave.qpon^
+||waioidmwg.com^
 ||waisheph.com^
 ||waistsbowsery.com^
 ||waiwodeplantae.cfd^
@@ -59046,6 +59051,7 @@
 ||zmetrics.msn.com^
 ||zmg15qfvi.com^
 ||zmhpphp.forum^
+||zmjt3xi8k.com^
 ||zmk852tp7.com^
 ||zmkidtyoyafzy.online^
 ||zmkp6jvq4.com^
