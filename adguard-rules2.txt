@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-07-14-10:06PM(UTC+8)
-! Total rules: 56998
+! Last modified: 2026-07-15-01:23AM(UTC+8)
+! Total rules: 57002
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -19352,6 +19352,7 @@
 ||dzerkalo.casino^
 ||dzjzg.com^
 ||dzpu6za66svjl.cloudfront.net^
+||dzqxwy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dzubavstal.com^
 ||dzv56b1o0y.com^
 ||e-c.tokyo^
@@ -36549,6 +36550,7 @@
 ||orjp4.lz0724.com^
 ||orlovskyi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ormanizeled.com^
+||ormatenqron.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ornage.fr^
 ||orozino-casino.fr^
 ||orpi.privado.ovh^
@@ -39424,6 +39426,7 @@
 ||pulse.delta.com^
 ||pulse.ecmapps.com^
 ||pulse.inmobi.com^
+||pulse.neurostreamlink10.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||pulse.perfmetrics.netflix.com^
 ||pulse.rac.co.uk^
 ||pulse.toyota.com^
@@ -47075,6 +47078,7 @@
 ||t5.zcvh.net^
 ||t56w3jk3hu3gvj27ee1eo9oy.cfd^
 ||t57u6anx2.com^
+||t5gp7rzz4.com^
 ||t5tm8zptlf6o8lc.cfd^
 ||t6.zcvh.net^
 ||t6ec3seyq.com^
