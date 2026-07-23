@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-07-23-10:25PM(UTC+8)
-! Total rules: 58300
+! Last modified: 2026-07-24-01:40AM(UTC+8)
+! Total rules: 58302
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -29530,6 +29530,7 @@
 ||klickly.com^
 ||klickpiloten.de^
 ||klik.nrc.nl^
+||klik.zeus.fun^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
 ||klik4.me^$dnsrewrite=ad-block.dns.adguard.com
 ||klikajadeh.com^
 ||klikanggaran.com^
@@ -36226,6 +36227,7 @@
 ||nxtfdata.xyz^
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
+||nxydz27pj.com^
 ||ny.pramanik.com^
 ||ny2oqsu7et.com^
 ||ny70zesy5v.com^
@@ -44759,7 +44761,7 @@
 ||shoptee.de^
 ||shopwithpalo.com^
 ||shoreleonite.cfd^
-||shortbioo.com^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
+||shortbioo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||shorteh.com^
 ||shortlyamusement.com^
 ||shoshyhewy.com^
