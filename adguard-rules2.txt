@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-05-06:43PM(UTC+8)
-! Total rules: 56878
+! Last modified: 2026-08-05-10:27PM(UTC+8)
+! Total rules: 56880
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2734,6 +2734,7 @@
 ||8q97nr-cdn-settings.appsflyersdk.com^
 ||8q97nr-launches.appsflyersdk.com^
 ||8q97nr-register.appsflyersdk.com^
+||8qfqhat9d.com^
 ||8rht5welv5.com^
 ||8rn1y79f02-1.algolianet.com^
 ||8rnmj0roe1.com^
@@ -21488,6 +21489,7 @@
 ||filedictation.com^
 ||fileescd.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||filefindme.xyz^
+||filei.top^
 ||fileice.net^
 ||fileisready.com^
 ||fileml.com^
