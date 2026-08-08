@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-08-04:53PM(UTC+8)
-! Total rules: 56199
+! Last modified: 2026-08-08-09:05PM(UTC+8)
+! Total rules: 56200
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -45782,6 +45782,7 @@
 ||superpointlesshamsters.com^
 ||superpromo24.de^
 ||superpromokody.com^
+||supersedeaccolade.com^$dnsrewrite=ad-block.dns.adguard.com
 ||supersonicads.com^
 ||superstats.com^
 ||superstyle.ru^
