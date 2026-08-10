@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-10-01:39PM(UTC+8)
-! Total rules: 11246
+! Last modified: 2026-08-10-05:42PM(UTC+8)
+! Total rules: 11232
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -330,6 +330,7 @@
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2orln75bry.com^
+||2osb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||2osq127yy.com^
 ||2pqma2nuv.com^
 ||2r1jqii2c.com^
@@ -1392,7 +1393,6 @@
 ||aickw1c4w.com^
 ||aiclaude.jp^
 ||aidfni7yk0.com^
-||aifolr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aiheatta.com^
 ||aikatuz.jp^
 ||aikotoba2020.com^
@@ -1472,7 +1472,6 @@
 ||aldehyde06.com^
 ||aleldrodm.com^
 ||alexatracker.com^$dnsrewrite=ad-block.dns.adguard.com
-||algesismesse.cyou^$dnsrewrite=ad-block.dns.adguard.com
 ||ali-ad.a.yximgs.com^
 ||ali-p2p-v2.pull.yximgs.com^
 ||alicekdsod.com^
@@ -1521,7 +1520,6 @@
 ||americanexpressempresas.com^
 ||amezpay.com^
 ||amftsawknf.com^
-||amichi.info^$dnsrewrite=ad-block.dns.adguard.com
 ||amigosdelasfinanzas.com^
 ||amigosdetuciudad.com^
 ||amlindred.com^
@@ -2770,7 +2768,6 @@
 ||coinrail.io^
 ||coisj3nil.com^
 ||collect.kugou.com^
-||colleem.com^$dnsrewrite=ad-block.dns.adguard.com
 ||color10color.com^
 ||color10color.jp^
 ||colorfulromance.com^
@@ -4043,7 +4040,6 @@
 ||frp8r3le9c.com^
 ||frtyi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frtyl.com^$dnsrewrite=ad-block.dns.adguard.com
-||fruityarbors.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||frustum77.top^
 ||frzlftr9y.com^
 ||fsmnmorgb.com^
@@ -4395,7 +4391,6 @@
 ||go-srv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go-todesk.hl.cn^
 ||go.bestmobiworld.com^
-||go.betobet.net^$dnsrewrite=ad-block.dns.adguard.com
 ||go.ero-advertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||go.fastspot.io^
 ||go.gsrv.dev^$dnsrewrite=ad-block.dns.adguard.com
@@ -4694,7 +4689,6 @@
 ||harambetok-eng.pages.dev^
 ||harbour47.com^
 ||harmful26.top^
-||harmo-woe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||harmony573.top^
 ||harpsichord34.com^
 ||harzfriends.de^
@@ -6280,7 +6274,6 @@
 ||market.178.com^
 ||market.21cn.com^
 ||market.duowan.com^
-||marketingthing.click^$dnsrewrite=ad-block.dns.adguard.com
 ||marketiqhub.com^
 ||marketpd4.top^
 ||marketplace-item-*.000.pe^
@@ -6843,7 +6836,6 @@
 ||newverifyyourself-system*.b-cdn.net^
 ||newvoice.chiq5.smart-tv.cn^
 ||nex.163.com^
-||next-lust.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||nextacdn.com^
 ||nextacdn.top^
 ||nextaex.com^
@@ -7374,7 +7366,6 @@
 ||p99c3kwxg.com^
 ||pa026n1waq.com^
 ||paau5a33k.com^
-||pacha-wui.com^$dnsrewrite=ad-block.dns.adguard.com
 ||padsthai.com^
 ||paehceman.com^$dnsrewrite=ad-block.dns.adguard.com
 ||page-suspension.com^
@@ -7752,6 +7743,7 @@
 ||protonge.com^
 ||provenpixel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||proxy.advp.apple.com^
+||proxy4mmo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||psa1xoeve.com^
 ||psdovpvghfphju.com^
 ||psfmi.com^
@@ -8020,12 +8012,12 @@
 ||ra10.xyz^
 ||rabby.fi-v2.to^
 ||rabc1.iteye.com^
+||raceamen.com^$dnsrewrite=ad-block.dns.adguard.com
 ||racks.pages.dev^
 ||rackweb-----support*.weebly.com^
 ||racunn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||radexh.icu^
 ||radiancerelaysacred.com^$dnsrewrite=ad-block.dns.adguard.com
-||ragan-qdr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rainbow-road.com^
 ||rak8s.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ralphclothing-jp.com^
@@ -8228,7 +8220,6 @@
 ||romance-time.net^
 ||romancetime.jp^
 ||romancetrain.jp^
-||romil-jdd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||romsns.com^
 ||ronfjvonmo.com^
 ||roobetaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -8571,7 +8562,6 @@
 ||shawmailboxservice4.wixsite.com^
 ||shawupdatingservic.wixstudio.io^
 ||sheeplm.top^
-||sheitelhamatum.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||shellmenuview.com^
 ||shelter57.com^
 ||shengsizhanchang.com^
@@ -9291,7 +9281,6 @@
 ||todeskappa.com.cn^
 ||todeske.com^
 ||todeskk.com^
-||toequiet.website^$dnsrewrite=ad-block.dns.adguard.com
 ||togen-utopia.com^
 ||together.com^
 ||together2night.com^
@@ -9589,7 +9578,6 @@
 ||u67qpnaexu.com^
 ||u6uy9lzdcj.com^
 ||u6yzoru6u.com^
-||u7do.sbs^$dnsrewrite=ad-block.dns.adguard.com
 ||u7em9v4hp.com^
 ||u7lb6db41.com^
 ||u7ugo0jr3.com^
@@ -9903,7 +9891,6 @@
 ||ver-pelis.me^$dnsrewrite=ad-block.dns.adguard.com
 ||verboten84.top^
 ||verdepromo.info^$dnsrewrite=ad-block.dns.adguard.com
-||veret-fqv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||verification-module-v*.b-cdn.net^
 ||verifyyourself-*system.b-cdn.net^
 ||verita-t.jp^
@@ -9981,7 +9968,6 @@
 ||viibslav.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiczfvm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viidedss.com^$dnsrewrite=ad-block.dns.adguard.com
-||viikuhhs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyutty.com^$dnsrewrite=ad-block.dns.adguard.com
 ||viiyxefb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||villainoussession.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -10085,7 +10071,6 @@
 ||vsr4jyjpzb.com^
 ||vssid.*.cc^
 ||vstergioul.sites.sch.gr^
-||vstwerxerbc.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vsvgpr.icu^
 ||vtc3rlbjj.com^
 ||vtg.lol^
@@ -10258,6 +10243,7 @@
 ||webcool69.com^$dnsrewrite=ad-block.dns.adguard.com
 ||webexodus.created.app^
 ||webfanclub.com^$dnsrewrite=ad-block.dns.adguard.com
+||webls.net^$dnsrewrite=ad-block.dns.adguard.com
 ||webmailrupdatekorea.firebaseapp.com^
 ||webmailupdating.wixsite.com^
 ||webmedrtb.com^$dnsrewrite=ad-block.dns.adguard.com
