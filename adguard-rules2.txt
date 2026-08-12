@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-12-05:19PM(UTC+8)
-! Total rules: 11254
+! Last modified: 2026-08-12-09:36PM(UTC+8)
+! Total rules: 11257
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -324,6 +324,7 @@
 ||2h1.jp^
 ||2hlcovn7n.com^
 ||2i0lliongn.com^
+||2j9banjbst.com^
 ||2juyabihe.com^
 ||2kbmdtlgme.com^
 ||2ld8mx979a.com^
@@ -2090,6 +2091,7 @@
 ||biberukalap.com^
 ||bibinha.com^$dnsrewrite=ad-block.dns.adguard.com
 ||biblio.sviluppo.host^
+||bickiron84.com^
 ||bickiron92.com^
 ||biconcave43.com^
 ||biejdy1d1.com^
@@ -2669,6 +2671,7 @@
 ||ckl.fbmedia-ckl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ckre.net^
 ||ckrf1.com^$dnsrewrite=ad-block.dns.adguard.com
+||cl1npfik45.com^
 ||claimspaace.pages.dev^
 ||clammy88.com^
 ||claring-loccelkin.com^$dnsrewrite=ad-block.dns.adguard.com
