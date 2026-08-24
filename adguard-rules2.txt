@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-24-04:58PM(UTC+8)
-! Total rules: 56132
+! Last modified: 2026-08-24-09:06PM(UTC+8)
+! Total rules: 56134
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -16400,6 +16400,7 @@
 ||deepnewsjuly.com^
 ||deeppquiz.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||deepsathegoh.com^
+||deepseek-en.com^
 ||deepseek.app^
 ||deepseek.net^
 ||deepseekk.com.cn^
@@ -38071,6 +38072,7 @@
 ||pppteennal.com^
 ||pps-log.op-mobile.opera.com^
 ||pps.nab.com.au^
+||ppsn1dzi3h.com^
 ||ppwpn.com^
 ||ppxiur4byic1lcnmy.cfd^
 ||ppxqhx.icu^
