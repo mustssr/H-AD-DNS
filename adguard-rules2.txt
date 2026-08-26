@@ -1,12 +1,13 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-26-09:51AM(UTC+8)
-! Total rules: 56793
+! Last modified: 2026-08-26-12:49PM(UTC+8)
+! Total rules: 56797
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
+-Verify-Cloudflare-
 -chrome-chrome.com.cn^
 -dingding.com.cn^
 -ez-pass.com^
@@ -39629,6 +39630,7 @@
 ||qmnjvczfauxbb.site^
 ||qmoqruden.com^
 ||qmskjf-cdn-settings.appsflyersdk.com^
+||qmtrnqp900.com^
 ||qmuxupabzgxlp.website^
 ||qmxkbwpnodavccl.com^
 ||qn-cdnfile1pcdn.msstatic.com^
@@ -51029,6 +51031,7 @@
 ||uzomkrhmlseld.online^
 ||uzrating.com^
 ||uzrtgekpw.com^
+||uzt7ud70j1.com^
 ||uzulidwf.shop^
 ||uzurliev.com^
 ||uzzf.com^
@@ -56481,6 +56484,7 @@
 ||zixxsovtavprk.online^
 ||ziyemy.shop^
 ||ziyu.net^
+||zj5mqsb06x.com^
 ||zj7coeb5i.com^
 ||zjflf9epfe.com^
 ||zjhwrbopbrnzu.online^
