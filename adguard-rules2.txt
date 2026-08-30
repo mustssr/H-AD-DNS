@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-08-31-03:16AM(UTC+8)
-! Total rules: 56155
+! Last modified: 2026-08-31-06:40AM(UTC+8)
+! Total rules: 56158
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -15109,6 +15109,7 @@
 ||crlog-crcn.adobe.com^
 ||crmacd.livejasmin.com^
 ||crmared.com^
+||crmared.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crmdump.com^
 ||crmentjg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||crmtt.livejasmin.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -18908,6 +18909,7 @@
 ||dtcqowyzyqjw.com^
 ||dtdjhb.icu^
 ||dteaam.com^
+||dteifi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dtgwcj.com^
 ||dtindrofe.com^
 ||dtioykqj1u8de.cloudfront.net^
@@ -47348,6 +47350,7 @@
 ||thrtle.com^
 ||thrummysissify.cyou^
 ||thtk.temu.com^
+||thtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thubanoa.com^
 ||thuis.familiethomassen.nl^
 ||thumbb86.com^
