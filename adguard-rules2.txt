@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-09-03-08:46PM(UTC+8)
-! Total rules: 52976
+! Last modified: 2026-09-04-03:15AM(UTC+8)
+! Total rules: 52978
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -35210,6 +35210,7 @@
 ||planet7links.com^
 ||plankton-gtm.a.autoscout24.com^
 ||plantscafe.net^
+||plarclck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||plasma-wallet.webflow.io^
 ||plassprimsiecoontah.qpon^
 ||plateau77.com^
@@ -40787,6 +40788,7 @@
 ||skypie.info^
 ||skyway.capital^
 ||sl.hpplay.cn^
+||sl2qzbsn5.com^
 ||sla-media.immomo.com^
 ||slaappillen-kopen.net^
 ||slabshookwasted.com^$dnsrewrite=ad-block.dns.adguard.com
