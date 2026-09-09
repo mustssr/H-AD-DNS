@@ -1,12 +1,11 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-09-09-08:54PM(UTC+8)
-! Total rules: 45370
+! Last modified: 2026-09-10-03:13AM(UTC+8)
+! Total rules: 45372
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
-*-normal.zijieapi.com*
 -Verify-Cloudflare-
 -chrome-chrome.com.cn^
 -dingding.com.cn^
@@ -4799,6 +4798,7 @@
 ||adxserver.ad.cmvideo.cn^
 ||adxsrve.com^
 ||adxsrver.com^
+||adxstatic.vivo.com.cn^
 ||adxv.zum.com^
 ||adxvel.com^
 ||adxvip.com^
@@ -32727,7 +32727,7 @@
 ||safeageplan.link^
 ||safebooru.com^
 ||safebrowsdv.com^
-||safebrowsing.urlsec.gg.com^
+||safebrowsing.urlsec.qq.com^
 ||safeframe.googlesyndication.com^
 ||safepal.com.co^
 ||safepavo.com^
@@ -38092,6 +38092,7 @@
 ||tljsxt.icu^
 ||tlmtr.org^
 ||tlq8ufqddj.com^
+||tlre4aso7.com^
 ||tlrzavbrosrsv.space^
 ||tltev.calvinklein.us^
 ||tltlsbyrpdyen.site^
@@ -44020,6 +44021,7 @@
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvpirgcrsfvqulpapey.com^
+||xlx2ddw4f.com^
 ||xlymdiuoznahr.site^
 ||xmaterial.tu.qq.com^
 ||xmax.jp^

@@ -1,12 +1,11 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-09-09-08:54PM(UTC+8)
-! Total rules: 50090
+! Last modified: 2026-09-10-03:13AM(UTC+8)
+! Total rules: 50094
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
-*-normal.zijieapi.com*
 -Verify-Cloudflare-
 -chrome-chrome.com.cn^
 -dingding.com.cn^
@@ -5247,6 +5246,7 @@
 ||adxserver.ad.cmvideo.cn^
 ||adxsrve.com^
 ||adxsrver.com^
+||adxstatic.vivo.com.cn^
 ||adxv.zum.com^
 ||adxvel.com^
 ||adxvip.com^
@@ -17045,6 +17045,7 @@
 ||dtym7iokkjlif.cloudfront.net^
 ||dtyry4ejybx0.cloudfront.net^
 ||dtyvtj.com^
+||dtzgbt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||du.163.com^
 ||du0.jp^
 ||du0pud0sdlmzf.cloudfront.net^
@@ -36702,7 +36703,7 @@
 ||safeageplan.link^
 ||safebooru.com^
 ||safebrowsdv.com^
-||safebrowsing.urlsec.gg.com^
+||safebrowsing.urlsec.qq.com^
 ||safeframe.googlesyndication.com^
 ||safeonlinetips.com^$dnsrewrite=ad-block.dns.adguard.com
 ||safepal.com.co^
@@ -42378,6 +42379,7 @@
 ||tlmtr.org^
 ||tlootas.org^$dnsrewrite=ad-block.dns.adguard.com
 ||tlq8ufqddj.com^
+||tlre4aso7.com^
 ||tlrzavbrosrsv.space^
 ||tls.jackyhou.idv.tw^
 ||tls.vietguards.cloud^
@@ -43160,6 +43162,7 @@
 ||trackingengine-us-west-2.adswizz.com^
 ||trackingimg.narvar.com^
 ||trackinginwtd.pro^
+||trackinginwtd.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||trackingio.com^
 ||trackinglibrary.prodperfect.com^
 ||trackingmore.net^
@@ -48658,6 +48661,7 @@
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvpirgcrsfvqulpapey.com^
+||xlx2ddw4f.com^
 ||xlymdiuoznahr.site^
 ||xm.ln7371.top^
 ||xmatch.com^$dnsrewrite=ad-block.dns.adguard.com
