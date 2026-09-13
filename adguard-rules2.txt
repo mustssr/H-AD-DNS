@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-09-14-02:44AM(UTC+8)
-! Total rules: 49322
+! Last modified: 2026-09-14-06:20AM(UTC+8)
+! Total rules: 49323
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -3044,6 +3044,7 @@
 ||accounts-analyticsapp.paytm.com^
 ||accounts.doubleclick.net^
 ||accscdn.m.taobao.com^
+||accuracyinstalled.com^$dnsrewrite=ad-block.dns.adguard.com
 ||accuradio.tritondigital.com^
 ||acdcdn.com^
 ||acds-events.adobe.io^
