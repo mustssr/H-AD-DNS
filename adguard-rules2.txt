@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-09-24-09:29PM(UTC+8)
-! Total rules: 58497
+! Last modified: 2026-09-25-03:56AM(UTC+8)
+! Total rules: 58500
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -29643,7 +29643,7 @@
 ||klickpiloten.de^
 ||klik.nrc.nl^
 ||klik.zeus.fun^
-||klik.zeus.fun^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
+||klik.zeus.fun^$dnsrewrite=ad-block.dns.adguard.com
 ||klik4.me^$dnsrewrite=ad-block.dns.adguard.com
 ||klikivabrik.ee^
 ||klikki.com^
@@ -29947,6 +29947,7 @@
 ||ktaeeijijmbx.com^
 ||kteatwnro.in^
 ||ktepkolfi.in^
+||ktgyslaux8.com^
 ||kthul22k2z.com^
 ||ktiebyesqavuz.online^
 ||ktkjmp.com^
@@ -30025,6 +30026,7 @@
 ||kvdxvqw.xyz^
 ||kve026cks7.com^
 ||kveesh6.il-
+||kvfskyv6h7.com^
 ||kvg2q75ps.com^
 ||kvgp201er.sbs^
 ||kvhee.com^
@@ -40974,6 +40976,7 @@
 ||q9v7vw-skadsdkless.appsflyersdk.com^
 ||q9zcmv-cdn-settings.appsflyersdk.com^
 ||qa-sst.zola.com^
+||qa2bdtwm7h.com^
 ||qaadv.com^
 ||qab0m5irus.com^
 ||qacpawtfywgcw.site^
@@ -45335,7 +45338,7 @@
 ||shopthachdau.com^
 ||shopwithpalo.com^
 ||shortbioo.com^
-||shortbioo.com^$dnsrewrite=ad-block.dns.adguard.com
+||shortbioo.com^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
 ||shortenoverleg.com^
 ||shorterwanderer.com^
 ||shosril.com^
