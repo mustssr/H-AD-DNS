@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-10-06-07:11PM(UTC+8)
-! Total rules: 70344
+! Last modified: 2026-10-07-02:16AM(UTC+8)
+! Total rules: 70353
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1094,6 +1094,7 @@
 ||0bhl1k9hi.com^
 ||0c484j022z.com^
 ||0cf.io^
+||0cvo4ebbpk.com^
 ||0d1oo8jp69.com^
 ||0dayreleases.com^
 ||0dayrox.org^
@@ -12560,6 +12561,7 @@
 ||auctionads.com^
 ||auctionnudge.com^
 ||auctionr.org^
+||auctionr.org^$dnsrewrite=ad-block.dns.adguard.com
 ||aud.pubmatic.com^
 ||aud.springserve.com^
 ||audacesorbate.cfd^
@@ -14861,6 +14863,7 @@
 ||bplay-argentina.com^
 ||bpt.webedia-group.com^
 ||bpu.samsungelectronics.com^
+||bpucmkg.com^
 ||bpuvuun0xg.com^
 ||bqe7lb-cdn-settings.appsflyersdk.com^
 ||bqguxfqlaerbi.site^
@@ -18757,6 +18760,7 @@
 ||crd.circl.lu^
 ||crdefault.link^
 ||crdefault2.com^$dnsrewrite=ad-block.dns.adguard.com
+||crdema.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cre.mix.sina.com.cn^
 ||creadevents.us^
 ||creadunet.com^
@@ -20561,6 +20565,7 @@
 ||deltawaylay.qpon^
 ||deltraff.com^
 ||deluxe.com.102.122.2o7.net^
+||delvefencescrewdriver.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dem.shopee.com^
 ||demand.supply^
 ||demandbase.com^
@@ -20706,6 +20711,7 @@
 ||dexchangegenius.com^
 ||dexpredict.com^
 ||dezhino.com^
+||dezhou.hnambui01zs.com^
 ||df-prod-analytics.azurewebsites.net^
 ||df-srv.de^
 ||df.infra.shopee.com.ar^
@@ -23794,6 +23800,7 @@
 ||eha5k8-cdn-settings.appsflyersdk.com^
 ||eha5k8-launches.appsflyersdk.com^
 ||ehamarkets.com^
+||ehcecws.com^
 ||ehealthcaresolutions.com^
 ||ehh91kb6ic.com^
 ||ehoeb.ekster.com^
@@ -29445,6 +29452,7 @@
 ||hagglebudh.cfd^
 ||hagridpnxt.com^
 ||hah.su^
+||hai8g.com^$dnsrewrite=ad-block.dns.adguard.com
 ||haidudausaich.net^
 ||haikarerate.qpon^
 ||haikhetonian.qpon^
@@ -58232,6 +58240,7 @@
 ||su0gy6-skadsdk.appsflyersdk.com^
 ||su0k43kcy.com^
 ||su2lgyoeucscn.ru^
+||su4wxsrtku.com^
 ||sua.hit.gemius.pl^
 ||suachuadienmayxanh.com.vn^
 ||sub.astroline.today^
