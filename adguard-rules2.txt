@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-10-09-05:14AM(UTC+8)
-! Total rules: 69134
+! Last modified: 2026-10-09-01:57PM(UTC+8)
+! Total rules: 69136
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -27179,6 +27179,7 @@
 ||gb1aff.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gb3-mob2.webprivacysearchtool.com^
 ||gb3scpejq.com^
+||gb742ld0c.com^
 ||gbads.net^
 ||gbafor2030.org^
 ||gbelitesolutions.com^
@@ -33085,6 +33086,7 @@
 ||judicious85.top^
 ||jueriy.com^
 ||juggingfeinter.qpon^
+||juggler36.com^
 ||jugglingoverfedparalyze.com^
 ||juiceadv.com^
 ||juicer.cc^
