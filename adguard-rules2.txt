@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-10-12-04:11AM(UTC+8)
-! Total rules: 70147
+! Last modified: 2026-10-12-01:45PM(UTC+8)
+! Total rules: 70148
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -31690,6 +31690,7 @@
 ||iloptrex.com^
 ||ilounge.com^
 ||ilovecheating.com^
+||ilovego.org^$dnsrewrite=ad-block.dns.adguard.com
 ||ilovevitaly.com^
 ||ilquige.com^
 ||iltcaf.immobilienscout24.de^
