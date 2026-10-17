@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-10-17-06:45AM(UTC+8)
-! Total rules: 76405
+! Last modified: 2026-10-17-12:12PM(UTC+8)
+! Total rules: 76555
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -1153,6 +1153,7 @@
 ||0gbzrg-inapps.appsflyersdk.com^
 ||0gbzrg-launches.appsflyersdk.com^
 ||0gjj1n-launches.appsflyersdk.com^
+||0grzr3u2t.com^
 ||0gs25f.ru^
 ||0gsffz-cdn-settings.appsflyersdk.com^
 ||0gsffz-conversions.appsflyersdk.com^
@@ -1735,6 +1736,7 @@
 ||1nevsf92q.com^
 ||1nhe7v14t7ovqgr.cfd^
 ||1not2.org^
+||1nvnkyg65.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -3444,6 +3446,7 @@
 ||7usgqu07mk.com^
 ||7w.ro^
 ||7w7kditsz.com^
+||7woqerclqww6j678em.cfd^
 ||7xcqu7-cdn-settings.appsflyersdk.com^
 ||7xcqu7-launches.appsflyersdk.com^
 ||7xffe5xwf7tb3cl6rqwlwqjp27yc7kb6pvc4rx9.cfd^
@@ -3916,6 +3919,7 @@
 ||9rqndd-conversions.appsflyersdk.com^
 ||9rqndd-launches.appsflyersdk.com^
 ||9s3g5vd8or.com^
+||9sgckbc7e.com^
 ||9soefyenw.com^
 ||9swovqnp52.com^
 ||9t9r2tkr9.com^
@@ -4578,6 +4582,7 @@
 ||accomplish89.com^
 ||accomplishmentailmentinsane.com^
 ||accompttalukas.cyou^
+||accountly.skin^
 ||accounts-analyticsapp.paytm.com^
 ||accounts.doubleclick.net^
 ||accountut.com^
@@ -7567,6 +7572,7 @@
 ||advertise.baicizhan.com^
 ||advertise.cloudlinks.cn^
 ||advertise.com^
+||advertise.microsoft.com^
 ||advertise.ru^
 ||advertisement2.bizedge.com^
 ||advertiserurl.com^
@@ -7700,6 +7706,7 @@
 ||adx-os.bridgeoos.com^
 ||adx-saas.advlion.com^
 ||adx-strategy-api-cn.statisticslinks.com^
+||adx-u-in.heytapmobile.com^
 ||adx-u-sg.heytapmobile.com^
 ||adx.4strokemedia.com^
 ||adx.adform.net^
@@ -15141,6 +15148,7 @@
 ||bavrpxrennvmw.space^
 ||bawdybalance.com^
 ||bawlerhanoi.website^
+||bawrelcuttail.com^
 ||baxtri.ru^
 ||bayimob.com^
 ||bayshorline.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -16366,7 +16374,6 @@
 ||bluesygayal.cfd^
 ||bluetrafficstream.com^
 ||bluewhaleweb.com^
-||blumcasino.com^
 ||blume-analytics-bd-s-2-0-1-114184e67c92.release.blume-codes.com^
 ||blumen-fusshoeller.de^
 ||blumen365.at^
@@ -16486,6 +16493,7 @@
 ||bobr.netphoenix.ru^
 ||bobstrecansky.com^
 ||bobunrahhwcfa.online^
+||bobztdbqdxrdng.com^
 ||bocaconsumo.cyou^
 ||bocaiwang.tmdss.com^
 ||bocasinsignaprelect.qpon^
@@ -16820,6 +16828,7 @@
 ||brennholz-land.com^
 ||brennholzhaus.com^
 ||brennholzullrich.com^
+||brennstoffhandel-behnke.de^
 ||breuermode.de^
 ||brevisliturgycymry.qpon^
 ||brewingeasel.com^
@@ -17083,6 +17092,7 @@
 ||bucarezend.cfd^
 ||bucetas.vip^
 ||bucheli.synology.me^
+||buchlaterne.de^
 ||buchnergmbh.com^
 ||buchsonderangebote.de^
 ||bucketlistbob.com^
@@ -18096,6 +18106,7 @@
 ||cauonpwdpaoqt.space^
 ||causingwhys.cfd^
 ||cautious60.com^
+||cavalcade86.com^
 ||cavallaholl.cyou^
 ||caveletganoine.qpon^
 ||cavera.click^
@@ -18317,7 +18328,6 @@
 ||cdn.ddmanager.ru^
 ||cdn.defractal.com^
 ||cdn.destinilocators.com^
-||cdn.dezacibesodexi.com^
 ||cdn.dfsdk.com^
 ||cdn.doubleverify.com^
 ||cdn.dv.tech^
@@ -19106,6 +19116,7 @@
 ||cks.connatix.com^
 ||ckwouavsimupd.space^
 ||ckybs.huskers.com^
+||cl-vcode-api.vivoglobal.com^
 ||cl.cabaulifestyle.com^
 ||cl.canva.com^
 ||cl.qualaroo.com^
@@ -19130,8 +19141,11 @@
 ||clarity-il.com^
 ||clarity.abacast.com^
 ||clarity.amcfirst.com^
+||clarity.bamboohr.com^
 ||clarity.com.mx^
 ||clarity.com.pl^
+||clarity.dexcom.de^
+||clarity.docebosaas.com^
 ||clarity.landian.la^
 ||clarity.microsoft.com^
 ||clarity.ms^
@@ -19257,7 +19271,10 @@
 ||clickadilla.com^
 ||clickadilla.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clickadsource.com^
+||clickadu.com.cdn.cloudflare.net^
 ||clickadu.com^$dnsrewrite=ad-block.dns.adguard.com[Adblock Plus]
+||clickadu.org^
+||clickadu.tech^
 ||clickaduads.com^
 ||clickafiliados.com.br^
 ||clickagents.com^
@@ -20649,6 +20666,7 @@
 ||countly.witglobal.net^
 ||countly.zecarte.fr^
 ||countlydata.pix.telekom.net^
+||countlytics.com^
 ||countlytics.online^
 ||counto.de^
 ||countok.de^
@@ -21150,6 +21168,7 @@
 ||csobpojistovna.122.2o7.net^
 ||csom844jkc.com^
 ||csos-prevalidated-telemetry-eu-central-1.s3.eu-central-1.amazonaws.com^
+||csos-prevalidated-telemetry-eu-west-1.s3.eu-west-1.amazonaws.com^
 ||csp-report.marketing.aws.dev^
 ||csp.godaddy.com^
 ||csp.prod.saga.co.uk^
@@ -22389,6 +22408,7 @@
 ||dataplane.rum.eu-south-2.amazonaws.com^
 ||datarangers-event.myrightone.com^
 ||datarating.com^
+||datariaarpent.com^
 ||datariver.ru^
 ||dataroid.com^
 ||dataroyal.com.br^
@@ -22984,6 +23004,7 @@
 ||dexchangegenius.com^
 ||dexpredict.com^
 ||dextralravi.cyou^
+||dezacibesodexi.com^
 ||dezhino.com^
 ||dezhou.hnambui01zs.com^
 ||df-prod-analytics.azurewebsites.net^
@@ -27116,6 +27137,7 @@
 ||eustmtegiln.com^
 ||eutrnfnm.com^
 ||euvitafarm.com^
+||euw1.smartadserver.com^
 ||euw2.smartadserver.com^
 ||euwins.makeup^
 ||eux6eonqhd.com^
@@ -28915,6 +28937,7 @@
 ||footsiebuhrs.cyou^
 ||foppedsnickgreenuk.cfd^
 ||fopperyrynds.com^
+||for96tweeezo7gcfb6i.cfd^
 ||foragesmokierleery.qpon^
 ||foramsthene.com^
 ||forayerkakatoe.qpon^
@@ -29030,6 +29053,7 @@
 ||foxydownloader.com^
 ||foymduhsapxqx.space^
 ||foysencourts.shop^
+||fozekikikiminu.com^
 ||fp-it-acc.fengkongcloud.com^
 ||fp-it-acc.portal101.cn^
 ||fp-it.fengkongcloud.com^
@@ -29704,6 +29728,7 @@
 ||g.mashable.com^
 ||g.mnw.cn^
 ||g.pcmag.com^
+||g.rtbrain.app^
 ||g.seksohub.com^
 ||g.smadex.com^
 ||g.tivan.naver.com^
@@ -29890,6 +29915,7 @@
 ||gamehackstudios.com^
 ||gameinstaller.ru^
 ||gamejump.site^
+||gamelade.vn^
 ||gamelinthroatydareall.cfd^
 ||gamemine.com^
 ||gamengirls.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -31684,6 +31710,7 @@
 ||gtm-metrics.snapfish.com^
 ||gtm-metrics.touridat.com^
 ||gtm-server.healthline.com^
+||gtm-ss-server-side-tagging-service-541593497677.europe-west4.run.app^
 ||gtm-ss-tagging.candypop.lt^
 ||gtm-ss.on.com^
 ||gtm-sst-se.mathem.se^
@@ -36220,6 +36247,7 @@
 ||jobbox-front.mamastar.jp^
 ||jobobike.de^
 ||jobs.t3n.de^
+||jobsnwebdisk.fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za^
 ||jocgl.ruggable.de^
 ||jocularbuy.cyou^
 ||joda.corriereadriatico.it^
@@ -36501,9 +36529,7 @@
 ||jspcdn.cn^
 ||jsqcxpvxnwdzs.space^
 ||jss.pages.dev^
-||jssdk.dezacibesodexi.com^
 ||jssdk.modusygunaciro.com^
-||jssdk.sixapypyfynela.com^
 ||jssdkcdn.mparticle.com^
 ||jst.ai^
 ||jsuffdjrzpwcw.site^
@@ -36584,7 +36610,6 @@
 ||jumprope.men^
 ||jumptap.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
-||jun85.com^
 ||juncatsooty.cfd^
 ||junclikrmedi.com^
 ||junetko.de^
@@ -37768,7 +37793,6 @@
 ||kuauoqvkuvppu.space^
 ||kubecloud.com^
 ||kubectx.org^
-||kucasinovn.asia^
 ||kucheninseln.de^
 ||kuchinawa.com^
 ||kucycb-cdn-settings.appsflyersdk.com^
@@ -37925,10 +37949,12 @@
 ||kz-pav-w-p-1.nashkan.net^
 ||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-prt-stsdk.vivoglobal.com^
+||kz-romsp-unifyconfig.vivoglobal.com^
 ||kz-st-exappupgrade.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
 ||kz-timesync.vivoglobal.com^
+||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||kz4uwomq4jnu6h.cfd^
@@ -39124,7 +39150,6 @@
 ||load.gtm.jeans-manufaktur.de^
 ||load.gtm.trainsimple.dk^
 ||load.gtm.uat.go2africa.com^
-||load.metrics.flyserb.com^
 ||load.s3.amazonaws.com^
 ||load.sgtm.aerotime.aero^
 ||load.sgtm.athena.eu^
@@ -39139,7 +39164,6 @@
 ||load.sgtm.kirakuco.co^
 ||load.sgtm.kirakuco.com^
 ||load.sgtm.metaflow.de^
-||load.sgtm.neuefische.de^
 ||load.sgtm.relaxos.sk^
 ||load.sgtm.shapenbarefoot.com^
 ||load.sgtm.skydebaneforeningen.dk^
@@ -43136,7 +43160,6 @@
 ||mellow.tel^
 ||mellowads.com^
 ||mellowtel.com^
-||mellstroy-bet.com^
 ||melodiouscomposition.com^
 ||meloshounder.com^
 ||melosthosnarc.cfd^
@@ -45623,6 +45646,7 @@
 ||mx-ort-stsdk.vivoglobal.com^
 ||mx-p.vivoglobal.com^
 ||mx-pnrt-stsdk.vivoglobal.com^
+||mx-rdx2-lgtvsdp-com.aws-prd.net^
 ||mx-romsp-unifyconfig.vivoglobal.com^
 ||mx-server-side-tagging-77257354832.us-central1.run.app^
 ||mx-st-sl.vivoglobal.com^
@@ -47063,6 +47087,7 @@
 ||nservw.net^
 ||nsg.symantec.com^
 ||nshow-apac1.smartadserver.com^
+||nshow-euw1.smartadserver.com^
 ||nshvjayrvuykf.online^
 ||nsignal.net^
 ||nsixrjjgqwio.com^
@@ -48291,7 +48316,11 @@
 ||openstat.eu^
 ||openstat.net^
 ||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
+||opentelemetry.aim.security^
+||opentelemetry.divar.ir^
 ||opentelemetry.hakasecurity.com^
+||opentelemetry.prod.door.com^
+||opentelemetry.prod.wwnorton.com^
 ||openwebmp.com^
 ||openx.angelsgroup.org.uk^
 ||openx.com^
@@ -48407,7 +48436,6 @@
 ||oqlfxv-inapps.appsflyersdk.com^
 ||oqlfxv-launches.appsflyersdk.com^
 ||oqmjiikaoomyy.online^
-||oqmwutbug.com^
 ||oqqaagrfdsaxu.online^
 ||oqri8s-cdn-settings.appsflyersdk.com^
 ||oqri8s-inapps.appsflyersdk.com^
@@ -48607,12 +48635,99 @@
 ||otaserve.net^
 ||otbfpy-cdn-settings.appsflyersdk.com^
 ||otclick-adv.ru^
+||otel-collector-123358924663.us-central1.run.app^
+||otel-collector-alloy-qa.cobasi.com.br^
+||otel-collector-bridge.services.simplisafe.com^
+||otel-collector-eu-central-1.island.io^
+||otel-collector-faro-prod.unimealplan.com^
+||otel-collector-mobile.mercadobitcoin.net^
 ||otel-collector.apollo247.in^
+||otel-collector.box8.co.in^
+||otel-collector.carestack.com^
+||otel-collector.castify.com^
+||otel-collector.create.vista.com^
+||otel-collector.disqotech.com^
+||otel-collector.engsys-stg-svc-we-01-b.stg.kubefabric.uipath.systems^
+||otel-collector.gem.com^
+||otel-collector.hwd.prod.nexters.team^
+||otel-collector.island.io^
+||otel-collector.kakaopaysec.com^
+||otel-collector.lo.lenta.tech^
+||otel-collector.mainnet.bls.dev^
+||otel-collector.mgmt.free-now.com^
+||otel-collector.moonpaycloud.com^
+||otel-collector.obdeleven.com^
+||otel-collector.pelminfra.com^
+||otel-collector.produktion.dvag^
 ||otel-collector.reliability.smartnews.net^
 ||otel-collector.ridedott.com^
+||otel-collector.taylorfrancis.com^
 ||otel-fr.dvdfab.me^
 ||otel-mobile.doordash.com^
 ||otel-us.dvdfab.me^
+||otel.ama.usfoods.com^
+||otel.amtrustgroup.com^
+||otel.app-eu-east.connecteam.com^
+||otel.app.connecteam.com^
+||otel.biscuit.so^
+||otel.chrisdoc.dev^
+||otel.click.uz^
+||otel.cline.bot^
+||otel.cloud.redocly.com^
+||otel.collector.na-01.cloud.solarwinds.com^
+||otel.cua.ai^
+||otel.data.primenetwork.io^
+||otel.eismann.digital^
+||otel.elastic.seequent.com^
+||otel.eu.legora.com^
+||otel.figoogoo.com^
+||otel.getautoclicker.com^
+||otel.getopenpay.com^
+||otel.gitkraken.com^
+||otel.gitlab-o11y.com^
+||otel.happypal.fr^
+||otel.healthkart.com^
+||otel.highlight.io^
+||otel.hyper.lukify.space^
+||otel.id.aok-ident.de^
+||otel.id.digital.barmer.de^
+||otel.izi.travel^
+||otel.k6n.net^
+||otel.kupujemprodajem.com^
+||otel.maketou.net^
+||otel.marcopolo.me^
+||otel.mixpanel.com^
+||otel.notability.com^
+||otel.observability.app.ld.catamorphic.com^
+||otel.otter.ai^
+||otel.ovivadiga.com^
+||otel.paychex.com^
+||otel.playcode.io^
+||otel.pley.com^
+||otel.prod.hit.zone^
+||otel.prod5.massive.ru^
+||otel.prod6.massive.ru^
+||otel.production.kops.goformative.com^
+||otel.production.pax8.com^
+||otel.production.traderepublic.com^
+||otel.pyannote.ai^
+||otel.qeevo.com.br^
+||otel.qhrtech.com^
+||otel.rdsec.trendmicro.com^
+||otel.scribehow.com^
+||otel.sea.restosuite.ai^
+||otel.services.functionhealth.com^
+||otel.solaborate.com^
+||otel.sre.pagaleve.com.br^
+||otel.sunnycars.app^
+||otel.surfe.com^
+||otel.sweedpos.com^
+||otel.traderepublic.com^
+||otel.us.legora.com^
+||otel.wallapop.com^
+||otel.welcometothejungle.com^
+||otel.wpify.io^
+||otel.zopa.com^
 ||otelev.com^
 ||otelwebtelemetry.com^
 ||otfozsat.in^
@@ -51927,6 +52042,7 @@
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||prod.fennec.atp.fox^
 ||prod.html5-ads.vk-apps.com^
+||prod.otel.kaizen.nvidia.com.homecenter.it-mit-alles.de^
 ||prod.report.nacustomerexperience.citi.com^
 ||prod.sgtm.westfield.com^
 ||prod.shop.analytics.kiliba.eu^
@@ -51954,6 +52070,7 @@
 ||production.wootric.com^
 ||productkeyscanner.com^
 ||products.gobankingrates.com^
+||productstore.clarity.dexcom.eu^
 ||proewildfire.cn^
 ||proext.com^
 ||prof-noemie-sgzopjv.work^
@@ -54451,6 +54568,7 @@
 ||revampcdn.com^
 ||revanced.net^
 ||revanced.org^
+||revancedapk.net^
 ||revancedapk.org^
 ||revancedapp.download^
 ||revancedyoutube.org^
@@ -55218,6 +55336,7 @@
 ||rtbuniverse.com^
 ||rtbuzz.net^
 ||rtbvast-apac1.smartadserver.com^
+||rtbvast-euw1.smartadserver.com^
 ||rtbvast-use1.smartadserver.com^
 ||rtbvast-usw1.smartadserver.com^
 ||rtbwave.com^
@@ -57030,9 +57149,11 @@
 ||server-side-tagging-1037254496037.us-central1.run.app^
 ||server-side-tagging-120677438498.australia-southeast1.run.app^
 ||server-side-tagging-127328350455.us-east1.run.app^
+||server-side-tagging-181347701518.europe-west4.run.app^
 ||server-side-tagging-231604340165.us-central1.run.app^
 ||server-side-tagging-23211202459.us-central1.run.app^
 ||server-side-tagging-24ilqwk7ja-uc.a.run.app^
+||server-side-tagging-274494928022.asia-southeast1.run.app^
 ||server-side-tagging-28486228545.europe-central2.run.app^
 ||server-side-tagging-2dkqos3lia-no.a.run.app^
 ||server-side-tagging-2tnwot2usa-uc.a.run.app^
@@ -57041,6 +57162,7 @@
 ||server-side-tagging-3jzkn4xgxa-uc.a.run.app^
 ||server-side-tagging-3nhuipc3vq-uc.a.run.app^
 ||server-side-tagging-3qqgpiw66a-uc.a.run.app^
+||server-side-tagging-3s3kpvygjq-uc.a.run.app^
 ||server-side-tagging-3stee4h35q-uc.a.run.app^
 ||server-side-tagging-3u3dmqrapa-uc.a.run.app^
 ||server-side-tagging-3vp7ormo3a-uc.a.run.app^
@@ -57053,6 +57175,7 @@
 ||server-side-tagging-4amklidimq-uc.a.run.app^
 ||server-side-tagging-4bzt5dsxdq-uc.a.run.app^
 ||server-side-tagging-4dwavhdkda-uc.a.run.app^
+||server-side-tagging-4ikuxs4jwq-uc.a.run.app^
 ||server-side-tagging-4l3whxusxq-uc.a.run.app^
 ||server-side-tagging-4pifm2yyeq-uc.a.run.app^
 ||server-side-tagging-4ptnomxg5q-uc.a.run.app^
@@ -57063,11 +57186,13 @@
 ||server-side-tagging-5cirqyshua-uc.a.run.app^
 ||server-side-tagging-5dmhru7sfa-uc.a.run.app^
 ||server-side-tagging-5tbint4yna-uc.a.run.app^
+||server-side-tagging-5x6i4jyjda-uc.a.run.app^
 ||server-side-tagging-5zxxe27evq-uc.a.run.app^
 ||server-side-tagging-633178361708.us-central1.run.app^
 ||server-side-tagging-69581242238.us-central1.run.app^
 ||server-side-tagging-6flfes5nfq-uc.a.run.app^
 ||server-side-tagging-6fteqhqa3a-uc.a.run.app^
+||server-side-tagging-6klgz7mhja-uc.a.run.app^
 ||server-side-tagging-6orgzp4uka-nw.a.run.app^
 ||server-side-tagging-6uv4wl3szq-uc.a.run.app^
 ||server-side-tagging-6wgucsd37a-uc.a.run.app^
@@ -57078,14 +57203,17 @@
 ||server-side-tagging-772335485284.us-central1.run.app^
 ||server-side-tagging-7c45d5nvpa-uc.a.run.app^
 ||server-side-tagging-7csmrshmxq-uc.a.run.app^
+||server-side-tagging-7i63wzov6a-uc.a.run.app^
 ||server-side-tagging-7lw5t4h42q-uc.a.run.app^
 ||server-side-tagging-7r5d7ylfna-uc.a.run.app^
+||server-side-tagging-7tlpjigozq-uc.a.run.app^
 ||server-side-tagging-7wj4jff3oa-uc.a.run.app^
 ||server-side-tagging-817626817137.europe-southwest1.run.app^
 ||server-side-tagging-833949469797.us-central1.run.app^
 ||server-side-tagging-879613626403.us-central1.run.app^
 ||server-side-tagging-937637482656.europe-north2.run.app^
 ||server-side-tagging-941346829819.us-west1.run.app^
+||server-side-tagging-960352234450.europe-west4.run.app^
 ||server-side-tagging-965440604880.europe-west1.run.app^
 ||server-side-tagging-a66hjzdi5q-uc.a.run.app^
 ||server-side-tagging-a7aqvs2z4q-uc.a.run.app^
@@ -57094,10 +57222,14 @@
 ||server-side-tagging-andl226g5a-uc.a.run.app^
 ||server-side-tagging-aqwpviq3ba-uc.a.run.app^
 ||server-side-tagging-atticnglhq-uc.a.run.app^
+||server-side-tagging-avv5ijykoa-uc.a.run.app^
 ||server-side-tagging-b7hlkr477a-uc.a.run.app^
+||server-side-tagging-bcxaxfa4mq-uc.a.run.app^
 ||server-side-tagging-blnbqlxcya-uc.a.run.app^
+||server-side-tagging-br24hb67ia-uc.a.run.app^
 ||server-side-tagging-buqob3b3sa-uc.a.run.app^
 ||server-side-tagging-buud3r3v2q-uc.a.run.app^
+||server-side-tagging-bvemdcufbq-uc.a.run.app^
 ||server-side-tagging-c4hjp3cw7q-uc.a.run.app^
 ||server-side-tagging-c5g5muxqcq-uc.a.run.app^
 ||server-side-tagging-c6f4gcuc6q-uc.a.run.app^
@@ -57107,6 +57239,7 @@
 ||server-side-tagging-cpx6utfzaq-od.a.run.app^
 ||server-side-tagging-cxpi757hva-uc.a.run.app^
 ||server-side-tagging-d7i4tg3ada-uc.a.run.app^
+||server-side-tagging-dghjubzd2q-uc.a.run.app^
 ||server-side-tagging-dymfz636ea-uc.a.run.app^
 ||server-side-tagging-e6lmc2b5aa-uc.a.run.app^
 ||server-side-tagging-e6oskpry3a-uc.a.run.app^
@@ -57117,20 +57250,27 @@
 ||server-side-tagging-europe-qvautbez2a-ew.a.run.app^
 ||server-side-tagging-europe-wxo75frbwq-ew.a.run.app^
 ||server-side-tagging-f5r56shkoq-uc.a.run.app^
+||server-side-tagging-f7ezrfncxq-uc.a.run.app^
 ||server-side-tagging-fb7rtb2p4q-uc.a.run.app^
+||server-side-tagging-fd6nimdtcq-uc.a.run.app^
 ||server-side-tagging-fo6omgg3vq-uc.a.run.app^
+||server-side-tagging-fqgh7f6ola-uc.a.run.app^
 ||server-side-tagging-fsfp5hnnjq-uc.a.run.app^
+||server-side-tagging-g2ksk5xbzq-uc.a.run.app^
 ||server-side-tagging-g2upphygha-uc.a.run.app^
 ||server-side-tagging-gaolcudvzq-uc.a.run.app^
 ||server-side-tagging-gauloises-x-liberte-890745626621.europe-west1.run.app^
 ||server-side-tagging-gk42wssofa-uc.a.run.app^
 ||server-side-tagging-gnry3h2g2a-uc.a.run.app^
+||server-side-tagging-gyl67xdq5q-uc.a.run.app^
+||server-side-tagging-gzainy6fua-uc.a.run.app^
 ||server-side-tagging-h2qw55nphq-uc.a.run.app^
 ||server-side-tagging-h3c27t5mba-uc.a.run.app^
 ||server-side-tagging-h3sa2x4bfa-uc.a.run.app^
 ||server-side-tagging-hagb5cf6bq-uc.a.run.app^
 ||server-side-tagging-hangnitwaa-uc.a.run.app^
 ||server-side-tagging-hdsbbjsfma-uc.a.run.app^
+||server-side-tagging-hh654hvlkq-uc.a.run.app^
 ||server-side-tagging-hhkx4245ra-uc.a.run.app^
 ||server-side-tagging-hhts27qfmq-uc.a.run.app^
 ||server-side-tagging-higlimivlq-uc.a.run.app^
@@ -57138,6 +57278,7 @@
 ||server-side-tagging-hobmgotkaq-uc.a.run.app^
 ||server-side-tagging-hovgb52ora-uc.a.run.app^
 ||server-side-tagging-hpfvfck6ya-uc.a.run.app^
+||server-side-tagging-hprk4ujoea-uc.a.run.app^
 ||server-side-tagging-hsc23bfc4q-uc.a.run.app^
 ||server-side-tagging-hunxqkc7ya-uc.a.run.app^
 ||server-side-tagging-hv5yrlcnda-uc.a.run.app^
@@ -57151,19 +57292,26 @@
 ||server-side-tagging-jay2rczlwq-uc.a.run.app^
 ||server-side-tagging-jblgeutuha-uc.a.run.app^
 ||server-side-tagging-jchnckwpqq-uc.a.run.app^
+||server-side-tagging-je6wwgx4oa-uc.a.run.app^
 ||server-side-tagging-jimaxebjya-uc.a.run.app^
 ||server-side-tagging-jirtxdu5ka-uc.a.run.app^
 ||server-side-tagging-jkaryw7dmq-uc.a.run.app^
 ||server-side-tagging-jrmp5xdfpq-uc.a.run.app^
 ||server-side-tagging-jtg7pqv2va-uc.a.run.app^
+||server-side-tagging-jzyw2wp2wa-uc.a.run.app^
+||server-side-tagging-k542s3m7rq-uc.a.run.app^
 ||server-side-tagging-kadti6f7ea-uc.a.run.app^
+||server-side-tagging-ke7xwu2npq-uc.a.run.app^
 ||server-side-tagging-kfabgrqsca-lz.a.run.app^
 ||server-side-tagging-kh6u2w5zpq-uc.a.run.app^
 ||server-side-tagging-kiny3eox4a-uc.a.run.app^
 ||server-side-tagging-kj55xmegda-uc.a.run.app^
+||server-side-tagging-kp74km7qlq-uc.a.run.app^
 ||server-side-tagging-kquh5nqcta-uc.a.run.app^
 ||server-side-tagging-kviu6q2a4q-uc.a.run.app^
 ||server-side-tagging-kxmoxggh4q-uc.a.run.app^
+||server-side-tagging-kymkfv4xka-uc.a.run.app^
+||server-side-tagging-l2nbpzfn7a-uc.a.run.app^
 ||server-side-tagging-l5zh3xlwrq-uc.a.run.app^
 ||server-side-tagging-l6ahfn6una-uc.a.run.app^
 ||server-side-tagging-lgnuqfahrq-uc.a.run.app^
@@ -57172,6 +57320,7 @@
 ||server-side-tagging-ls35bkc3eq-uc.a.run.app^
 ||server-side-tagging-lvqnmm64bq-uc.a.run.app^
 ||server-side-tagging-lxwfwdlp7q-ue.a.run.app^
+||server-side-tagging-ma3v5zc2rq-uc.a.run.app^
 ||server-side-tagging-maafcqllza-uc.a.run.app^
 ||server-side-tagging-mef4p4oegq-no.a.run.app^
 ||server-side-tagging-mhafvn3k2q-uc.a.run.app^
@@ -57179,8 +57328,10 @@
 ||server-side-tagging-n4tmbfzo7q-uc.a.run.app^
 ||server-side-tagging-n5stl6toya-uc.a.run.app^
 ||server-side-tagging-national-231604340165.us-central1.run.app^
+||server-side-tagging-ndweuah2cq-uc.a.run.app^
 ||server-side-tagging-nio-internet-282897195116.us-central1.run.app^
 ||server-side-tagging-nq4odeh2nq-uc.a.run.app^
+||server-side-tagging-nu7k25nftq-uc.a.run.app^
 ||server-side-tagging-nw5gv56yjq-uc.a.run.app^
 ||server-side-tagging-nyp67wtkcq-uc.a.run.app^
 ||server-side-tagging-o5in4ns5xq-uc.a.run.app^
@@ -57202,6 +57353,7 @@
 ||server-side-tagging-r7qomzfcoq-uc.a.run.app^
 ||server-side-tagging-rbuxs6hwkq-uc.a.run.app^
 ||server-side-tagging-rifea7tqga-uc.a.run.app^
+||server-side-tagging-rkjh5n4a6a-uc.a.run.app^
 ||server-side-tagging-s4pjfcxhta-uc.a.run.app^
 ||server-side-tagging-sgqwgydzyq-uc.a.run.app^
 ||server-side-tagging-sst-server-535210417832.europe-west3.run.app^
@@ -57221,6 +57373,7 @@
 ||server-side-tagging-u4xa4rswdq-uc.a.run.app^
 ||server-side-tagging-ubevk4keea-uc.a.run.app^
 ||server-side-tagging-ucsmgdamra-uc.a.run.app^
+||server-side-tagging-ucwrz57auq-uc.a.run.app^
 ||server-side-tagging-uf7tmkx7ga-uc.a.run.app^
 ||server-side-tagging-uhdgomz7ma-lm.a.run.app^
 ||server-side-tagging-uly3a6r7wq-uc.a.run.app^
@@ -57234,11 +57387,14 @@
 ||server-side-tagging-v2vsp4f6bq-uc.a.run.app^
 ||server-side-tagging-v7yx4unsjq-uc.a.run.app^
 ||server-side-tagging-vbqqliim3a-uc.a.run.app^
+||server-side-tagging-vcpduqocjq-uc.a.run.app^
 ||server-side-tagging-vgjy3f7sla-uc.a.run.app^
 ||server-side-tagging-vjhnjlwria-uc.a.run.app^
+||server-side-tagging-vutpnajuvq-uc.a.run.app^
 ||server-side-tagging-w2ab33aqka-uc.a.run.app^
 ||server-side-tagging-w66n5pxv4a-uc.a.run.app^
 ||server-side-tagging-wckz53bfpa-uc.a.run.app^
+||server-side-tagging-wgm6hmofvq-uc.a.run.app^
 ||server-side-tagging-wo2abhihha-uc.a.run.app^
 ||server-side-tagging-wuwbpq6cpa-uc.a.run.app^
 ||server-side-tagging-wxc52qxq3q-ey.a.run.app^
@@ -57250,6 +57406,7 @@
 ||server-side-tagging-y5b4w4fk4a-uc.a.run.app^
 ||server-side-tagging-yhpx4zblsq-uc.a.run.app^
 ||server-side-tagging-ykzfrilmoq-uc.a.run.app^
+||server-side-tagging-ylvmcd32jq-uc.a.run.app^
 ||server-side-tagging-ywfqmo3q4q-uc.a.run.app^
 ||server-side-tagging-yxapxrrzbq-uc.a.run.app^
 ||server-side-tagging-z3eitpgufa-uc.a.run.app^
@@ -58546,6 +58703,7 @@
 ||shop-bitboxswiss.de^
 ||shop-cart.app^
 ||shop-dnd.com^
+||shop-integration.clarity.microsoft.com^
 ||shop-kaminholz.de^
 ||shop-retrowave.at^
 ||shop-vergleicher.de^
@@ -58865,6 +59023,7 @@
 ||sivsjalnyugcu.site^
 ||six.net.pk^
 ||sixaindionym.qpon^
+||sixapypyfynela.com^
 ||sixqycphxgaru.website^
 ||sixsigmatraffic.com^
 ||sixthsensebusiness.com^
@@ -63569,6 +63728,7 @@
 ||strefa-filmu.pl^
 ||strefamlodych.pl^
 ||stregis.org^
+||stremmamofette.cfd^
 ||strengthdetention.com^
 ||strentgerard.qpon^
 ||strenuoustarget.com^
@@ -64955,6 +65115,7 @@
 ||tbyiahnrwcmnw.online^
 ||tbyt.club^
 ||tc-clicks.com^
+||tc-germany.com^
 ||tc-log.mattel163.com^
 ||tc.mnbvcxzq.com^
 ||tc.qzwxrtyk.com^
@@ -65888,6 +66049,7 @@
 ||theorcaslicer.com^
 ||theorem12.top^
 ||theoreticalassertshame.com^
+||thepeasant.co.uk^
 ||thepetcube.com^
 ||thepilatesstudionj.com^
 ||thepiratebay.com^
@@ -67187,6 +67349,7 @@
 ||tracking-3-9f58.trnox.com^
 ||tracking-adnet.vivo.com.cn^
 ||tracking-api-apac1.smartadserver.com^
+||tracking-api-euw1.smartadserver.com^
 ||tracking-api-use1.smartadserver.com^
 ||tracking-api-usw1.smartadserver.com^
 ||tracking-api.g2.com^
@@ -68235,6 +68398,7 @@
 ||turtlemobile.com.tw^
 ||turukusa.com^
 ||tusbpuqtobu.in^
+||tuskingobolary.com^
 ||tuskythehusky.tech^
 ||tussorstoluolsaphidid.qpon^
 ||tutelasunroom.cyou^
@@ -68256,6 +68420,7 @@
 ||tvhftcda.com^
 ||tvid.in^
 ||tvj8lylgv.com^
+||tvkladovo.com^
 ||tvlmzx.icu^
 ||tvlyzer.com^
 ||tvm-tv4-freewheel.akamaized.net^
@@ -70357,7 +70522,6 @@
 ||vanisoftware.com^
 ||vanmay.net^
 ||vannicdoolees.cyou^
-||vansfrance.fr^
 ||vanti-analytics.com^
 ||vao.cdn.trm.digital^
 ||vapeo2.com^
@@ -70497,6 +70661,7 @@
 ||vdmvyu.falk.de^
 ||vdna-assets.com^
 ||vdnh.cn^
+||vdnth.info^
 ||vdo.ai^
 ||vdopia.com^
 ||vdos-s.com^
@@ -71457,6 +71622,7 @@
 ||vserv.wkind.de^
 ||vsjalz.icu^
 ||vski.172896.xyz^
+||vslevitrav.com^
 ||vsqce.converse.com^
 ||vsqyaz.sweetwater.com^
 ||vsr4jyjpzb.com^
@@ -72398,6 +72564,7 @@
 ||webstats2.cyrano-services.de^
 ||webstats4u.com^
 ||webstorerx.com^
+||webstresser.co^
 ||webtags.logitech.com.greylabeldelivery.com^
 ||webtags.logitech.com^
 ||webtags.logitechg.com^
@@ -73352,7 +73519,6 @@
 ||wwlsem-launches.appsflyersdk.com^
 ||wwmode.de^
 ||wwnholzhandel-de.com^
-||wwopenclick.club^
 ||wwopenclick.space^
 ||wwopenclick.vip^
 ||wwpvpbktgoets.space^
@@ -73823,7 +73989,6 @@
 ||xa.poringa.net^
 ||xaacmotxhjji.xyz^
 ||xab4ma-inapps.appsflyersdk.com^
-||xactive.xyz^
 ||xad.dnoticias.pt^
 ||xadsmart.com^
 ||xadsmart.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -73850,7 +74015,6 @@
 ||xbasugigqiuegiwqdbsx.s3.ap-northeast-1.amazonaws.com^
 ||xbcpb668.com^
 ||xbigduck.com^
-||xbitty.com^
 ||xbkvsf-cdn-settings.appsflyersdk.com^
 ||xblockchecker*.pages.dev^
 ||xblocklist*.pages.dev^
@@ -73990,7 +74154,6 @@
 ||xh33g.net^
 ||xhabbeulalnqtd.com^
 ||xhamsterpremium.com^
-||xhamstertube.com^
 ||xhayx4v25b.com^
 ||xhckbgvd0.com^
 ||xhe87zexdk.com^
@@ -74284,7 +74447,6 @@
 ||xmxg518.com^
 ||xmxxrjnjvegvo.online^
 ||xmzvrkniutbxy.space^
-||xn----8sba2bimdokl0l.xn--p1ai^
 ||xn--12cg1cwavsheby0grcyae2puc3c5d.com^
 ||xn--42c9bsq2d4f7a2a.com^
 ||xn--42c9bsq2d4fsbu.com^
@@ -74303,8 +74465,6 @@
 ||xn--n8j0la8wb3547bghe.jp^
 ||xn--n8jwkyc7fw52nfvd.jp^
 ||xn--ngbcrg3b.com^
-||xn--renouvellement-sant-tzb.fr^
-||xn--see-m-4ta.re^
 ||xn--z9j635l1gs.jp^
 ||xn--z9jzga6u1506a.jp^
 ||xn.gombeencistron.cyou^
@@ -74342,7 +74502,6 @@
 ||xorg.pl^
 ||xorvhaedfqqji.site^
 ||xoslotz.agency^
-||xosogo.com^
 ||xoxitt.icu^
 ||xp.poodleshocuses.cyou^
 ||xp2023-pix.s3.amazonaws.com^
@@ -74751,7 +74910,6 @@
 ||yaodaipeishi.cn^
 ||yaolu.mh.163.com^
 ||yaolu.yuedu.163.com^
-||yapheating.com^
 ||yapockmerinos.cfd^
 ||yarcokme.com^
 ||yardanghypnic.cyou^
@@ -75022,7 +75180,6 @@
 ||ykhiwe-cdn-settings.appsflyersdk.com^
 ||ykhiwe-launches.appsflyersdk.com^
 ||ykhqhe.domain.com.au^
-||ykjmy.com^
 ||ykkhybgrbzqta.online^
 ||yklnrhkvnevxv.space^
 ||ykoza.com^
@@ -75126,7 +75283,6 @@
 ||yong.chazidian.com^
 ||yongv.com^
 ||yongyuelm.com^
-||yonibetcasino.fr^
 ||yoohal.com^
 ||yoomedia.de^
 ||yopmwlcblbgqp.online^
@@ -75554,7 +75710,6 @@
 ||zaimads.com^
 ||zainabchemicals.com^
 ||zaipfrotznorp.space^
-||zajazduzenka.pl^
 ||zakaria.website^
 ||zakladka.org.ua^
 ||zakuskaorlopsaweto.qpon^
@@ -75662,7 +75817,6 @@
 ||zcnxybfhsgghn.site^
 ||zcode17.com^
 ||zcode19.com^
-||zcopro.vip^
 ||zcp.zwame.pt^
 ||zcpajilbszv.com^
 ||zcswet.com^
@@ -75718,7 +75872,6 @@
 ||zdnhvgamvbmxt.online^
 ||zdplvkqnqkabw.site^
 ||zdr6wn2f5.com^
-||zdrowasfera.pl^
 ||zdroweporadniki.pl^
 ||zdtbxgodyfveg.space^
 ||zduwvutxoai.com^
@@ -75893,7 +76046,6 @@
 ||zhpcleaner.com^
 ||zhpymgpcxhzye.space^
 ||zhteknutoy.com^
-||zhuba8.com^
 ||zhudiaosz.com^
 ||zhuqellv.com^
 ||zhziofscdxvjh.online^
@@ -76094,7 +76246,6 @@
 ||zoom.us*web.us^
 ||zoom.zshu.net^
 ||zoomanalytics.co^
-||zoomconference.click^
 ||zoomd.com^
 ||zooqle.skin^
 ||zoosnet.net^
@@ -76272,7 +76423,6 @@
 ||zulaedha.com^
 ||zulkas.top^
 ||zulphaqaq.in^
-||zultrix.com^
 ||zululion.com^
 ||zumail.cz^
 ||zumnervl.com^
@@ -76291,6 +76441,7 @@
 ||zurwc3-cdn-settings.appsflyersdk.com^
 ||zurwc3-inapps.appsflyersdk.com^
 ||zurwc3-launches.appsflyersdk.com^
+||zuuvicdn.com^
 ||zux0uc-cdn-settings.appsflyersdk.com^
 ||zux0uc-conversions.appsflyersdk.com^
 ||zux0uc-launches.appsflyersdk.com^
@@ -76380,7 +76531,6 @@
 ||zylayuwihzelv.space^
 ||zymerget.win^
 ||zync-stream.com^
-||zyrfanli.com^
 ||zyskoro.app^
 ||zyuwjxerthht.com^
 ||zyxyfy.com^
