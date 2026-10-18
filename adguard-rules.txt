@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-10-18-06:11AM(UTC+8)
-! Total rules: 72644
+! Last modified: 2026-10-18-12:18PM(UTC+8)
+! Total rules: 72666
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -100,6 +100,8 @@
 @@||ad.doubleclick.net^
 @@||ad.dyntracker.de^
 @@||ad.lifesight.io^
+@@||ad.trafficgate.net^
+@@||ad2.trafficgate.net^
 @@||adaxxcloud.com^
 @@||adfoc.us^
 @@||adform.com^
@@ -588,6 +590,7 @@
 @@||metric.picodi.com^
 @@||mg.mail.notion.so^
 @@||micpn.com^
+@@||mjt.lu^
 @@||mkto-*.com^
 @@||mktoweb.com^
 @@||mmtro.com^
@@ -1551,6 +1554,7 @@
 ||16mzw9gff.com^
 ||16xxq8lb4g.com^
 ||17.huanqiu.com^
+||1733kty2413q3u8ue6qm9v4.cfd^
 ||1736js66.com^
 ||173lineage.com^
 ||175black.com^
@@ -2165,7 +2169,6 @@
 ||3245duu17z.com^
 ||3265712586351oof.com^
 ||32azzino777.net^
-||32crash.com^
 ||32e5va-cdn-settings.appsflyersdk.com^
 ||32e5va-launches.appsflyersdk.com^
 ||32nk.com^
@@ -2562,6 +2565,7 @@
 ||4l5bbkug99.com^
 ||4lbk4yuhj5upn7vvkl.cfd^
 ||4leb0e.ru^
+||4lqs5j3ckn.com^
 ||4ls5qt-cdn-settings.appsflyersdk.com^
 ||4ls5qt-inapps.appsflyersdk.com^
 ||4ls5qt-launches.appsflyersdk.com^
@@ -3602,6 +3606,7 @@
 ||8k9ynfczfd.com^
 ||8khgnlxk6.com^
 ||8kjqhjz82xu6fb4b4516829.cfd^
+||8knr271u7y5ve8q13.cfd^
 ||8kwmh8h5myqkf951t5.cfd^
 ||8le8le.com^
 ||8lj6g9gz4.com^
@@ -7833,6 +7838,7 @@
 ||airport89.com^
 ||airpr.com^
 ||airpush.com^
+||airsick32.com^
 ||airsonett.se^
 ||airtag-apple.fr^
 ||ais.wetter.de^
@@ -8241,7 +8247,6 @@
 ||alwxamfivx.com^
 ||alx-api.exponea.com^
 ||alxbgo.com^
-||alyssapizermanagementblog.com^
 ||alzns.carters.com^
 ||am-analytics.co.uk^
 ||am.szhome.com^
@@ -12907,6 +12912,7 @@
 ||app-defituna.github.io^
 ||app-deutschebank.com^
 ||app-download.kuashouban.com^
+||app-events.infoapps.apple.com^
 ||app-fnsp-matomo-analytics-prod.azurewebsites.net^
 ||app-goal.com^
 ||app-google-zh.hl.cn^
@@ -13951,7 +13957,6 @@
 ||avsplow.com^
 ||avsvmcloud.com^
 ||avszjedalkciq.space^
-||avtech-ltd.com^
 ||avtoizkorei.com^
 ||avult.jamesavery.com^
 ||avvsagvuwgddt.space^
@@ -19552,6 +19557,7 @@
 ||contadorvisitasgratis.com^
 ||contadorweb.com^
 ||contagion77.com^
+||containerstahlhaus.com^
 ||containerworldllc.store^
 ||contanuity.com^
 ||contatoreaccessi.com^
@@ -21724,6 +21730,7 @@
 ||dcdivas.com^
 ||dcdlnxglgfmpl.online^
 ||dcengg.org^
+||dcfxk68sp2.com^
 ||dcinfos-cache.abtasty.com^
 ||dcithakovinru.online^
 ||dclk-match.dotomi.com^
@@ -24608,6 +24615,7 @@
 ||errnewlog.umeng.com^
 ||errnewlogos.umeng.com^
 ||error-tracker.pages.dev^
+||errorartisticmanslaughter.com^
 ||errordomain.com^
 ||errorordufhwe.s3.ap-south-1.amazonaws.com^
 ||errs.qwrt.xyz^
@@ -26104,6 +26112,7 @@
 ||file.daihuo.qq.com^
 ||fileave.com^
 ||filebaseprotector.com^
+||filedragonspire.com^
 ||filefindme.xyz^
 ||fileh.xyz^
 ||filei.top^
@@ -27068,6 +27077,7 @@
 ||fsbozl.dillards.com^
 ||fsell.biz^
 ||fservr.com^
+||fsfptzxqdvvnze.com^
 ||fsfwbmbtufxny.website^
 ||fsl5gc-cdn-settings.appsflyersdk.com^
 ||fsl5gc-conversions.appsflyersdk.com^
@@ -31376,12 +31386,14 @@
 ||i5qquywfz.com^
 ||i5rd6bukys.com^
 ||i5rp73ne9h.com^
+||i5u85h973w93o1ghy4uiggnlq2qe2.cfd^
 ||i6.weather.oppomobile.com^
 ||i6nnwepgm.com^
 ||i73u6dnnh.com^
 ||i7bqmgn87.com^
 ||i7kawpnwhb.com^
 ||i7mfm1hl44.com^
+||i7n4z9k.lat^
 ||i7vc2b-gcdsdk.appsflyersdk.com^
 ||i7vc2b-inapps.appsflyersdk.com^
 ||i7vc2b-launches.appsflyersdk.com^
@@ -31730,6 +31742,7 @@
 ||igwr3x-cdn-settings.appsflyersdk.com^
 ||igwr3x-launches.appsflyersdk.com^
 ||igzhfupdpsk.com^
+||ih0glt0eq.com^
 ||ih4bsf-cdn-settings.appsflyersdk.com^
 ||ih4bsf-conversions.appsflyersdk.com^
 ||ih4bsf-gcdsdk.appsflyersdk.com^
@@ -33144,6 +33157,7 @@
 ||jabbedsamel.cfd^
 ||jabkcpxbeqouw.website^
 ||jabturfembitter.com^
+||jacaminfley.com^
 ||jackboxsheathe.cyou^
 ||jacketamerica.com^
 ||jackieantapex.cfd^
@@ -33536,6 +33550,7 @@
 ||jlpghlczoauec.space^
 ||jlrgovibptuzp.online^
 ||jlujxipdixrw.com^
+||jlulrz094u.com^
 ||jlxlrgrlxtrda.com^
 ||jlxnesex.in^
 ||jm3uvitq0.com^
@@ -34099,6 +34114,7 @@
 ||k276.kymensanomat.fi^
 ||k2bividyt.com^
 ||k2n0f.cn^
+||k2r9x4b.lat^
 ||k3c2rk-cdn-settings.appsflyersdk.com^
 ||k3c2rk-inapps.appsflyersdk.com^
 ||k3c2rk-launches.appsflyersdk.com^
@@ -34599,6 +34615,7 @@
 ||kingtrck1.com^
 ||kingwam.com^
 ||kinkadservercdn.com^
+||kino-citys.shop^
 ||kinobaza.pl^
 ||kinoclub.org^
 ||kinolib.com^
@@ -45706,6 +45723,7 @@
 ||otkhyc.bueromarkt-ag.de^
 ||otkxjlivjzfby.site^
 ||otl.minefun.io^
+||otlp.o11y.goodnotes-devops.com^
 ||otm-r.com^
 ||otoadom.com^
 ||otomachi.jp^
@@ -50689,6 +50707,7 @@
 ||rebevengwas.com^
 ||rebill.me^
 ||reblameqm.cyou^
+||reboltnyoro.com^
 ||rebootsormers.com^
 ||rebudpotboy.cyou^
 ||rebuffmealy.com^
@@ -61819,7 +61838,6 @@
 ||telegraph.prd.api.discomax.com^
 ||telegraph.prd.api.discoveryplus.com^
 ||telegraph.prd.api.hbomax.com^
-||teleksdrag.beer^
 ||telemediaa.pl^
 ||telemetric-apis.reolink.com.cdn.cloudflare.net^
 ||telemetric-apis.reolink.com^
@@ -62408,7 +62426,6 @@
 ||theapkhunter.com^
 ||theardent.group^
 ||theartboulevard.org^
-||theaterafisha.eu.cc^
 ||thebestlinks.com^
 ||thebestpaints.com^
 ||thebicyclehut.com^
@@ -63370,6 +63387,7 @@
 ||tr-err-up.vivoglobal.com^
 ||tr-event.dengage.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
+||tr-inapp.lib.dengage.com^
 ||tr-monday.xyz^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
@@ -66956,6 +66974,7 @@
 ||ve27ud-cdn-settings.appsflyersdk.com^
 ||ve27ud-inapps.appsflyersdk.com^
 ||ve27ud-launches.appsflyersdk.com^
+||ve5njy.top^
 ||veaifvwjboylc.site^
 ||vebggmkvdofpw.site^
 ||vectoragents.ai^
@@ -69118,6 +69137,7 @@
 ||winamaxparis.fr^
 ||winbaicai.com^
 ||winconnectdigital.org^
+||windeelseated.com^
 ||windhawk.me^
 ||winding-hurt.com^
 ||windirstat.org^
@@ -69328,6 +69348,7 @@
 ||woi17p-cdn-settings.appsflyersdk.com^
 ||woi17p-inapps.appsflyersdk.com^
 ||woi17p-launches.appsflyersdk.com^
+||woidwlqgahf.top^
 ||woitznohskwpz.online^
 ||woiwohdwfpc.com^
 ||wokm8isd4zit.com^
@@ -72059,6 +72080,7 @@
 ||zevs-light.shop^
 ||zewkj.com^
 ||zextworks.co.jp^
+||zexudnxmjadlzg.com^
 ||zf.duryltubbist.com^
 ||zf56jef1dd.com^
 ||zfbxhf-inapps.appsflyersdk.com^
