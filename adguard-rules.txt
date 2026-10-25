@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-10-25-12:29PM(UTC+8)
-! Total rules: 81016
+! Last modified: 2026-10-25-09:08PM(UTC+8)
+! Total rules: 81019
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -33095,6 +33095,7 @@
 ||gznsbr-inapps.appsflyersdk.com^
 ||gznsbr-launches.appsflyersdk.com^
 ||gzpinda.com^
+||gzq7cji8e.com^
 ||gzsy12348.com^
 ||gzuibprpbazla.site^
 ||gzuvq.sanitairkamer.nl^
@@ -39762,7 +39763,7 @@
 ||ledger-live*-*.io^
 ||ledger-nano.com^
 ||ledger-wallet.gitlab.io^
-||ledger.net.cn^[Adblock Plus]
+||ledger.net.cn^
 ||ledgerapp.created.app^
 ||ledgerlive.fr^
 ||ledgersso.created.app^
@@ -50351,6 +50352,8 @@
 ||onmicrosoft.co^
 ||onmitsu.jp^
 ||onopenbooks.com^
+||onpointcu.portalaccess.app^[Adblock Plus]
+||onpointfcu.com^
 ||onrdtavwodzi.in^
 ||onrt-stsdk.vivo.com.cn^
 ||onrunningsale.com^
