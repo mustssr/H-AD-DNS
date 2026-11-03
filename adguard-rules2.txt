@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS-PLUS
-! Last modified: 2026-11-03-07:49PM(UTC+8)
-! Total rules: 95065
+! Last modified: 2026-11-04-03:25AM(UTC+8)
+! Total rules: 95067
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -34613,6 +34613,7 @@
 ||fdns2.dismail.de^
 ||fdolspwa.my^$dnsrewrite=ad-block.dns.adguard.com
 ||fdrolcpafasws.online^
+||fdseb8s0y.com^
 ||fdssklrlpqhxt.site^
 ||fdsur.com^
 ||fdtarpaueilvrs.com^
@@ -45334,6 +45335,7 @@
 ||kbzcg.ryzesuperfoods.com^
 ||kbzdxt.com^
 ||kc30leutua.top^
+||kca7afgqg.com^
 ||kcbpu5-cdn-settings.appsflyersdk.com^
 ||kcbpu5-conversions.appsflyersdk.com^
 ||kcbpu5-dlsdk.appsflyersdk.com^
