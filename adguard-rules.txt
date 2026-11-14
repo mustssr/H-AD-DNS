@@ -1,6 +1,6 @@
 ! Title: H-AD-DNS
-! Last modified: 2026-11-14-07:22PM(UTC+8)
-! Total rules: 99651
+! Last modified: 2026-11-15-01:55AM(UTC+8)
+! Total rules: 99654
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -8137,7 +8137,6 @@
 ||ads-img.mozilla.org^
 ||ads-impressions.com^
 ||ads-inmobi-comtm.trafficmanager.net^
-||ads-jp.tiktok.com^
 ||ads-js-prd-cvcf4dpepa-an.a.run.app^
 ||ads-kc-nfl.yinzcam.com^
 ||ads-leaseweb.appsgeyser.com^
@@ -8921,7 +8920,6 @@
 ||ads.thumbtribe.co.za^
 ||ads.tiempo.com.mx^
 ||ads.tierralindaschool.org^
-||ads.tiktok.com^
 ||ads.tiktokw.us^
 ||ads.tinysecretgames.com^
 ||ads.tirol-erleben.at^
@@ -9532,7 +9530,6 @@
 ||adstudio-asset-lib.flashtalking.com^
 ||adstudio-assets.scdn.co^
 ||adstudio.cloud^
-||adstudio.spotify.com^
 ||adstune.com^
 ||adstxtmarket.com^
 ||adsunflower.com^
@@ -9786,7 +9783,6 @@
 ||advertiseserve.com^
 ||advertisespace.com^
 ||advertising-api-eu.amazon.com^
-||advertising-api-fe.amazon.com^
 ||advertising-api.amazon.com^
 ||advertising-cdn.com^
 ||advertising-cdn.dpgmedia.cloud.edgekey.net^
@@ -17857,6 +17853,7 @@
 ||apmcx60sm5.com^
 ||apmmaersk.122.2o7.net^
 ||apmplus.ap-southeast-1.volces.com^
+||apmplus.volces.com^
 ||apnpr.com^
 ||apnsynapse.com^
 ||apnx-match.dotomi.com^
@@ -26304,6 +26301,7 @@
 ||client-telemetry.hingeprod.net^
 ||client-telemetry.roblox.com^
 ||client-tracking.omiapp.me^
+||client-upload.cn-shanghai.log.aliyuncs.com^
 ||client.*-blockfi.com^
 ||client.c6gj-static.net^
 ||client.earnapp.com^
@@ -28630,7 +28628,6 @@
 ||csi-stock-analytics-dev.codelayer.io^
 ||csicskalangos.com^
 ||csikszentmihaly.ro^
-||csjplatform.com^
 ||cskh-vib-
 ||cskh-vib.
 ||cskhdienmayxanh.com^
@@ -32558,6 +32555,7 @@
 ||dtxudj.com^
 ||dtym7iokkjlif.cloudfront.net^
 ||dtyry4ejybx0.cloudfront.net^
+||du-app.cn-hangzhou.log.aliyuncs.com^
 ||du0.jp^
 ||du0pud0sdlmzf.cloudfront.net^
 ||du1.bbdj.com^
@@ -39751,6 +39749,7 @@
 ||gm-ad-lgsmartad-com.aws-prd.net^
 ||gm.mmstat.com^
 ||gmads.net^
+||gmai.com^
 ||gmailpc.com^
 ||gmailykir.ebforms.com^
 ||gmamq.com^
@@ -49830,6 +49829,7 @@
 ||leyf5q4rk.com^
 ||lezbiyanki.net^
 ||lezplamgzs.com^
+||lf-event-manager.oceanengine.com^
 ||lf-static.tiktokpangle-cdn-us.com^
 ||lf2cgxz0b.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
@@ -57709,6 +57709,7 @@
 ||microsoft-support.net^
 ||microsoft-update.support^
 ||microsoft-verify.glitch.me^
+||microsoft-winupdate.com^
 ||microsoft23-uslive4.online^
 ||microsofthk.com^
 ||microsofthotmailsi1.wixsite.com^
@@ -74698,6 +74699,7 @@
 ||securedata.colruytgroupacademy.be^
 ||securedata.dats24.be^
 ||securedata.okay.be^
+||securedoc.*.workers.dev^
 ||securedvisit.com^
 ||secureforms.egi.co.uk^
 ||securegate.xyz^
@@ -76934,6 +76936,8 @@
 ||shieldsompay.qpon^
 ||shiftexten.com^
 ||shifu.hotstarext.com^
+||shihuo-new.log.shihuocdn.cn^
+||shihuo.log.shihuocdn.cn^
 ||shikosharply.shop^
 ||shilfapalamaenaoto.qpon^
 ||shili.downxia.com^
@@ -90762,7 +90766,6 @@
 ||union-mlog.bigda.com^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||union-wifi.com^
-||union.baidu.cn^
 ||union.baidu.com^
 ||union.china.com.cn^
 ||union.macoms.la^
